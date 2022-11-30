@@ -7,7 +7,7 @@ The following list contains a total of 487 equipment assets from Mechwarrior 5 w
 * Yet Another Weapon (by [cszolee79](https://steamuserimages-a.akamaihd.net/ugc/1835781207658472182/E100D8B7BA3E11D202713DD03B3E4939CC322D0A/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
 * Yet Another Weapon Clan (by [cszolee79](https://steamuserimages-a.akamaihd.net/ugc/1839162769839545451/139164F4E1877A87CD7C360894D09B6158972BDE/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
 
-## Filter ammunition
+## Ammunition
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -257,7 +257,7 @@ Name|Size|Weight|Year|Asset Name
 [RAC/20 Double Ammo](equipment/trueg_RAC20_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3069|trueg_RAC20_AmmoEquipment_Double
 [RAC/20 Half Ammo](equipment/trueg_RAC20_AmmoEquipment_Half_details.md)|Critical slots: 1|0.5 tons|3069|trueg_RAC20_AmmoEquipment_Half
 
-## Filter cooling equipment
+## cooling equipment
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -283,7 +283,7 @@ Name|Size|Weight|Year|Asset Name
 [Double Heat Sink (QS)](equipment/DHS_QS_details.md)|Critical slots: 2|1.0 tons|3045|DHS_QS
 [Engine Heatsink Removal (QS)](equipment/ENGINE_HS_REMOVAL_QS_details.md)|Critical slots: 1|-1.25 tons|3045|ENGINE_HS_REMOVAL_QS
 
-## Filter mobility equipment
+## Mobility Equipment
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -329,7 +329,7 @@ Name|Size|Weight|Year|Asset Name
 [MASC MK IV (C)](equipment/C79_MASC_MKIV_details.md)|Critical slots: 3|3.0 tons|3055|C79_MASC_MKIV
 [MASC MK V (C)](equipment/C79_MASC_MKV_details.md)|Critical slots: 4|4.0 tons|3055|C79_MASC_MKV
 
-## Filter electronics
+## Electronics
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -363,7 +363,7 @@ Name|Size|Weight|Year|Asset Name
 [Angel ECM](equipment/ANGEL_ECM_details.md)|Critical slots: 2|2.0 tons|3045|ANGEL_ECM
 [Command Console](equipment/COMMAND_CONSOLE_details.md)|Critical slots: 3 (cockpit +  life support)|1.0 tons|3045|COMMAND_CONSOLE
 
-## Filter armor and structure
+## Armor and Structure
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -398,7 +398,7 @@ Name|Size|Weight|Year|Asset Name
 [Structure Endo-TSM](equipment/ENDO_TSM_details.md)|Critical slots: 1 (dynamic: 12) (structure)|0.0 tons|3067|ENDO_TSM
 [Armor NSS](equipment/ARMOR_NSS_details.md)|Critical slots: 1 (fixed: 6) (armor)|0.0 tons|3045|ARMOR_NSS
 
-## Filter misc equipment
+## Misc Equipment
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -452,7 +452,7 @@ Name|Size|Weight|Year|Asset Name
 [Advanced UAV Drone](equipment/UAVDroneAdv_79_details.md)|Critical slots: 1|1.0 tons|3038|UAVDroneAdv_79
 [UAV Drone](equipment/UAVDrone_79_details.md)|Critical slots: 1|1.0 tons|3015|UAVDrone_79
 
-## Filter engines cores
+## Engines Cores
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -520,7 +520,7 @@ Name|Size|Weight|Year|Asset Name
 [Engine Core 60](equipment/std60_details.md)|Critical slots: 1|1.5 tons|2025|std60
 [Engine Core 90](equipment/std90_details.md)|Critical slots: 1|3.0 tons|3000|std90
 
-## Filter engine types
+## Engine Types
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
