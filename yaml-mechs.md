@@ -1,6 +1,6 @@
 # Yet Another Mech Variants List
 
-The following list contains a total of 661 'mech variants from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
+The following list contains a total of 673 'mech variants from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
 * OmniCore - Lore-Friendly (by Snafulator)
 * Summoner / Thor (Classic) YAML (by SankaraSamsara)
 * T6M's Marauder V (YAML/YAW) (by [The6thMessenger + StardragonEX](https://www.nexusmods.com/mechwarrior5mercenaries/mods/692))
@@ -369,10 +369,17 @@ The following list contains a total of 661 'mech variants from Mechwarrior 5 wit
 |TBT-7M|3048|1348|25|9|0|3|3|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Fast Reload (Torso)](yaml-quirks.md#FAST-RELOAD-TORSO)||
 |TBT-9R|3131|2165|42|15|0|4|4|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Fast Reload (Torso)](yaml-quirks.md#FAST-RELOAD-TORSO)|Yet Another Special Variant|
 |TBT-LG|3015|1149|25|12|0|2|4|1|2|[Loup De Guerre](yaml-quirks.md#TBT-LG), [Trebuchet Hero Endurance](yaml-quirks.md#TBT-HERO), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Fast Reload (Torso)](yaml-quirks.md#FAST-RELOAD-TORSO)||
+### Ursus (50t)
+|Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|USS-1|3059|1245|25|12|0|5|2|1|2|[Clan](yaml-quirks.md#clan-mech), [Protected Actuators](yaml-quirks.md#PROTECTED-ACTUATOR), [Distracting](yaml-quirks.md#DISTRACTING)|YetAnotherClanMech|
+|USS-2|3074|1438|25|15|3|2|0|1|2|[Clan](yaml-quirks.md#clan-mech), [Protected Actuators](yaml-quirks.md#PROTECTED-ACTUATOR), [Distracting](yaml-quirks.md#DISTRACTING)|YetAnotherClanMech|
+|USS-3|3079|899|25|9|5|3|0|1|2|[Clan](yaml-quirks.md#clan-mech), [Protected Actuators](yaml-quirks.md#PROTECTED-ACTUATOR), [Distracting](yaml-quirks.md#DISTRACTING)|YetAnotherClanMech|
+|USS-II|3078|1448|25|15|0|5|2|1|2|[Clan](yaml-quirks.md#clan-mech), [Protected Actuators](yaml-quirks.md#PROTECTED-ACTUATOR), [Distracting](yaml-quirks.md#DISTRACTING)|YetAnotherClanMech|
 ### Black Lanner (55t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|BKL-PRIME|3052|2223|48|23|5|5|5|0|0|[Clan](yaml-quirks.md#clan-mech), [OmniMech](yaml-quirks.md#OMNI-MECH)|YetAnotherClanMech|
+|BKL-PRIME|3052|2223|48|23|13|14|12|1|0|[Clan](yaml-quirks.md#clan-mech), [OmniMech](yaml-quirks.md#OMNI-MECH)|YetAnotherClanMech|
 ### Dervish IIC (55t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -851,6 +858,17 @@ The following list contains a total of 661 'mech variants from Mechwarrior 5 wit
 |HGN-HM|3018|2065|46|21|2|3|2|1|2|[Heavy Metal](yaml-quirks.md#HGN-HM), [Highlander Hero Endurance](yaml-quirks.md#HGN-HERO), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Cowl](yaml-quirks.md#COWL), [Difficult Ejection](yaml-quirks.md#DIFFICULT-EJECT), [Reinforced Legs](yaml-quirks.md#REINFORCED-LEGS)||
 |HGN-LV|3017|2065|46|21|0|8|0|2|2|[Laser Vomit](yaml-quirks.md#HGN-LV), [Highlander Hero Endurance](yaml-quirks.md#HGN-HERO), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Cowl](yaml-quirks.md#COWL), [Difficult Ejection](yaml-quirks.md#DIFFICULT-EJECT), [Reinforced Legs](yaml-quirks.md#REINFORCED-LEGS)|Yet Another Mechlab|
 |HGN-RS|3028|1731|46|18|2|3|1|2|2|[Melee Specialization](yaml-quirks.md#MELEE), [Redshank](yaml-quirks.md#HGN-RS), [Highlander Hero Endurance](yaml-quirks.md#HGN-HERO), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Cowl](yaml-quirks.md#COWL), [Difficult Ejection](yaml-quirks.md#DIFFICULT-EJECT), [Reinforced Legs](yaml-quirks.md#REINFORCED-LEGS)||
+### Mad Cat MkII (90t)
+|Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|MCII-1|3066|4389|41|47|2|4|2|1|0|[Clan](yaml-quirks.md#clan-mech), [Improved Targeting (Medium)](yaml-quirks.md#IMPROVED-TARGETING-MEDIUM)|YetAnotherClanMech|
+|MCII-2|3069|3950|41|42|2|2|4|1|0|[Clan](yaml-quirks.md#clan-mech), [Improved Targeting (Medium)](yaml-quirks.md#IMPROVED-TARGETING-MEDIUM)|YetAnotherClanMech|
+|MCII-3|3082|4435|41|47|2|4|2|1|0|[Clan](yaml-quirks.md#clan-mech), [Improved Targeting (Medium)](yaml-quirks.md#IMPROVED-TARGETING-MEDIUM)|YetAnotherClanMech|
+|MCII-4|3090|4146|41|44|0|4|2|1|0|[Clan](yaml-quirks.md#clan-mech), [Improved Targeting (Medium)](yaml-quirks.md#IMPROVED-TARGETING-MEDIUM)|YetAnotherClanMech|
+|MCII-5|3109|3487|41|36|1|3|1|1|0|[Clan](yaml-quirks.md#clan-mech), [Improved Targeting (Medium)](yaml-quirks.md#IMPROVED-TARGETING-MEDIUM)|YetAnotherClanMech|
+|MCII-6|3139|3717|41|39|0|6|0|1|0|[Clan](yaml-quirks.md#clan-mech), [Improved Targeting (Medium)](yaml-quirks.md#IMPROVED-TARGETING-MEDIUM)|YetAnotherClanMech|
+|MCII-DS|3066|3920|41|63|2|6|0|1|0|[Mad Cat Mk II Hero Armor](yaml-quirks.md#MCII-HERO), [Deathstrike](yaml-quirks.md#MCII-DEATHSTRIKE), [Clan](yaml-quirks.md#clan-mech), [Improved Targeting (Medium)](yaml-quirks.md#IMPROVED-TARGETING-MEDIUM)|YetAnotherClanMech|
+|MCII-EH|3083|3824|41|41|0|6|2|1|0|[Clan](yaml-quirks.md#clan-mech), [Improved Targeting (Medium)](yaml-quirks.md#IMPROVED-TARGETING-MEDIUM)|YetAnotherClanMech|
 ### Mauler (90t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|

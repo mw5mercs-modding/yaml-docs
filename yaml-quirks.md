@@ -1373,12 +1373,23 @@ This 'Mech has a robust targeting system that makes it easier to hit enemy targe
 
 Quirk name: `IMPROVED-TARGETING`
 <h2 id="IMPROVED-TARGETING-LONG">Improved Targeting (Long)</h2>
-This mech has superior long-range targeting equipment.
+This mech has superior long-range targeting equipment. This includes LRMs, ER lasers, AC2, Gauss among others.
 
-* Ranged weapon optimal range modifier: +8.0 %
-* Ranged weapon max range modifier: +8.0 %
+* Long-ranged weapon spread radius modifier: -5.0 %
+* Long-ranged weapon projectile speed modifier: +10.0 %
+* Long-ranged weapon optimal range modifier: +5.0 %
+* Long-ranged weapon max range modifier: +5.0 %
 
 Quirk name: `IMPROVED-TARGETING-LONG`
+<h2 id="IMPROVED-TARGETING-MEDIUM">Improved Targeting (Medium)</h2>
+This mech has superior medium-range targeting equipment. This includes medium lasers, MRMs, AC10, among others.
+
+* Medium-ranged weapon spread radius modifier: -5.0 %
+* Medium-ranged weapon projectile speed modifier: +10.0 %
+* Medium-ranged weapon optimal range modifier: +5.0 %
+* Medium-ranged weapon max range modifier: +5.0 %
+
+Quirk name: `IMPROVED-TARGETING-MEDIUM`
 <h2 id="IMPROVED_LIFE_SUPPORT">Improved Life Support</h2>
 This 'mech's life support systems are superior to standard ones.
 
@@ -1754,6 +1765,28 @@ Sadly, it was born a mere Marauder II. It comes, however, with built-in gauss bo
 * Gauss damage modifier: +15.0 %
 
 Quirk name: `matar`
+<h2 id="MCII-DEATHSTRIKE">Deathstrike</h2>
+The so-called Deathstrike variant of the Mad Cat Mk II was named for the Diamond Shark's elite Alpha Galaxy.
+
+* UAC spread radius modifier: -10.0 %
+* UAC jam chance modifier: -20.0 %
+* UAC jam duration modifier: -7.0 %
+* ER Laser cooldown modifier: -10.0 %
+* Weapon heat generation modifier: -5.0 %
+
+Quirk name: `MCII-DEATHSTRIKE`
+<h2 id="MCII-HERO">Mad Cat Mk II Hero Armor</h2>
+The Mad Cat Mk  Hero comes equipped with higher density armor
+
+* Center torso armor bonus: +8 
+* Right torso armor bonus: +8 
+* Left torso armor bonus: +8 
+* Right leg armor bonus: +10 
+* Left leg armor bonus: +10 
+* Right arm armor bonus: +10 
+* Left arm armor bonus: +10 
+
+Quirk name: `MCII-HERO`
 <h2 id="MELEE">Melee Specialization</h2>
 This 'Mech is designed or upgraded for melee combat
 
