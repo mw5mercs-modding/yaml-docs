@@ -14,6 +14,5 @@ Intro year: 3023
 
 ## Properties
 * Laser cooldown modifier: -10.0 %
-* Laser heat generation modifier: -10.0 %
-* Laser damage modifier: +10.0 %
-* Laser beam duration modifier: -15.0 %
+* Laser heat generation modifier: -5.0 %
+* Laser beam duration modifier: -10.0 %

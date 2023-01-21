@@ -14,6 +14,6 @@ Intro year: 3040
 
 ## Properties
 * Ballistic spread radius modifier: -20.0 %
-* Ballistic projectile speed modifier: +25.0 %
-* PPC projectile speed modifier: +25.0 %
+* Ballistic projectile speed modifier: +10.0 %
+* PPC projectile speed modifier: +10.0 %
 * Predictive ballistic targetting

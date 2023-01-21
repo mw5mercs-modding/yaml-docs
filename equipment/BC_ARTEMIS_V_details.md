@@ -18,4 +18,5 @@ Intro year: 3023
 * Artemis Missile spread distance modifier: +20.0 %
 * Artemis Missile projectile speed modifier: +10.0 %
 * Artemis Missile cooldown modifier: -15.0 %
+* Artemis Missile optimal range modifier: +10.0 %
 * Artemis Missile max range modifier: +10.0 %

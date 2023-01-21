@@ -20,3 +20,4 @@ Intro year: 3070
 * Structure modifier: +20.0 %
 * Armor repair cost: +100.0 %
 * Armor repair time: +100.0 %
+* Re-Engineered Laser damage to armor: +25.0 %

@@ -15,3 +15,4 @@ Intro year: 3023
 ## Properties
 * Torso twist rate modifier: +15.0 %
 * Turn speed modifier: +15.0 %
+* Evasion pilot skill modifier: +2 

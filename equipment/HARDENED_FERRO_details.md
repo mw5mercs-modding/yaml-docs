@@ -18,9 +18,10 @@ Intro year: 3059
 * Armor modifier: +50.0 %
 * Armor repair cost: +100.0 %
 * Armor repair time: +100.0 %
-* Armor repair value: 3.5 
-* Structure repair value: 2.0 
-* Self-repair duration: 4.0 sec
+* Armor repair value: 1.8 
+* Structure repair value: 0.6 
+* Self-repair duration: 7.0 sec
 * Self-repair interval: 1.0 sec
+* Self-repair degradation factor: -4.0 %
 * Self-repair scope: mech 
 * C.A.S.E. II reduces mech internal explosion damage to 2

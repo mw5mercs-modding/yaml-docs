@@ -13,5 +13,5 @@ Base Price: 960,000 cbills
 Intro year: 3055
 
 ## Properties
-* Sensor range modifier: +15.0 %
-* Evasion pilot skill modifier: +3 
+* Sensor range modifier for the lance: +15.0 %
+* Evasion pilot skill modifier: +2 

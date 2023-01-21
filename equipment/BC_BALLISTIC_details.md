@@ -17,4 +17,3 @@ Intro year: 3023
 * Ballistic spread distance modifier: +20.0 %
 * Ballistic projectile speed modifier: +10.0 %
 * Ballistic cooldown modifier: -10.0 %
-* Ballistic damage modifier: +10.0 %

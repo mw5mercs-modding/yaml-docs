@@ -13,9 +13,8 @@ Base Price: 350,000 cbills
 Intro year: 3023
 
 ## Properties
-* Weapon lock-on time modifier: -15.0 %
-* Missile spread radius modifier: -10.0 %
-* Missile spread distance modifier: +10.0 %
+* Weapon lock-on time modifier: -10.0 %
+* Missile spread radius modifier: -20.0 %
+* Missile spread distance modifier: +20.0 %
 * Missile projectile speed modifier: +10.0 %
 * Missile cooldown modifier: -10.0 %
-* Missile damage modifier: +10.0 %

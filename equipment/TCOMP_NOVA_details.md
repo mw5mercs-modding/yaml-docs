@@ -13,4 +13,4 @@ Base Price: 400,000 cbills
 Intro year: 3040
 
 ## Properties
-* Laser heat generation modifier: -15.0 %
+* Laser heat generation modifier: -10.0 %

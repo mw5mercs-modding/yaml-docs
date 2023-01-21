@@ -1,13 +1,13 @@
 # Yet Another Equipment List
 
-The following list contains a total of 487 equipment assets from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
+The following list contains a total of 496 equipment assets from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
 * Yet Another Equipment Collection (by [truegerich](https://github.com/mw5mercs-modding/harjel))
 * Yet Another Mechlab (by [cszolee79 and trueg](https://steamuserimages-a.akamaihd.net/ugc/1845911523986277033/EC61714D79BB3256C903CDB26E87397B2897E2B1/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
 * Yet Another Special Variant (by trueg)
 * Yet Another Weapon (by [cszolee79](https://steamuserimages-a.akamaihd.net/ugc/1835781207658472182/E100D8B7BA3E11D202713DD03B3E4939CC322D0A/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
 * Yet Another Weapon Clan (by [cszolee79](https://steamuserimages-a.akamaihd.net/ugc/1839162769839545451/139164F4E1877A87CD7C360894D09B6158972BDE/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
 
-## Ammunition
+## AMMUNITION
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -250,6 +250,9 @@ Name|Size|Weight|Year|Asset Name
 [TBolt20 Ammo Double](equipment/TBolt20_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3072|TBolt20_AmmoEquipment_Double
 [TBolt5 Ammo Double](equipment/TBolt5_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3072|TBolt5_AmmoEquipment_Double
 [Thumper Ammo Double](equipment/Thumper79_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2500|Thumper79_AmmoEquipment_Double
+[Heavy MRM Ammo](equipment/trueg_HMRM_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3058|trueg_HMRM_AmmoEquipment
+[Heavy MRM Double Ammo](equipment/trueg_HMRM_Double_AmmoEquipment_details.md)|Critical slots: 2|2.0 tons|3058|trueg_HMRM_Double_AmmoEquipment
+[Heavy MRM Half Ammo](equipment/trueg_HMRM_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3058|trueg_HMRM_Half_AmmoEquipment
 [Plasma Ammo](equipment/trueg_Plasma_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3069|trueg_Plasma_AmmoEquipment
 [Plasma Ammo Double](equipment/trueg_Plasma_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3069|trueg_Plasma_AmmoEquipment_Double
 [Plasma Ammo Half](equipment/trueg_Plasma_AmmoEquipment_Half_details.md)|Critical slots: 1|0.5 tons|3069|trueg_Plasma_AmmoEquipment_Half
@@ -257,7 +260,7 @@ Name|Size|Weight|Year|Asset Name
 [RAC/20 Double Ammo](equipment/trueg_RAC20_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3069|trueg_RAC20_AmmoEquipment_Double
 [RAC/20 Half Ammo](equipment/trueg_RAC20_AmmoEquipment_Half_details.md)|Critical slots: 1|0.5 tons|3069|trueg_RAC20_AmmoEquipment_Half
 
-## cooling equipment
+## COOLING EQUIPMENT
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -272,18 +275,19 @@ Name|Size|Weight|Year|Asset Name
 [Double Heat Sink Kit](equipment/Cooling_diss100_details.md)|Critical slots: 1|0.0 tons|1|Cooling_diss100
 [Double Heat Sink Kit (C)](equipment/CLAN_DHS_KIT_details.md)|Critical slots: 1|0.0 tons|3055|CLAN_DHS_KIT
 [Compact Heat Sink Kit](equipment/COMPACT_HS_KIT_details.md)|Critical slots: 1|0.0 tons|3058|COMPACT_HS_KIT
+[Exchanger](equipment/EXCHANGER_details.md)|Critical slots: 1|1.0 tons|3055|EXCHANGER
+[Exchanger (C)](equipment/EXCHANGER_CLAN_details.md)|Critical slots: 1|1.0 tons|3060|EXCHANGER_CLAN
+[Exchanger Mk2](equipment/EXCHANGER_MK2_details.md)|Critical slots: 1|2.0 tons|3055|EXCHANGER_MK2
+[Laser Insulator](equipment/LASER_INSULATOR_details.md)|Critical slots: 1|0.5 tons|3055|LASER_INSULATOR
 [Prototype Heat Sink](equipment/PROTO_DHS_details.md)|Critical slots: 1|1.0 tons|3055|PROTO_DHS
 [Prototype Heat Sink Kit](equipment/PROTO_DHS_KIT_details.md)|Critical slots: 1|0.0 tons|3055|PROTO_DHS_KIT
 [Radical DHS Kit](equipment/RADICAL_DHS_KIT_details.md)|Critical slots: 1|0.0 tons|3055|RADICAL_DHS_KIT
 [Radical PDHS Kit](equipment/RADICAL_PROTO_DHS_KIT_details.md)|Critical slots: 1|0.0 tons|3055|RADICAL_PROTO_DHS_KIT
-[Exchanger](equipment/EXCHANGER_details.md)|Critical slots: 1|1.0 tons|3055|EXCHANGER
-[Exchanger Mk2](equipment/EXCHANGER_MK2_details.md)|Critical slots: 1|2.0 tons|3055|EXCHANGER_MK2
-[Laser Insulator](equipment/LASER_INSULATOR_details.md)|Critical slots: 1|0.5 tons|3055|LASER_INSULATOR
 [Double Heat Sink Kit (QS)](equipment/DHS_KIT_QS_details.md)|Critical slots: 1|0.0 tons|3045|DHS_KIT_QS
 [Double Heat Sink (QS)](equipment/DHS_QS_details.md)|Critical slots: 2|1.0 tons|3045|DHS_QS
 [Engine Heatsink Removal (QS)](equipment/ENGINE_HS_REMOVAL_QS_details.md)|Critical slots: 1|-1.25 tons|3045|ENGINE_HS_REMOVAL_QS
 
-## Mobility Equipment
+## MOBILITY EQUIPMENT
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -329,7 +333,7 @@ Name|Size|Weight|Year|Asset Name
 [MASC MK IV (C)](equipment/C79_MASC_MKIV_details.md)|Critical slots: 3|3.0 tons|3055|C79_MASC_MKIV
 [MASC MK V (C)](equipment/C79_MASC_MKV_details.md)|Critical slots: 4|4.0 tons|3055|C79_MASC_MKV
 
-## Electronics
+## ELECTRONICS
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -344,26 +348,27 @@ Name|Size|Weight|Year|Asset Name
 [Sensors Primitive](equipment/SENSORS_PRIMITIVE_details.md)|Critical slots: 1 (sensors)|0.0 tons|2464|SENSORS_PRIMITIVE
 [Searchlight](equipment/SENSORS_SEARCHLIGHT_details.md)|Critical slots: 1 (sensors)|0.0 tons|3030|SENSORS_SEARCHLIGHT
 [Sensors TC (QS)](equipment/SENSORS_TC_QS_details.md)|Critical slots: 1 (sensors +  targetting)|0.0 tons|3045|SENSORS_TC_QS
-[TC Adv. Ballistic](equipment/TCOMP_BALLISTIC_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_BALLISTIC_ADVANCED
 [TC Heat](equipment/TCOMP_HEAT_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP_HEAT
-[TC Adv. Missle](equipment/TCOMP_MISSLE_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_MISSLE_ADVANCED
 [TC Modular](equipment/TCOMP_MODULAR_BC_details.md)|Critical slots: 1 (targetting)|0.0 tons|3023|TCOMP_MODULAR_BC
 [TC Nova](equipment/TCOMP_NOVA_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP_NOVA
-[TC Adv. PPC](equipment/TCOMP_PPC_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_PPC_ADVANCED
-[TC Adv. Energy](equipment/TCOMP_TRACE_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_TRACE_ADVANCED
+[TC Adv. Ballistic](equipment/TCOMP_BALLISTIC_ADVANCED_details.md)|Critical slots: 2 (targetting)|1.0 tons|3047|TCOMP_BALLISTIC_ADVANCED
+[TC Adv. Missile](equipment/TCOMP_MISSLE_ADVANCED_details.md)|Critical slots: 2 (targetting)|1.0 tons|3047|TCOMP_MISSLE_ADVANCED
+[TC Adv. PPC](equipment/TCOMP_PPC_ADVANCED_details.md)|Critical slots: 2 (targetting)|1.0 tons|3047|TCOMP_PPC_ADVANCED
+[TC Adv. Energy](equipment/TCOMP_TRACE_ADVANCED_details.md)|Critical slots: 2 (targetting)|1.0 tons|3047|TCOMP_TRACE_ADVANCED
 [Beagle Active Probe](equipment/BeagleActiveProbe_details.md)|Critical slots: 2|1.5 tons|3045|BeagleActiveProbe
 [EW Active Probe](equipment/EWActiveProbe_details.md)|Critical slots: 2|3.5 tons|3025|EWActiveProbe
 [Active Probe (C)](equipment/ClanAP79_details.md)|Critical slots: 1|1.0 tons|3055|ClanAP79
 [Light Active Probe (C)](equipment/ClanLightAP79_details.md)|Critical slots: 1|0.5 tons|3055|ClanLightAP79
 [Bloodhound Active Probe](equipment/BloodhoundActiveProbe79_details.md)|Critical slots: 3|2.0 tons|3058|BloodhoundActiveProbe79
 [Sensors Basic Probe](equipment/SENSORS_PROBE_details.md)|Critical slots: 1 (sensors)|0.0 tons|3031|SENSORS_PROBE
+[BC Probe](equipment/BC_PROBE_details.md)|Critical slots: 1|1.0 tons|3031|BC_PROBE
 [EW Countermeasures](equipment/EWECM_details.md)|Critical slots: 2|3.5 tons|3025|EWECM
 [Guardian ECM](equipment/GuardianECM_details.md)|Critical slots: 2|1.5 tons|3045|GuardianECM
 [ECM (C)](equipment/ClanECM79_details.md)|Critical slots: 1|1.0 tons|3055|ClanECM79
 [Angel ECM](equipment/ANGEL_ECM_details.md)|Critical slots: 2|2.0 tons|3045|ANGEL_ECM
-[Command Console](equipment/COMMAND_CONSOLE_details.md)|Critical slots: 3 (cockpit +  life support)|1.0 tons|3045|COMMAND_CONSOLE
+[Command Console](equipment/COMMAND_CONSOLE_details.md)|Critical slots: 5 (cockpit +  life support +  sensors +  targetting)|3.0 tons|3045|COMMAND_CONSOLE
 
-## Armor and Structure
+## ARMOR AND STRUCTURE
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -394,11 +399,12 @@ Name|Size|Weight|Year|Asset Name
 [Structure (QS)](equipment/STRUCTURE_QS_details.md)|Critical slots: 1 (structure)|0.0 tons|3045|STRUCTURE_QS
 [Structure Composite](equipment/COMPOSITE_STRUCTURE_details.md)|Critical slots: 1 (structure)|0.0 tons|3061|COMPOSITE_STRUCTURE
 [Structure Endo-Composite](equipment/ENDO_COMPOSITE_STRUCTURE_details.md)|Critical slots: 1 (dynamic: 5) (structure)|0.0 tons|3067|ENDO_COMPOSITE_STRUCTURE
+[Structure Endo-Composite (C)](equipment/ENDO_COMPOSITE_STRUCTURE_CLAN_details.md)|Critical slots: 1 (dynamic: 3) (structure)|0.0 tons|3067|ENDO_COMPOSITE_STRUCTURE_CLAN
 [Structure Endo Prototype](equipment/ENDO_PROTOTYPE_details.md)|Critical slots: 1 (dynamic: 16) (structure)|0.0 tons|2480|ENDO_PROTOTYPE
 [Structure Endo-TSM](equipment/ENDO_TSM_details.md)|Critical slots: 1 (dynamic: 12) (structure)|0.0 tons|3067|ENDO_TSM
 [Armor NSS](equipment/ARMOR_NSS_details.md)|Critical slots: 1 (fixed: 6) (armor)|0.0 tons|3045|ARMOR_NSS
 
-## Misc Equipment
+## MISC EQUIPMENT
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -426,13 +432,16 @@ Name|Size|Weight|Year|Asset Name
 [Weapon Mount Recoil](equipment/WEAPON_MOUNT_RECOIL_details.md)|Critical slots: 1 (upper arm)|1% of 'mech tonnage|3015|WEAPON_MOUNT_RECOIL
 [Slic Suite](equipment/SLIC_SUITE_details.md)|Critical slots: 1 (cockpit)|0.0 tons|3055|SLIC_SUITE
 [Cooling Lines](equipment/COOLING_LINES_details.md)|Critical slots: 1|1.0 tons|3043|COOLING_LINES
+[Blue Shield PFD](equipment/BLUE_SHIELD_PARTICLE_FIELD_DAMPER_details.md)|Critical slots: 1 (fixed: 6)|3.0 tons|3051|BLUE_SHIELD_PARTICLE_FIELD_DAMPER
 [Cockpit Armored](equipment/COCKPIT_ARMORED_details.md)|Critical slots: 1 (cockpit)|1.0 tons|3059|COCKPIT_ARMORED
 [Cockpit Hotseat](equipment/COCKPIT_HOTSEAT_details.md)|Critical slots: 1 (dynamic: 6) (cockpit)|0.0 tons|3055|COCKPIT_HOTSEAT
 [Cockpit Primitive](equipment/COCKPIT_PRIMITIVE_details.md)|Critical slots: 1 (cockpit)|2.0 tons|2464|COCKPIT_PRIMITIVE
 [Cockpit Small Advanced](equipment/COCKPIT_SMALL_ADVANCED_details.md)|Critical slots: 1 (cockpit +  life support)|-1.0 tons|3055|COCKPIT_SMALL_ADVANCED
+[Laser Overcharge Module](equipment/LASER_OVERCHARGE_MODULE_details.md)|Critical slots: 1|1.0 tons|3137|LASER_OVERCHARGE_MODULE
+[Laser Pulse Module](equipment/LASER_PULSE_MODULE_details.md)|Critical slots: 1|1.0 tons|3137|LASER_PULSE_MODULE
 [Partial Wing System](equipment/PARTIAL_WING_SYSTEM_details.md)|Critical slots: 3 (fixed: 3)|7% of 'mech tonnage|3067|PARTIAL_WING_SYSTEM
 [Partial Wing System (C)](equipment/PARTIAL_WING_SYSTEM_C_details.md)|Critical slots: 3 (fixed: 3)|5% of 'mech tonnage|3067|PARTIAL_WING_SYSTEM_C
-[PPC Capacitor](equipment/PPC_CAPACITOR_details.md)|Critical slots: 2|1.0 tons|3055|PPC_CAPACITOR
+[PPC Capacitor](equipment/PPC_CAPACITOR_details.md)|Critical slots: 1|1.0 tons|3055|PPC_CAPACITOR
 [Turret Mount](equipment/TURRET_MOUNT_details.md)|Critical slots: 1|1.0 tons|3032|TURRET_MOUNT
 [C.A.S.E. II (QS)](equipment/CASE_II_QS_details.md)|Critical slots: 1|0.8 tons|3045|CASE_II_QS
 [Compact Actuators Hand (QS)](equipment/COMPACT_ACTUATOR_HAND_QS_details.md)|Critical slots: 1 (shoulder +  upper arm +  lower arm +  hand)|0.0 tons|3045|COMPACT_ACTUATOR_HAND_QS
@@ -452,7 +461,7 @@ Name|Size|Weight|Year|Asset Name
 [Advanced UAV Drone](equipment/UAVDroneAdv_79_details.md)|Critical slots: 1|1.0 tons|3038|UAVDroneAdv_79
 [UAV Drone](equipment/UAVDrone_79_details.md)|Critical slots: 1|1.0 tons|3015|UAVDrone_79
 
-## Engines Cores
+## ENGINES CORES
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
@@ -520,7 +529,7 @@ Name|Size|Weight|Year|Asset Name
 [Engine Core 60](equipment/std60_details.md)|Critical slots: 1|1.5 tons|2025|std60
 [Engine Core 90](equipment/std90_details.md)|Critical slots: 1|3.0 tons|3000|std90
 
-## Engine Types
+## ENGINE TYPES
 
 Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---

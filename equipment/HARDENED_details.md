@@ -16,3 +16,4 @@ Intro year: 3047
 * Armor modifier: +100.0 %
 * Armor repair cost: +100.0 %
 * Armor repair time: +100.0 %
+* Re-Engineered Laser damage to armor: +100.0 %

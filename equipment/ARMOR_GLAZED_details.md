@@ -18,3 +18,4 @@ Intro year: 3058
 * Armor repair time: +50.0 %
 * Energy damage to armor: -50.0 %
 * Melee damage to armor: +50.0 %
+* Re-Engineered Laser damage to armor: +50.0 %

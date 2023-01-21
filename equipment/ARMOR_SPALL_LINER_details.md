@@ -17,3 +17,4 @@ Intro year: 3058
 * Armor repair time: +20.0 %
 * Weapon damage to armor: -15.0 %
 * Weapon damage to structure: -40.0 %
+* Re-Engineered Laser damage to armor: +15.0 %

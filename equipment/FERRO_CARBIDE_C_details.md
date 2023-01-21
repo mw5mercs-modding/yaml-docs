@@ -17,4 +17,5 @@ Intro year: 3059
 * Armor repair cost: +100.0 %
 * Armor repair time: +90.0 %
 * Weapon damage to armor: -15.0 %
+* Re-Engineered Laser damage to armor: +15.0 %
 * C.A.S.E. protects the mech from internal explosion damage traveling to adjacent components

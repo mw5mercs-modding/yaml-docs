@@ -13,7 +13,7 @@ Base Price: 500,000 cbills
 Intro year: 3040
 
 ## Properties
-* Energy beam duration modifier: -20.0 %
+* Energy beam duration modifier: -10.0 %
 * PPC spread radius modifier: -20.0 %
 * PPC spread distance modifier: +20.0 %
 * PPC projectile speed modifier: +10.0 %

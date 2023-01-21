@@ -12,3 +12,5 @@ Base Price: 660,000 cbills
 
 Intro year: 3023
 
+## Properties
+* Enables the use of Battle Computers

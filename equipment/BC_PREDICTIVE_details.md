@@ -15,7 +15,7 @@ Base Price: 350,000 cbills
 Intro year: 3023
 
 ## Properties
-* Weapon spread radius modifier: -15.0 %
-* Weapon spread distance modifier: +15.0 %
-* Weapon projectile speed modifier: +10.0 %
+* Weapon spread radius modifier: -10.0 %
+* Weapon spread distance modifier: +10.0 %
+* Weapon projectile speed modifier: +5.0 %
 * Predictive ballistic targetting

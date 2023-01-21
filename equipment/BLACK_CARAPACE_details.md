@@ -16,9 +16,10 @@ Base Price: 8,500,000 cbills
 Intro year: 3059
 
 ## Properties
-* Armor repair value: 2.0 
-* Structure repair value: 1.0 
-* Self-repair duration: 8.0 sec
+* Armor repair value: 0.8 
+* Structure repair value: 0.4 
+* Self-repair duration: 9.0 sec
 * Self-repair interval: 1.0 sec
+* Self-repair degradation factor: -0.5 %
 * Self-repair scope: mech 
 * Weapon heat generation modifier: +10.0 %

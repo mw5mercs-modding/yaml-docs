@@ -14,4 +14,5 @@ Intro year: 3023
 
 ## Properties
 * Weapon min range modifier: -50.0 %
-* Weapon max range modifier: +10.0 %
+* Weapon optimal range modifier: +20.0 %
+* Weapon max range modifier: +20.0 %

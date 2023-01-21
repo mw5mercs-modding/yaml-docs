@@ -13,4 +13,4 @@ Base Price: 400,000 cbills
 Intro year: 3040
 
 ## Properties
-* Weapon heat generation modifier: -10.0 %
+* Weapon heat generation modifier: -5.0 %
