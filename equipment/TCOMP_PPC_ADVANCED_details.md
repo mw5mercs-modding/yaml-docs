@@ -1,10 +1,10 @@
-# TC Adv. PPC
+# FCS Adv. PPC
 
 `TCOMP_PPC_ADVANCED` (Yet Another Equipment Collection)
 
-The Advanced PPC Targeting Computer significantly improves the performance of all particle projector cannons. However, this comes at the cost of increased weight.
+The Advanced PPC Fire Control System significantly improves the performance of all particle projector cannons. However, this comes at the cost of increased weight.
 
-Size: Critical slots: 2 (targetting)
+Size: Critical slots: 1 (targetting)
 
 Weight: 1.0 tons
 

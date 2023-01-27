@@ -1,10 +1,10 @@
-# TC Adv. Energy
+# FCS Adv. Energy
 
 `TCOMP_TRACE_ADVANCED` (Yet Another Equipment Collection)
 
-The Advanced Energy Targeting Computer significantly improves the performance of all energy weapons. However, this comes at the cost of increased weight.
+The Advanced Energy Fire Control System significantly improves the performance of all energy weapons. However, this comes at the cost of increased weight.
 
-Size: Critical slots: 2 (targetting)
+Size: Critical slots: 1 (targetting)
 
 Weight: 1.0 tons
 

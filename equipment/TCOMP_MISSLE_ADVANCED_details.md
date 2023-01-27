@@ -1,10 +1,10 @@
-# TC Adv. Missile
+# FCS Adv. Missile
 
 `TCOMP_MISSLE_ADVANCED` (Yet Another Equipment Collection)
 
-The Advanced Missle Targeting Computer significantly improves the performance of all missle weapons. However, this comes at the cost of increased weight.
+The Advanced Missle Fire Control System significantly improves the performance of all missle weapons. However, this comes at the cost of increased weight.
 
-Size: Critical slots: 2 (targetting)
+Size: Critical slots: 1 (targetting)
 
 Weight: 1.0 tons
 

@@ -1,8 +1,8 @@
-# TC Modular
+# FCS Modular
 
 `TCOMP_MODULAR_BC` (Yet Another Equipment Collection)
 
-The modular Targeting Computer allows Battle Computer upgrades to be installed on the mech.
+The modular Fire Control System allows Battle Computer upgrades to be installed on the mech.
 
 Size: Critical slots: 1 (targetting)
 

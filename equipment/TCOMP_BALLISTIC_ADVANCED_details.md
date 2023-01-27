@@ -1,10 +1,10 @@
-# TC Adv. Ballistic
+# FCS Adv. Ballistic
 
 `TCOMP_BALLISTIC_ADVANCED` (Yet Another Equipment Collection)
 
-The Advanced Ballistic Targeting Computer significantly improves the performance of all ballistic weapons. However, this comes at the cost of increased weight.
+The Advanced Ballistic Fire Control System significantly improves the performance of all ballistic weapons. However, this comes at the cost of increased weight.
 
-Size: Critical slots: 2 (targetting)
+Size: Critical slots: 1 (targetting)
 
 Weight: 1.0 tons
 

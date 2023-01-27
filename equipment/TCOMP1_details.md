@@ -1,8 +1,8 @@
-# TC Ballistic
+# FCS Ballistic
 
 `TCOMP1` (Yet Another Mechlab)
 
-The Ballistic Targeting Computer increases the performance of all ballistic weapons.
+The Ballistic Fire Control System increases the performance of all ballistic weapons.
 
 Size: Critical slots: 1 (targetting)
 

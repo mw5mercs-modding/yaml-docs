@@ -1,8 +1,8 @@
-# TC Missle
+# FCS Missile
 
 `TCOMP2` (Yet Another Mechlab)
 
-The Missle Targeting Computer increases the performance of all missle weapons.
+The Missile Fire Control System increases the performance of all missile weapons.
 
 Size: Critical slots: 1 (targetting)
 

@@ -1,8 +1,8 @@
-# TC Heat
+# FCS Heat
 
 `TCOMP_HEAT` (Yet Another Equipment Collection)
 
-The Heat Targeting Computer allows to optimize the energy flow on weapon systems, resulting in a lowered heat output.
+The Heat Fire Control System allows to optimize the energy flow on weapon systems, resulting in a lowered heat output.
 
 Size: Critical slots: 1 (targetting)
 

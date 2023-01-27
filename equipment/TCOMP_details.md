@@ -1,8 +1,8 @@
-# TC Energy
+# FCS Energy
 
 `TCOMP` (Yet Another Mechlab)
 
-The Energy Targeting Computer improves the performance of all energy weapons.
+The Energy Fire Control System improves the performance of all energy weapons.
 
 Size: Critical slots: 1 (targetting)
 

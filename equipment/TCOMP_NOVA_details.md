@@ -1,4 +1,4 @@
-# TC Nova
+# FCS Nova
 
 `TCOMP_NOVA` (Yet Another Equipment Collection)
 
