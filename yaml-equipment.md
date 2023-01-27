@@ -1,6 +1,6 @@
 # Yet Another Equipment List
 
-The following list contains a total of 496 equipment assets from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
+The following list contains a total of 507 equipment assets from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
 * Yet Another Equipment Collection (by [truegerich](https://github.com/mw5mercs-modding/harjel))
 * Yet Another Mechlab (by [cszolee79 and trueg](https://steamuserimages-a.akamaihd.net/ugc/1845911523986277033/EC61714D79BB3256C903CDB26E87397B2897E2B1/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
 * Yet Another Special Variant (by trueg)
@@ -53,66 +53,6 @@ Name|Size|Weight|Year|Asset Name
 [SRM Half Ammo](equipment/SRM_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|2370|SRM_Half_AmmoEquipment
 [Streak SRM Ammo](equipment/SRM_Streak_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3035|SRM_Streak_AmmoEquipment
 [Streak SRM Half Ammo](equipment/SRM_Streak_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3035|SRM_Streak_Half_AmmoEquipment
-[I Narc Ammo](equipment/iNARC79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3062|iNARC79_AmmoEquipment
-[I Narc Half Ammo](equipment/iNARC79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3062|iNARC79_Half_AmmoEquipment
-[TBolt10 Ammo](equipment/TBolt10_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3072|TBolt10_AmmoEquipment
-[TBolt10 Half Ammo](equipment/TBolt10_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3072|TBolt10_Half_AmmoEquipment
-[TBolt15 Ammo](equipment/TBolt15_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3072|TBolt15_AmmoEquipment
-[TBolt15 Half Ammo](equipment/TBolt15_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3072|TBolt15_Half_AmmoEquipment
-[TBolt20 Ammo](equipment/TBolt20_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3072|TBolt20_AmmoEquipment
-[TBolt20 Half Ammo](equipment/TBolt20_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3072|TBolt20_Half_AmmoEquipment
-[TBolt5 Ammo](equipment/TBolt5_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3072|TBolt5_AmmoEquipment
-[TBolt5 Half Ammo](equipment/TBolt5_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3072|TBolt5_Half_AmmoEquipment
-[Hypervelocity AC/10 Ammo](equipment/AC10_Hyper_AmmoEquipment79_details.md)|Critical slots: 1|1.0 tons|3059|AC10_Hyper_AmmoEquipment79
-[Hypervelocity AC/10 Half Ammo](equipment/AC10_Hyper_Half_AmmoEquipment79_details.md)|Critical slots: 1|0.5 tons|3059|AC10_Hyper_Half_AmmoEquipment79
-[Ultra AC/10 Ammo](equipment/AC10_Ultra_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3057|AC10_Ultra_79_AmmoEquipment
-[Ultra AC/10 Half Ammo](equipment/AC10_Ultra_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3057|AC10_Ultra_79_Half_AmmoEquipment
-[LBX/20 Ammo](equipment/AC20_LBX_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3058|AC20_LBX_79_AmmoEquipment
-[LBX/20 Half Ammo](equipment/AC20_LBX_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3058|AC20_LBX_79_Half_AmmoEquipment
-[Ultra AC/20 Ammo](equipment/AC20_Ultra_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3060|AC20_Ultra_79_AmmoEquipment
-[Ultra AC/20 Half Ammo](equipment/AC20_Ultra_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3060|AC20_Ultra_79_Half_AmmoEquipment
-[Hypervelocity AC/2 Ammo](equipment/AC2_Hyper_AmmoEquipment79_details.md)|Critical slots: 1|1.0 tons|3059|AC2_Hyper_AmmoEquipment79
-[Hypervelocity AC/2 Half Ammo](equipment/AC2_Hyper_Half_AmmoEquipment79_details.md)|Critical slots: 1|0.5 tons|3059|AC2_Hyper_Half_AmmoEquipment79
-[LBX/2 Ammo](equipment/AC2_LBX_79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3058|AC2_LBX_79_Standard_AmmoEquipment
-[LBX/2 Half Ammo](equipment/AC2_LBX_79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3058|AC2_LBX_79_Standard_Half_AmmoEquipment
-[Light AC/2 Ammo](equipment/AC2_Light_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|AC2_Light_79_AmmoEquipment
-[Light AC/2 Half Ammo](equipment/AC2_Light_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|AC2_Light_79_Half_AmmoEquipment
-[Rotary AC/2 Ammo](equipment/AC2_Rotary_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3062|AC2_Rotary_79_AmmoEquipment
-[Rotary AC/2 Half Ammo](equipment/AC2_Rotary_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3062|AC2_Rotary_79_Half_AmmoEquipment
-[Ultra AC/2 Ammo](equipment/AC2_Ultra_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3057|AC2_Ultra_79_AmmoEquipment
-[Ultra AC/2 Half Ammo](equipment/AC2_Ultra_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3057|AC2_Ultra_79_Half_AmmoEquipment
-[Hypervelocity AC/5 Ammo](equipment/AC5_Hyper_AmmoEquipment79_details.md)|Critical slots: 1|1.0 tons|3059|AC5_Hyper_AmmoEquipment79
-[Hypervelocity AC/5 Half Ammo](equipment/AC5_Hyper_Half_AmmoEquipment79_details.md)|Critical slots: 1|0.5 tons|3059|AC5_Hyper_Half_AmmoEquipment79
-[LBX/5 AC Ammo](equipment/AC5_LBX_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3058|AC5_LBX_79_AmmoEquipment
-[LBX/5 Half Ammo](equipment/AC5_LBX_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3058|AC5_LBX_79_Half_AmmoEquipment
-[Light AC/5 Ammo](equipment/AC5_Light_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|AC5_Light_79_AmmoEquipment
-[Light AC/5 Half Ammo](equipment/AC5_Light_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|AC5_Light_79_Half_AmmoEquipment
-[Rotary AC/5 Ammo](equipment/AC5_Rotary_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3062|AC5_Rotary_79_AmmoEquipment
-[Rotary AC/5 Half Ammo](equipment/AC5_Rotary_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3062|AC5_Rotary_79_Half_AmmoEquipment
-[Arrow IV Ammo](equipment/ArrowIV_AmmoEquipment79_details.md)|Critical slots: 1|1.0 tons|3044|ArrowIV_AmmoEquipment79
-[Arrow IV Half Ammo](equipment/ArrowIV_Half_AmmoEquipment79_details.md)|Critical slots: 1|0.5 tons|3044|ArrowIV_Half_AmmoEquipment79
-[Heavy Gauss Ammo](equipment/Gauss_Heavy_79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3061|Gauss_Heavy_79_Standard_AmmoEquipment
-[Heavy Gauss Half Ammo](equipment/Gauss_Heavy_79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3061|Gauss_Heavy_79_Standard_Half_AmmoEquipment
-[Light Gauss Ammo](equipment/Gauss_Light_79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3056|Gauss_Light_79_Standard_AmmoEquipment
-[Light Gauss Half Ammo](equipment/Gauss_Light_79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3056|Gauss_Light_79_Standard_Half_AmmoEquipment
-[Magshot Gauss Ammo](equipment/Gauss_Magshot_79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3072|Gauss_Magshot_79_Standard_AmmoEquipment
-[Magshot Gauss Half Ammo](equipment/Gauss_Magshot_79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3072|Gauss_Magshot_79_Standard_Half_AmmoEquipment
-[Heavy Flamer Ammo](equipment/HFlamer_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|HFlamer_79_AmmoEquipment
-[Heavy Flamer Half Ammo](equipment/HFlamer_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|HFlamer_79_Half_AmmoEquipment
-[Heavy Machine Gun Ammo](equipment/HMachineGun79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|HMachineGun79_Standard_AmmoEquipment
-[Heavy Machine Gun Half Ammo](equipment/HMachineGun79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|HMachineGun79_Standard_Half_AmmoEquipment
-[Light Machine Gun Ammo](equipment/LMachineGun79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|LMachineGun79_Standard_AmmoEquipment
-[Light Machine Gun Half Ammo](equipment/LMachineGun79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|LMachineGun79_Standard_Half_AmmoEquipment
-[Long Tom Ammo](equipment/LongTom79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|2500|LongTom79_AmmoEquipment
-[Long Tom Half Ammo](equipment/LongTom79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|2500|LongTom79_Half_AmmoEquipment
-[MRM Ammo](equipment/MRM_AmmoEquipment79_details.md)|Critical slots: 1|1.0 tons|3058|MRM_AmmoEquipment79
-[MRM Half Ammo](equipment/MRM_Half_AmmoEquipment79_details.md)|Critical slots: 1|0.5 tons|3058|MRM_Half_AmmoEquipment79
-[Plasma Rifle Ammo](equipment/PlasmaRifle_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|PlasmaRifle_79_AmmoEquipment
-[Plasma Rifle Half Ammo](equipment/PlasmaRifle_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|PlasmaRifle_79_Half_AmmoEquipment
-[Sniper Ammo](equipment/Sniper79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|2500|Sniper79_AmmoEquipment
-[Sniper Half Ammo](equipment/Sniper79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|2500|Sniper79_Half_AmmoEquipment
-[Thumper Ammo](equipment/Thumper79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|2500|Thumper79_AmmoEquipment
-[Thumper Half Ammo](equipment/Thumper79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|2500|Thumper79_Half_AmmoEquipment
 [Heavy Flamer Ammo (C)](equipment/CHFlamer_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3067|CHFlamer_79_AmmoEquipment
 [Heavy Flamer Half Ammo (C)](equipment/CHFlamer_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3067|CHFlamer_79_Half_AmmoEquipment
 [AC/10 Ammo (C)](equipment/C79AC10_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3055|C79AC10_Standard_AmmoEquipment
@@ -171,27 +111,6 @@ Name|Size|Weight|Year|Asset Name
 [Heavy Machine Gun Half Ammo (C)](equipment/CMachineGun79_Heavy_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3060|CMachineGun79_Heavy_Half_AmmoEquipment
 [Light Machine Gun Ammo (C)](equipment/CMachineGun79_Light_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3060|CMachineGun79_Light_AmmoEquipment
 [Light Machine Gun Half Ammo (C)](equipment/CMachineGun79_Light_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3060|CMachineGun79_Light_Half_AmmoEquipment
-[LBX/10 Ammo Double](equipment/AC10_LBX_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|AC10_LBX_AmmoEquipment_Double
-[AC/10 Ammo Double](equipment/AC10_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2460|AC10_Standard_AmmoEquipment_Double
-[AC/20 Ammo Double](equipment/AC20_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2500|AC20_Standard_AmmoEquipment_Double
-[AC/2 Ammo Double](equipment/AC2_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2300|AC2_Standard_AmmoEquipment_Double
-[AC/5 Ammo Double](equipment/AC5_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2250|AC5_Standard_AmmoEquipment_Double
-[Ultra AC/5 Ammo Double](equipment/AC5_Ultra_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|AC5_Ultra_AmmoEquipment_Double
-[AMS Ammo Double](equipment/AMS_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3040|AMS_AmmoEquipment_Double
-[Gauss Ammo Double](equipment/Gauss_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3040|Gauss_Standard_AmmoEquipment_Double
-[Heavy Rifle Ammo Double](equipment/HeavyRifle_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2300|HeavyRifle_AmmoEquipment_Double
-[L Chem Laser Ammo Double](equipment/LargeChemLaser_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2301|LargeChemLaser_AmmoEquipment_Double
-[Light Rifle Ammo Double](equipment/LightRifle_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2300|LightRifle_AmmoEquipment_Double
-[LRM Ammo Double](equipment/LRM_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2300|LRM_AmmoEquipment_Double
-[LRM Artemis Ammo Double](equipment/LRM_Artemis_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|LRM_Artemis_AmmoEquipment_Double
-[Machine Gun Ammo Double](equipment/MachineGun_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|1949|MachineGun_Standard_AmmoEquipment_Double
-[M Chem Laser Ammo Double](equipment/MediumChemLaser_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2301|MediumChemLaser_AmmoEquipment_Double
-[Medium Rifle Ammo Double](equipment/MediumRifle_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2300|MediumRifle_AmmoEquipment_Double
-[Narc Ammo Double](equipment/NARC_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|NARC_AmmoEquipment_Double
-[S Chem Laser Ammo Double](equipment/SmallChemLaser_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2301|SmallChemLaser_AmmoEquipment_Double
-[SRM Ammo Double](equipment/SRM_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2370|SRM_AmmoEquipment_Double
-[SRM Artemis Ammo Double](equipment/SRM_Artemis_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|SRM_Artemis_AmmoEquipment_Double
-[Streak SRM Ammo Double](equipment/SRM_Streak_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|SRM_Streak_AmmoEquipment_Double
 [AC/10 Ammo Double (C)](equipment/C79AC10_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3055|C79AC10_Standard_AmmoEquipment_Double
 [AC/20 Ammo Double (C)](equipment/C79AC20_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3055|C79AC20_Standard_AmmoEquipment_Double
 [AC/2 Ammo Double (C)](equipment/C79AC2_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3055|C79AC2_Standard_AmmoEquipment_Double
@@ -220,6 +139,88 @@ Name|Size|Weight|Year|Asset Name
 [Heavy Flamer Ammo Double (C)](equipment/CHFlamer_79_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3067|CHFlamer_79_AmmoEquipment_Double
 [Heavy Machine Gun Ammo Double (C)](equipment/CMachineGun79_Heavy_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3060|CMachineGun79_Heavy_AmmoEquipment_Double
 [Light Machine Gun Ammo Double (C)](equipment/CMachineGun79_Light_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3060|CMachineGun79_Light_AmmoEquipment_Double
+[I Narc Ammo](equipment/iNARC79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3062|iNARC79_AmmoEquipment
+[I Narc Half Ammo](equipment/iNARC79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3062|iNARC79_Half_AmmoEquipment
+[TBolt10 Ammo](equipment/TBolt10_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3072|TBolt10_AmmoEquipment
+[TBolt10 Half Ammo](equipment/TBolt10_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3072|TBolt10_Half_AmmoEquipment
+[TBolt15 Ammo](equipment/TBolt15_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3072|TBolt15_AmmoEquipment
+[TBolt15 Half Ammo](equipment/TBolt15_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3072|TBolt15_Half_AmmoEquipment
+[TBolt20 Ammo](equipment/TBolt20_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3072|TBolt20_AmmoEquipment
+[TBolt20 Half Ammo](equipment/TBolt20_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3072|TBolt20_Half_AmmoEquipment
+[TBolt5 Ammo](equipment/TBolt5_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3072|TBolt5_AmmoEquipment
+[TBolt5 Half Ammo](equipment/TBolt5_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3072|TBolt5_Half_AmmoEquipment
+[Hypervelocity AC/10 Ammo](equipment/AC10_Hyper_AmmoEquipment79_details.md)|Critical slots: 1|1.0 tons|3059|AC10_Hyper_AmmoEquipment79
+[Hypervelocity AC/10 Half Ammo](equipment/AC10_Hyper_Half_AmmoEquipment79_details.md)|Critical slots: 1|0.5 tons|3059|AC10_Hyper_Half_AmmoEquipment79
+[Ultra AC/10 Ammo](equipment/AC10_Ultra_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3057|AC10_Ultra_79_AmmoEquipment
+[Ultra AC/10 Half Ammo](equipment/AC10_Ultra_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3057|AC10_Ultra_79_Half_AmmoEquipment
+[LBX/20 Ammo](equipment/AC20_LBX_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3058|AC20_LBX_79_AmmoEquipment
+[LBX/20 Half Ammo](equipment/AC20_LBX_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3058|AC20_LBX_79_Half_AmmoEquipment
+[Ultra AC/20 Ammo](equipment/AC20_Ultra_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3060|AC20_Ultra_79_AmmoEquipment
+[Ultra AC/20 Half Ammo](equipment/AC20_Ultra_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3060|AC20_Ultra_79_Half_AmmoEquipment
+[Hypervelocity AC/2 Ammo](equipment/AC2_Hyper_AmmoEquipment79_details.md)|Critical slots: 1|1.0 tons|3059|AC2_Hyper_AmmoEquipment79
+[Hypervelocity AC/2 Half Ammo](equipment/AC2_Hyper_Half_AmmoEquipment79_details.md)|Critical slots: 1|0.5 tons|3059|AC2_Hyper_Half_AmmoEquipment79
+[LBX/2 Ammo](equipment/AC2_LBX_79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3058|AC2_LBX_79_Standard_AmmoEquipment
+[LBX/2 Half Ammo](equipment/AC2_LBX_79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3058|AC2_LBX_79_Standard_Half_AmmoEquipment
+[Light AC/2 Ammo](equipment/AC2_Light_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|AC2_Light_79_AmmoEquipment
+[Light AC/2 Half Ammo](equipment/AC2_Light_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|AC2_Light_79_Half_AmmoEquipment
+[Rotary AC/2 Ammo](equipment/AC2_Rotary_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3062|AC2_Rotary_79_AmmoEquipment
+[Rotary AC/2 Half Ammo](equipment/AC2_Rotary_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3062|AC2_Rotary_79_Half_AmmoEquipment
+[Ultra AC/2 Ammo](equipment/AC2_Ultra_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3057|AC2_Ultra_79_AmmoEquipment
+[Ultra AC/2 Half Ammo](equipment/AC2_Ultra_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3057|AC2_Ultra_79_Half_AmmoEquipment
+[Hypervelocity AC/5 Ammo](equipment/AC5_Hyper_AmmoEquipment79_details.md)|Critical slots: 1|1.0 tons|3059|AC5_Hyper_AmmoEquipment79
+[Hypervelocity AC/5 Half Ammo](equipment/AC5_Hyper_Half_AmmoEquipment79_details.md)|Critical slots: 1|0.5 tons|3059|AC5_Hyper_Half_AmmoEquipment79
+[LBX/5 AC Ammo](equipment/AC5_LBX_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3058|AC5_LBX_79_AmmoEquipment
+[LBX/5 Half Ammo](equipment/AC5_LBX_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3058|AC5_LBX_79_Half_AmmoEquipment
+[Light AC/5 Ammo](equipment/AC5_Light_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|AC5_Light_79_AmmoEquipment
+[Light AC/5 Half Ammo](equipment/AC5_Light_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|AC5_Light_79_Half_AmmoEquipment
+[Rotary AC/5 Ammo](equipment/AC5_Rotary_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3062|AC5_Rotary_79_AmmoEquipment
+[Rotary AC/5 Half Ammo](equipment/AC5_Rotary_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3062|AC5_Rotary_79_Half_AmmoEquipment
+[Arrow IV Ammo](equipment/ArrowIV_AmmoEquipment79_details.md)|Critical slots: 1|1.0 tons|3044|ArrowIV_AmmoEquipment79
+[Arrow IV Half Ammo](equipment/ArrowIV_Half_AmmoEquipment79_details.md)|Critical slots: 1|0.5 tons|3044|ArrowIV_Half_AmmoEquipment79
+[Heavy Gauss Ammo](equipment/Gauss_Heavy_79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3061|Gauss_Heavy_79_Standard_AmmoEquipment
+[Heavy Gauss Half Ammo](equipment/Gauss_Heavy_79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3061|Gauss_Heavy_79_Standard_Half_AmmoEquipment
+[Light Gauss Ammo](equipment/Gauss_Light_79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3056|Gauss_Light_79_Standard_AmmoEquipment
+[Light Gauss Half Ammo](equipment/Gauss_Light_79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3056|Gauss_Light_79_Standard_Half_AmmoEquipment
+[Magshot Gauss Ammo](equipment/Gauss_Magshot_79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3072|Gauss_Magshot_79_Standard_AmmoEquipment
+[Magshot Gauss Half Ammo](equipment/Gauss_Magshot_79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3072|Gauss_Magshot_79_Standard_Half_AmmoEquipment
+[Heavy Flamer Ammo](equipment/HFlamer_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|HFlamer_79_AmmoEquipment
+[Heavy Flamer Half Ammo](equipment/HFlamer_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|HFlamer_79_Half_AmmoEquipment
+[Heavy Machine Gun Ammo](equipment/HMachineGun79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|HMachineGun79_Standard_AmmoEquipment
+[Heavy Machine Gun Half Ammo](equipment/HMachineGun79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|HMachineGun79_Standard_Half_AmmoEquipment
+[Light Machine Gun Ammo](equipment/LMachineGun79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|LMachineGun79_Standard_AmmoEquipment
+[Light Machine Gun Half Ammo](equipment/LMachineGun79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|LMachineGun79_Standard_Half_AmmoEquipment
+[MRM Ammo](equipment/MRM_AmmoEquipment79_details.md)|Critical slots: 1|1.0 tons|3058|MRM_AmmoEquipment79
+[MRM Half Ammo](equipment/MRM_Half_AmmoEquipment79_details.md)|Critical slots: 1|0.5 tons|3058|MRM_Half_AmmoEquipment79
+[Plasma Rifle Ammo](equipment/PlasmaRifle_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|PlasmaRifle_79_AmmoEquipment
+[Plasma Rifle Half Ammo](equipment/PlasmaRifle_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|PlasmaRifle_79_Half_AmmoEquipment
+[Heavy Flamer Ammo Double](equipment/HFlamer_79_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3068|HFlamer_79_AmmoEquipment_Double
+[Long Tom Ammo](equipment/LongTom79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|2500|LongTom79_AmmoEquipment
+[Long Tom Half Ammo](equipment/LongTom79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|2500|LongTom79_Half_AmmoEquipment
+[Sniper Ammo](equipment/Sniper79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|2500|Sniper79_AmmoEquipment
+[Sniper Half Ammo](equipment/Sniper79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|2500|Sniper79_Half_AmmoEquipment
+[Thumper Ammo](equipment/Thumper79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|2500|Thumper79_AmmoEquipment
+[Thumper Half Ammo](equipment/Thumper79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|2500|Thumper79_Half_AmmoEquipment
+[LBX/10 Ammo Double](equipment/AC10_LBX_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|AC10_LBX_AmmoEquipment_Double
+[AC/10 Ammo Double](equipment/AC10_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2460|AC10_Standard_AmmoEquipment_Double
+[AC/20 Ammo Double](equipment/AC20_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2500|AC20_Standard_AmmoEquipment_Double
+[AC/2 Ammo Double](equipment/AC2_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2300|AC2_Standard_AmmoEquipment_Double
+[AC/5 Ammo Double](equipment/AC5_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2250|AC5_Standard_AmmoEquipment_Double
+[Ultra AC/5 Ammo Double](equipment/AC5_Ultra_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|AC5_Ultra_AmmoEquipment_Double
+[AMS Ammo Double](equipment/AMS_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3040|AMS_AmmoEquipment_Double
+[Gauss Ammo Double](equipment/Gauss_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3040|Gauss_Standard_AmmoEquipment_Double
+[Heavy Rifle Ammo Double](equipment/HeavyRifle_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2300|HeavyRifle_AmmoEquipment_Double
+[L Chem Laser Ammo Double](equipment/LargeChemLaser_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2301|LargeChemLaser_AmmoEquipment_Double
+[Light Rifle Ammo Double](equipment/LightRifle_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2300|LightRifle_AmmoEquipment_Double
+[LRM Ammo Double](equipment/LRM_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2300|LRM_AmmoEquipment_Double
+[LRM Artemis Ammo Double](equipment/LRM_Artemis_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|LRM_Artemis_AmmoEquipment_Double
+[Machine Gun Ammo Double](equipment/MachineGun_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|1949|MachineGun_Standard_AmmoEquipment_Double
+[M Chem Laser Ammo Double](equipment/MediumChemLaser_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2301|MediumChemLaser_AmmoEquipment_Double
+[Medium Rifle Ammo Double](equipment/MediumRifle_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2300|MediumRifle_AmmoEquipment_Double
+[Narc Ammo Double](equipment/NARC_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|NARC_AmmoEquipment_Double
+[S Chem Laser Ammo Double](equipment/SmallChemLaser_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2301|SmallChemLaser_AmmoEquipment_Double
+[SRM Ammo Double](equipment/SRM_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2370|SRM_AmmoEquipment_Double
+[SRM Artemis Ammo Double](equipment/SRM_Artemis_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|SRM_Artemis_AmmoEquipment_Double
+[Streak SRM Ammo Double](equipment/SRM_Streak_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3035|SRM_Streak_AmmoEquipment_Double
 [Hypervelocity AC/10 Ammo Double](equipment/AC10_Hyper_AmmoEquipment79_Double_details.md)|Critical slots: 2|2.0 tons|3059|AC10_Hyper_AmmoEquipment79_Double
 [Ultra AC/10 Ammo Double](equipment/AC10_Ultra_79_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3057|AC10_Ultra_79_AmmoEquipment_Double
 [LBX/20 Ammo Double](equipment/AC20_LBX_79_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3058|AC20_LBX_79_AmmoEquipment_Double
@@ -237,7 +238,6 @@ Name|Size|Weight|Year|Asset Name
 [Heavy Gauss Ammo Double](equipment/Gauss_Heavy_79_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3061|Gauss_Heavy_79_Standard_AmmoEquipment_Double
 [Light Gauss Ammo Double](equipment/Gauss_Light_79_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3056|Gauss_Light_79_Standard_AmmoEquipment_Double
 [Magshot Gauss Ammo Double](equipment/Gauss_Magshot_79_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3072|Gauss_Magshot_79_Standard_AmmoEquipment_Double
-[Heavy Flamer Ammo Double](equipment/HFlamer_79_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3068|HFlamer_79_AmmoEquipment_Double
 [Heavy Machine Gun Ammo Double](equipment/HMachineGun79_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3068|HMachineGun79_Standard_AmmoEquipment_Double
 [I Narc Ammo Double](equipment/iNARC79_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3062|iNARC79_AmmoEquipment_Double
 [Light Machine Gun Ammo Double](equipment/LMachineGun79_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3068|LMachineGun79_Standard_AmmoEquipment_Double
@@ -266,12 +266,12 @@ Name|Size|Weight|Year|Asset Name
 ---|---|---|---|---
 [Double Heat Sink](equipment/DoubleHeatSink_details.md)|Critical slots: 3|1.0 tons|3040|DoubleHeatSink
 [Single Heat Sink](equipment/SingleHeatSink_details.md)|Critical slots: 1|1.0 tons|2022|SingleHeatSink
+[Double Heatsink (C)](equipment/ClanDHS79_details.md)|Critical slots: 2|1.0 tons|3055|ClanDHS79
+[Light Heatsink (C)](equipment/ClanLHS79_details.md)|Critical slots: 1|0.5 tons|3060|ClanLHS79
 [Compact Heat Sink](equipment/CompactHeatSink79_details.md)|Critical slots: 1|3.0 tons|3058|CompactHeatSink79
 [Heat Bank I](equipment/HeatBank179_details.md)|Critical slots: 1|1.0 tons|3015|HeatBank179
 [Heat Bank II](equipment/HeatBank279_details.md)|Critical slots: 2|2.0 tons|3015|HeatBank279
 [Heat Bank III](equipment/HeatBank379_details.md)|Critical slots: 3|3.0 tons|3015|HeatBank379
-[Double Heatsink (C)](equipment/ClanDHS79_details.md)|Critical slots: 2|1.0 tons|3055|ClanDHS79
-[Light Heatsink (C)](equipment/ClanLHS79_details.md)|Critical slots: 1|0.5 tons|3060|ClanLHS79
 [Double Heat Sink Kit](equipment/Cooling_diss100_details.md)|Critical slots: 1|0.0 tons|1|Cooling_diss100
 [Double Heat Sink Kit (C)](equipment/CLAN_DHS_KIT_details.md)|Critical slots: 1|0.0 tons|3055|CLAN_DHS_KIT
 [Compact Heat Sink Kit](equipment/COMPACT_HS_KIT_details.md)|Critical slots: 1|0.0 tons|3058|COMPACT_HS_KIT
@@ -340,21 +340,21 @@ Name|Size|Weight|Year|Asset Name
 [Sensors Improved](equipment/SENSORS1_details.md)|Critical slots: 1 (sensors)|0.0 tons|3015|SENSORS1
 [Sensors Powered](equipment/SENSORS2_details.md)|Critical slots: 1 (sensors)|0.0 tons|3030|SENSORS2
 [Sensors Sniper](equipment/SENSORS3_details.md)|Critical slots: 1 (sensors)|0.0 tons|3049|SENSORS3
-[TC Energy](equipment/TCOMP_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP
-[TC Ballistic](equipment/TCOMP1_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP1
-[TC Missle](equipment/TCOMP2_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP2
-[TC Projectile Predictive](equipment/TCOMP3PREDICTIVE_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP3PREDICTIVE
+[FCS Energy](equipment/TCOMP_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP
+[FCS Ballistic](equipment/TCOMP1_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP1
+[FCS Missile](equipment/TCOMP2_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP2
+[FCS Projectile Predictive](equipment/TCOMP3PREDICTIVE_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP3PREDICTIVE
 [Sensors Armored](equipment/SENSORS_ARMORED_details.md)|Critical slots: 1 (sensors)|0.5 tons|3059|SENSORS_ARMORED
 [Sensors Primitive](equipment/SENSORS_PRIMITIVE_details.md)|Critical slots: 1 (sensors)|0.0 tons|2464|SENSORS_PRIMITIVE
 [Searchlight](equipment/SENSORS_SEARCHLIGHT_details.md)|Critical slots: 1 (sensors)|0.0 tons|3030|SENSORS_SEARCHLIGHT
-[Sensors TC (QS)](equipment/SENSORS_TC_QS_details.md)|Critical slots: 1 (sensors +  targetting)|0.0 tons|3045|SENSORS_TC_QS
-[TC Heat](equipment/TCOMP_HEAT_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP_HEAT
-[TC Modular](equipment/TCOMP_MODULAR_BC_details.md)|Critical slots: 1 (targetting)|0.0 tons|3023|TCOMP_MODULAR_BC
-[TC Nova](equipment/TCOMP_NOVA_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP_NOVA
-[TC Adv. Ballistic](equipment/TCOMP_BALLISTIC_ADVANCED_details.md)|Critical slots: 2 (targetting)|1.0 tons|3047|TCOMP_BALLISTIC_ADVANCED
-[TC Adv. Missile](equipment/TCOMP_MISSLE_ADVANCED_details.md)|Critical slots: 2 (targetting)|1.0 tons|3047|TCOMP_MISSLE_ADVANCED
-[TC Adv. PPC](equipment/TCOMP_PPC_ADVANCED_details.md)|Critical slots: 2 (targetting)|1.0 tons|3047|TCOMP_PPC_ADVANCED
-[TC Adv. Energy](equipment/TCOMP_TRACE_ADVANCED_details.md)|Critical slots: 2 (targetting)|1.0 tons|3047|TCOMP_TRACE_ADVANCED
+[Sensors FCS (QS)](equipment/SENSORS_TC_QS_details.md)|Critical slots: 1 (sensors +  targetting)|0.0 tons|3045|SENSORS_TC_QS
+[FCS Adv. Ballistic](equipment/TCOMP_BALLISTIC_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_BALLISTIC_ADVANCED
+[FCS Heat](equipment/TCOMP_HEAT_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP_HEAT
+[FCS Adv. Missile](equipment/TCOMP_MISSLE_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_MISSLE_ADVANCED
+[FCS Modular](equipment/TCOMP_MODULAR_BC_details.md)|Critical slots: 1 (targetting)|0.0 tons|3023|TCOMP_MODULAR_BC
+[FCS Nova](equipment/TCOMP_NOVA_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP_NOVA
+[FCS Adv. PPC](equipment/TCOMP_PPC_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_PPC_ADVANCED
+[FCS Adv. Energy](equipment/TCOMP_TRACE_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_TRACE_ADVANCED
 [Beagle Active Probe](equipment/BeagleActiveProbe_details.md)|Critical slots: 2|1.5 tons|3045|BeagleActiveProbe
 [EW Active Probe](equipment/EWActiveProbe_details.md)|Critical slots: 2|3.5 tons|3025|EWActiveProbe
 [Active Probe (C)](equipment/ClanAP79_details.md)|Critical slots: 1|1.0 tons|3055|ClanAP79
@@ -412,6 +412,14 @@ Name|Size|Weight|Year|Asset Name
 [Cockpit Small](equipment/COCKPIT_SMALL_details.md)|Critical slots: 1 (cockpit +  life support)|-1.0 tons|3067|COCKPIT_SMALL
 [C.A.S.E.](equipment/CASE_details.md)|Critical slots: 1|0.5 tons|3036|CASE
 [C.A.S.E. II](equipment/CASE_II_details.md)|Critical slots: 1|1.0 tons|3062|CASE_II
+[Targeting Computer MK.1](equipment/TCLVL1_details.md)|Critical slots: 1|1.0 tons|1|TCLVL1
+[Targeting Computer MK.2](equipment/TCLVL2_details.md)|Critical slots: 2|2.0 tons|1|TCLVL2
+[Targeting Computer MK.3](equipment/TCLVL3_details.md)|Critical slots: 3|3.0 tons|1|TCLVL3
+[Targeting Computer MK.4](equipment/TCLVL4_details.md)|Critical slots: 4|4.0 tons|1|TCLVL4
+[Targeting Computer MK.5](equipment/TCLVL5_details.md)|Critical slots: 5|5.0 tons|1|TCLVL5
+[Targeting Computer MK.6](equipment/TCLVL6_details.md)|Critical slots: 6|6.0 tons|1|TCLVL6
+[Targeting Computer MK.7](equipment/TCLVL7_details.md)|Critical slots: 7|7.0 tons|1|TCLVL7
+[Targeting Computer MK.8](equipment/TCLVL8_details.md)|Critical slots: 8|8.0 tons|1|TCLVL8
 [Test Equip 1](equipment/TEST_EQUIP_1_details.md)|Critical slots: 1 (shoulder +  upper arm +  lower arm)|0.0 tons|3000|TEST_EQUIP_1
 [Battle Fist](equipment/BATTLE_FIST_details.md)|Critical slots: 1 (hand)|1% of 'mech tonnage|3015|BATTLE_FIST
 [Cooling Jacket](equipment/COOLING_JACKET_details.md)|Critical slots: 2 (upper arm +  shoulder)|0.0 tons|3015|COOLING_JACKET
@@ -447,6 +455,9 @@ Name|Size|Weight|Year|Asset Name
 [Compact Actuators Hand (QS)](equipment/COMPACT_ACTUATOR_HAND_QS_details.md)|Critical slots: 1 (shoulder +  upper arm +  lower arm +  hand)|0.0 tons|3045|COMPACT_ACTUATOR_HAND_QS
 [Compact Actuators Lower (QS)](equipment/COMPACT_ACTUATOR_LOWER_QS_details.md)|Critical slots: 1 (upper arm +  shoulder +  lower arm)|0.0 tons|3045|COMPACT_ACTUATOR_LOWER_QS
 [Speedy Leg Actuators (QS)](equipment/SPEEDY_LEG_QS_details.md)|Critical slots: 4 (hip +  upper leg +  lower leg +  foot)|1% of 'mech tonnage|3045|SPEEDY_LEG_QS
+[Thermal Mass Large (QS)](equipment/THERMAL_MASS_LARGE_QS_details.md)|Critical slots: 3|3.0 tons|3045|THERMAL_MASS_LARGE_QS
+[Thermal Mass Medium (QS)](equipment/THERMAL_MASS_MEDIUM_QS_details.md)|Critical slots: 2|2.0 tons|3045|THERMAL_MASS_MEDIUM_QS
+[Thermal Mass Small (QS)](equipment/THERMAL_MASS_SMALL_QS_details.md)|Critical slots: 1|1.0 tons|3045|THERMAL_MASS_SMALL_QS
 [Upper Recoil (QS)](equipment/UPPER_RECOIL_QS_details.md)|Critical slots: 3 (upper arm +  shoulder)|1% of 'mech tonnage|3045|UPPER_RECOIL_QS
 [BC Artemis V](equipment/BC_ARTEMIS_V_details.md)|Critical slots: 1|1.0 tons|3023|BC_ARTEMIS_V
 [BC Ballistic](equipment/BC_BALLISTIC_details.md)|Critical slots: 1|1.0 tons|3023|BC_BALLISTIC
