@@ -1,6 +1,7 @@
 # Yet Another Mech Variants List
 
-The following list contains a total of 750 'mech variants from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
+The following list contains a total of 758 'mech variants from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
+* BM_Dragonslayer (by Koi)
 * Classic Mech Collection YAML (by SankaraSamsara)
 * Yet Another Mechlab (by [cszolee79 and trueg](https://steamuserimages-a.akamaihd.net/ugc/1845911523986277033/EC61714D79BB3256C903CDB26E87397B2897E2B1/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
 * Yet Another Mechlab Mechs (by [cszolee79](https://steamuserimages-a.akamaihd.net/ugc/1706287323638379845/EFB092530EE09A4D68008D564F8003BB89E0BBC5/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
@@ -556,7 +557,7 @@ The following list contains a total of 750 'mech variants from Mechwarrior 5 wit
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |CRD-2R|2649|1533|34|10|2|2|6|1|2|[Star League Relic](yaml-quirks.md#SLDF), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS), [Stabilized Weapon](yaml-quirks.md#STABILIZED-WEAPON)||
-|CRD-3D|2756|1338|34|9|0|2|7|2|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS), [Stabilized Weapon](yaml-quirks.md#STABILIZED-WEAPON)||
+|CRD-3D|2756|1338|34|9|0|2|6|2|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS), [Stabilized Weapon](yaml-quirks.md#STABILIZED-WEAPON)||
 |CRD-3K|2765|1290|34|9|0|2|6|2|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS), [Stabilized Weapon](yaml-quirks.md#STABILIZED-WEAPON)||
 |CRD-3L|2753|1297|34|9|2|4|4|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS), [Stabilized Weapon](yaml-quirks.md#STABILIZED-WEAPON)||
 |CRD-3R|2752|1317|34|9|2|2|6|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS), [Stabilized Weapon](yaml-quirks.md#STABILIZED-WEAPON)||
@@ -641,6 +642,17 @@ The following list contains a total of 750 'mech variants from Mechwarrior 5 wit
 |CTF-4X|3068|1500|34|10|4|2|1|1|2|[Protected Actuators](yaml-quirks.md#PROTECTED-ACTUATOR)|Yet Another Mechlab Mechs|
 |CTF-5L|3058|2090|34|14|1|5|0|1|2|[Protected Actuators](yaml-quirks.md#PROTECTED-ACTUATOR)|Yet Another Special Variant|
 |CTF-IM|3029|1246|34|12|3|3|0|1|2|[Ilya Muromets](yaml-quirks.md#CTF-IM), [Cataphract Hero Armor](yaml-quirks.md#CTF-HERO), [Protected Actuators](yaml-quirks.md#PROTECTED-ACTUATOR)||
+### Dragonslayer (70t)
+|Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|DSY-001|2895|1427|30|10|0|4|2|0|2||BM_Dragonslayer|
+|DSY-001H|3025|1466|35|15|1|5|1|0|2||BM_Dragonslayer|
+|DSY-001H 2|3050|1466|35|15|1|5|1|0|2||BM_Dragonslayer|
+|DSY-002|3046|1682|30|12|0|5|1|0|2||BM_Dragonslayer|
+|DSY-003|3051|1717|30|12|0|4|2|0|2||BM_Dragonslayer|
+|DSY-004|3051|1427|30|10|1|4|2|0|2||BM_Dragonslayer|
+|DSY-005|3063|1427|30|10|1|1|3|0|2||BM_Dragonslayer|
+|DSY-006|3065|1427|30|10|1|5|0|0|2||BM_Dragonslayer|
 ### Grasshopper (70t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1017,7 +1029,7 @@ The following list contains a total of 750 'mech variants from Mechwarrior 5 wit
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |ANH-1A|3025|1600|50|11|5|5|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab Mechs|
-|ANH-1E|3038|1750|50|12|0|8|0|2|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab Mechs|
+|ANH-1E|3028|2085|50|14|0|8|0|2|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)||
 |ANH-1G|3048|2274|50|16|4|6|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab|
 |ANH-1P|3066|2000|50|14|4|6|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab|
 |ANH-1X|3025|1600|50|11|4|7|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab Mechs|
@@ -1038,7 +1050,7 @@ The following list contains a total of 750 'mech variants from Mechwarrior 5 wit
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |AS7-A|2900|1800|50|12|1|2|6|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)|Yet Another Mechlab|
 |AS7-BH|3023|1717|50|18|1|6|1|1|2|[The Boar's Head](yaml-quirks.md#AS7-BH), [Atlas Hero Endurance](yaml-quirks.md#AS7-HERO), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)||
-|AS7-D|3018|1820|50|13|2|4|2|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)|Yet Another Mechlab Mechs|
+|AS7-D|2755|1897|50|13|2|4|2|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)||
 |AS7-D-DC|3045|1858|50|13|2|2|3|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)|Yet Another Mechlab|
 |AS7-D-H|2765|2169|50|15|1|5|4|2|2|[Star League Relic](yaml-quirks.md#SLDF), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)|Yet Another Mechlab|
 |AS7-D-Y|3039|2700|50|29|6|6|4|2|2|[Yrrot](yaml-quirks.md#AS7-D-Y), [Star League Relic](yaml-quirks.md#SLDF), [Atlas Hero Endurance](yaml-quirks.md#AS7-HERO), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)|Yet Another Mechlab|
@@ -1046,7 +1058,7 @@ The following list contains a total of 750 'mech variants from Mechwarrior 5 wit
 |AS7-K3|3083|2346|50|16|2|6|2|2|2|[AS7-K3 Mobility](yaml-quirks.md#AS7-K3), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)|Yet Another Mechlab|
 |AS7-KR|3049|1900|50|20|1|5|2|1|2|[Kraken](yaml-quirks.md#AS7-KR), [Atlas Hero Endurance](yaml-quirks.md#AS7-HERO), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)||
 |AS7-P|3025|1880|50|13|2|4|2|1|2|[Melee Specialization](yaml-quirks.md#MELEE), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)||
-|AS7-RS|3032|1820|50|13|1|4|2|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)|Yet Another Mechlab Mechs|
+|AS7-RS|2892|1849|50|13|1|4|2|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)||
 |AS7-S|3050|1929|50|13|1|4|4|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)|Yet Another Mechlab|
 |AS7-S2|3061|2378|50|16|1|4|2|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)|Yet Another Mechlab|
 |AS7-S3|3062|2378|50|16|1|5|2|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Distracting](yaml-quirks.md#DISTRACTING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS)|Yet Another Mechlab|

@@ -1,6 +1,6 @@
 # Yet Another Equipment List
 
-The following list contains a total of 507 equipment assets from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
+The following list contains a total of 531 equipment assets from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
 * Yet Another Equipment Collection (by [truegerich](https://github.com/mw5mercs-modding/harjel))
 * Yet Another Mechlab (by [cszolee79 and trueg](https://steamuserimages-a.akamaihd.net/ugc/1845911523986277033/EC61714D79BB3256C903CDB26E87397B2897E2B1/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
 * Yet Another Special Variant (by trueg)
@@ -275,6 +275,7 @@ Name|Size|Weight|Year|Asset Name
 [Double Heat Sink Kit](equipment/Cooling_diss100_details.md)|Critical slots: 1|0.0 tons|1|Cooling_diss100
 [Double Heat Sink Kit (C)](equipment/CLAN_DHS_KIT_details.md)|Critical slots: 1|0.0 tons|3055|CLAN_DHS_KIT
 [Compact Heat Sink Kit](equipment/COMPACT_HS_KIT_details.md)|Critical slots: 1|0.0 tons|3058|COMPACT_HS_KIT
+[Cooling Lines](equipment/COOLING_LINES_details.md)|Critical slots: 1|1.0 tons|3043|COOLING_LINES
 [Exchanger](equipment/EXCHANGER_details.md)|Critical slots: 1|1.0 tons|3055|EXCHANGER
 [Exchanger (C)](equipment/EXCHANGER_CLAN_details.md)|Critical slots: 1|1.0 tons|3060|EXCHANGER_CLAN
 [Exchanger Mk2](equipment/EXCHANGER_MK2_details.md)|Critical slots: 1|2.0 tons|3055|EXCHANGER_MK2
@@ -286,6 +287,9 @@ Name|Size|Weight|Year|Asset Name
 [Double Heat Sink Kit (QS)](equipment/DHS_KIT_QS_details.md)|Critical slots: 1|0.0 tons|3045|DHS_KIT_QS
 [Double Heat Sink (QS)](equipment/DHS_QS_details.md)|Critical slots: 2|1.0 tons|3045|DHS_QS
 [Engine Heatsink Removal (QS)](equipment/ENGINE_HS_REMOVAL_QS_details.md)|Critical slots: 1|-1.25 tons|3045|ENGINE_HS_REMOVAL_QS
+[Thermal Mass Large (QS)](equipment/THERMAL_MASS_LARGE_QS_details.md)|Critical slots: 3|3.0 tons|3045|THERMAL_MASS_LARGE_QS
+[Thermal Mass Medium (QS)](equipment/THERMAL_MASS_MEDIUM_QS_details.md)|Critical slots: 2|2.0 tons|3045|THERMAL_MASS_MEDIUM_QS
+[Thermal Mass Small (QS)](equipment/THERMAL_MASS_SMALL_QS_details.md)|Critical slots: 1|1.0 tons|3045|THERMAL_MASS_SMALL_QS
 
 ## MOBILITY EQUIPMENT
 
@@ -307,6 +311,10 @@ Name|Size|Weight|Year|Asset Name
 [Gyro Melee Mk II](equipment/GYRO_MELEE_MK2_details.md)|Critical slots: 3|0.0 tons|3015|GYRO_MELEE_MK2
 [Gyro Melee Mk III](equipment/GYRO_MELEE_MK3_details.md)|Critical slots: 3|0.0 tons|3015|GYRO_MELEE_MK3
 [Gyro Stability](equipment/GYRO_STABILITY_details.md)|Critical slots: 3|0.0 tons|3092|GYRO_STABILITY
+[Partial Wing System](equipment/PARTIAL_WING_SYSTEM_details.md)|Critical slots: 3 (fixed: 3)|7% of 'mech tonnage|3067|PARTIAL_WING_SYSTEM
+[Partial Wing System (C)](equipment/PARTIAL_WING_SYSTEM_C_details.md)|Critical slots: 3 (fixed: 3)|5% of 'mech tonnage|3067|PARTIAL_WING_SYSTEM_C
+[Super Cooled Myomer](equipment/SUPER_COOLED_MYOMER_details.md)|Critical slots: 1 (dynamic: 5)|0.0 tons|3132|SUPER_COOLED_MYOMER
+[Hybrid TSM (QS)](equipment/HYBRID_TSM_QS_details.md)|Critical slots: 1 (dynamic: 6, fixed: 4)|0.0 tons|3045|HYBRID_TSM_QS
 [Jump Jets Class I](equipment/JumpJet_Class1_Equipment_details.md)|Critical slots: 1|2.0 tons|2471|JumpJet_Class1_Equipment
 [Jump Jets Class II](equipment/JumpJet_Class2_Equipment_details.md)|Critical slots: 1|1.0 tons|2471|JumpJet_Class2_Equipment
 [Jump Jets Class III](equipment/JumpJet_Class3_Equipment_details.md)|Critical slots: 1|1.0 tons|2471|JumpJet_Class3_Equipment
@@ -343,11 +351,31 @@ Name|Size|Weight|Year|Asset Name
 [FCS Energy](equipment/TCOMP_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP
 [FCS Ballistic](equipment/TCOMP1_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP1
 [FCS Missile](equipment/TCOMP2_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP2
+[Targeting Computer MK.1](equipment/TCLVL1_details.md)|Critical slots: 1|1.0 tons|1|TCLVL1
+[Targeting Computer MK.2](equipment/TCLVL2_details.md)|Critical slots: 2|2.0 tons|1|TCLVL2
+[Targeting Computer MK.3](equipment/TCLVL3_details.md)|Critical slots: 3|3.0 tons|1|TCLVL3
+[Targeting Computer MK.4](equipment/TCLVL4_details.md)|Critical slots: 4|4.0 tons|1|TCLVL4
+[Targeting Computer MK.5](equipment/TCLVL5_details.md)|Critical slots: 5|5.0 tons|1|TCLVL5
+[Targeting Computer MK.6](equipment/TCLVL6_details.md)|Critical slots: 6|6.0 tons|1|TCLVL6
+[Targeting Computer MK.7](equipment/TCLVL7_details.md)|Critical slots: 7|7.0 tons|1|TCLVL7
+[Targeting Computer MK.8](equipment/TCLVL8_details.md)|Critical slots: 8|8.0 tons|1|TCLVL8
 [FCS Projectile Predictive](equipment/TCOMP3PREDICTIVE_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP3PREDICTIVE
 [Sensors Armored](equipment/SENSORS_ARMORED_details.md)|Critical slots: 1 (sensors)|0.5 tons|3059|SENSORS_ARMORED
 [Sensors Primitive](equipment/SENSORS_PRIMITIVE_details.md)|Critical slots: 1 (sensors)|0.0 tons|2464|SENSORS_PRIMITIVE
 [Searchlight](equipment/SENSORS_SEARCHLIGHT_details.md)|Critical slots: 1 (sensors)|0.0 tons|3030|SENSORS_SEARCHLIGHT
+[Laser Overcharge Module](equipment/LASER_OVERCHARGE_MODULE_details.md)|Critical slots: 1|1.0 tons|3137|LASER_OVERCHARGE_MODULE
+[Laser Pulse Module](equipment/LASER_PULSE_MODULE_details.md)|Critical slots: 1|1.0 tons|3137|LASER_PULSE_MODULE
+[PPC Capacitor](equipment/PPC_CAPACITOR_details.md)|Critical slots: 1|1.0 tons|3055|PPC_CAPACITOR
 [Sensors FCS (QS)](equipment/SENSORS_TC_QS_details.md)|Critical slots: 1 (sensors +  targetting)|0.0 tons|3045|SENSORS_TC_QS
+[BC Artemis V](equipment/BC_ARTEMIS_V_details.md)|Critical slots: 1|1.0 tons|3023|BC_ARTEMIS_V
+[BC Ballistic](equipment/BC_BALLISTIC_details.md)|Critical slots: 1|1.0 tons|3023|BC_BALLISTIC
+[BC Energy](equipment/BC_ENERGY_details.md)|Critical slots: 1|1.0 tons|3023|BC_ENERGY
+[BC Heat](equipment/BC_HEAT_details.md)|Critical slots: 1|1.0 tons|3023|BC_HEAT
+[BC Missile](equipment/BC_MISSILE_details.md)|Critical slots: 1|1.0 tons|3023|BC_MISSILE
+[BC Piloting](equipment/BC_PILOTING_details.md)|Critical slots: 1|1.0 tons|3023|BC_PILOTING
+[BC PPC](equipment/BC_PPC_details.md)|Critical slots: 1|1.0 tons|3023|BC_PPC
+[BC Predictive](equipment/BC_PREDICTIVE_details.md)|Critical slots: 1|1.0 tons|3023|BC_PREDICTIVE
+[BC Range](equipment/BC_RANGE_details.md)|Critical slots: 1|1.0 tons|3023|BC_RANGE
 [FCS Adv. Ballistic](equipment/TCOMP_BALLISTIC_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_BALLISTIC_ADVANCED
 [FCS Heat](equipment/TCOMP_HEAT_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP_HEAT
 [FCS Adv. Missile](equipment/TCOMP_MISSLE_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_MISSLE_ADVANCED
@@ -392,9 +420,28 @@ Name|Size|Weight|Year|Asset Name
 [Armor: Ferro Lamellor (C)](equipment/FERRO_LAMELLOR_CLAN_details.md)|Critical slots: 14 (dynamic: 12) (armor)|0.0 tons|3070|FERRO_LAMELLOR_CLAN
 [Armor Ferro Prototype](equipment/FERRO_PROTOTYPE_details.md)|Critical slots: 1 (dynamic: 16) (armor)|0.0 tons|2480|FERRO_PROTOTYPE
 [Armor Hardened Ferro](equipment/HARDENED_FERRO_details.md)|Critical slots: 1 (fixed: 14) (armor)|0.0 tons|3059|HARDENED_FERRO
+[HarJel I](equipment/HARJEL_I_details.md)|Critical slots: 1|0.5 tons|3059|HARJEL_I
+[HarJel II](equipment/HARJEL_II_details.md)|Critical slots: 1|1.0 tons|3059|HARJEL_II
+[HarJel III](equipment/HARJEL_III_details.md)|Critical slots: 2|1.5 tons|3059|HARJEL_III
+[Blue Shield PFD](equipment/BLUE_SHIELD_PARTICLE_FIELD_DAMPER_details.md)|Critical slots: 1 (fixed: 6)|3.0 tons|3051|BLUE_SHIELD_PARTICLE_FIELD_DAMPER
+[Modular Armor Mk I](equipment/MODULAR_ARMOR_MK1_FRONT_details.md)|Critical slots: 1|0.25 tons|3015|MODULAR_ARMOR_MK1_FRONT
+[Modular Armor Mk I Rear](equipment/MODULAR_ARMOR_MK1_REAR_details.md)|Critical slots: 1|0.25 tons|3015|MODULAR_ARMOR_MK1_REAR
+[Modular Armor Mk II](equipment/MODULAR_ARMOR_MK2_FRONT_details.md)|Critical slots: 1|0.5 tons|3015|MODULAR_ARMOR_MK2_FRONT
+[Modular Armor Mk II Rear](equipment/MODULAR_ARMOR_MK2_REAR_details.md)|Critical slots: 1|0.5 tons|3015|MODULAR_ARMOR_MK2_REAR
+[Modular Armor Mk III](equipment/MODULAR_ARMOR_MK3_FRONT_details.md)|Critical slots: 1|0.75 tons|3015|MODULAR_ARMOR_MK3_FRONT
+[Modular Armor Mk III Rear](equipment/MODULAR_ARMOR_MK3_REAR_details.md)|Critical slots: 1|0.75 tons|3015|MODULAR_ARMOR_MK3_REAR
+[Modular Armor Mk IV](equipment/MODULAR_ARMOR_MK4_FRONT_details.md)|Critical slots: 1|1.0 tons|3015|MODULAR_ARMOR_MK4_FRONT
+[Modular Armor Mk IV Rear](equipment/MODULAR_ARMOR_MK4_REAR_details.md)|Critical slots: 1|1.0 tons|3015|MODULAR_ARMOR_MK4_REAR
+[Patchwork Tier I](equipment/PATCHWORK_T1_details.md)|Critical slots: 1|-0.2 tons|3015|PATCHWORK_T1
+[Patchwork Ferro Tier I](equipment/PATCHWORK_T1_FERRO_details.md)|Critical slots: 1|0.0 tons|3035|PATCHWORK_T1_FERRO
+[Patchwork Tier II](equipment/PATCHWORK_T2_details.md)|Critical slots: 2|-0.4 tons|3015|PATCHWORK_T2
+[Patchwork Ferro Tier II](equipment/PATCHWORK_T2_FERRO_details.md)|Critical slots: 2|0.0 tons|3035|PATCHWORK_T2_FERRO
+[Patchwork Tier III](equipment/PATCHWORK_T3_details.md)|Critical slots: 3|-0.6 tons|3015|PATCHWORK_T3
+[Patchwork Ferro Tier III](equipment/PATCHWORK_T3_FERRO_details.md)|Critical slots: 3|0.0 tons|3035|PATCHWORK_T3_FERRO
 [Armor Duralast (QS)](equipment/ARMOR_DURALAST_QS_details.md)|Critical slots: 1 (fixed: 8) (armor)|0.0 tons|3045|ARMOR_DURALAST_QS
 [Armor Ferro (QS)](equipment/ARMOR_FERRO_QS_details.md)|Critical slots: 1 (dynamic: 4, fixed: 8) (armor)|0.0 tons|3045|ARMOR_FERRO_QS
 [Structure Endo (QS)](equipment/ENDO_QS_details.md)|Critical slots: 1 (dynamic: 10) (structure)|0.0 tons|3045|ENDO_QS
+[Stick and Peel (QS)](equipment/STICK_AND_PEEL_QS_details.md)|Critical slots: 1|0.1 tons|3059|STICK_AND_PEEL_QS
 [Structure Endo Bulky (QS)](equipment/STRUCTURE_ENDO_BULKY_QS_details.md)|Critical slots: 1 (dynamic: 22) (structure)|0.0 tons|3045|STRUCTURE_ENDO_BULKY_QS
 [Structure (QS)](equipment/STRUCTURE_QS_details.md)|Critical slots: 1 (structure)|0.0 tons|3045|STRUCTURE_QS
 [Structure Composite](equipment/COMPOSITE_STRUCTURE_details.md)|Critical slots: 1 (structure)|0.0 tons|3061|COMPOSITE_STRUCTURE
@@ -412,14 +459,6 @@ Name|Size|Weight|Year|Asset Name
 [Cockpit Small](equipment/COCKPIT_SMALL_details.md)|Critical slots: 1 (cockpit +  life support)|-1.0 tons|3067|COCKPIT_SMALL
 [C.A.S.E.](equipment/CASE_details.md)|Critical slots: 1|0.5 tons|3036|CASE
 [C.A.S.E. II](equipment/CASE_II_details.md)|Critical slots: 1|1.0 tons|3062|CASE_II
-[Targeting Computer MK.1](equipment/TCLVL1_details.md)|Critical slots: 1|1.0 tons|1|TCLVL1
-[Targeting Computer MK.2](equipment/TCLVL2_details.md)|Critical slots: 2|2.0 tons|1|TCLVL2
-[Targeting Computer MK.3](equipment/TCLVL3_details.md)|Critical slots: 3|3.0 tons|1|TCLVL3
-[Targeting Computer MK.4](equipment/TCLVL4_details.md)|Critical slots: 4|4.0 tons|1|TCLVL4
-[Targeting Computer MK.5](equipment/TCLVL5_details.md)|Critical slots: 5|5.0 tons|1|TCLVL5
-[Targeting Computer MK.6](equipment/TCLVL6_details.md)|Critical slots: 6|6.0 tons|1|TCLVL6
-[Targeting Computer MK.7](equipment/TCLVL7_details.md)|Critical slots: 7|7.0 tons|1|TCLVL7
-[Targeting Computer MK.8](equipment/TCLVL8_details.md)|Critical slots: 8|8.0 tons|1|TCLVL8
 [Test Equip 1](equipment/TEST_EQUIP_1_details.md)|Critical slots: 1 (shoulder +  upper arm +  lower arm)|0.0 tons|3000|TEST_EQUIP_1
 [Battle Fist](equipment/BATTLE_FIST_details.md)|Critical slots: 1 (hand)|1% of 'mech tonnage|3015|BATTLE_FIST
 [Cooling Jacket](equipment/COOLING_JACKET_details.md)|Critical slots: 2 (upper arm +  shoulder)|0.0 tons|3015|COOLING_JACKET
@@ -439,35 +478,20 @@ Name|Size|Weight|Year|Asset Name
 [Weapon Mount Heat](equipment/WEAPON_MOUNT_HEAT_details.md)|Critical slots: 1 (upper arm)|1% of 'mech tonnage|3015|WEAPON_MOUNT_HEAT
 [Weapon Mount Recoil](equipment/WEAPON_MOUNT_RECOIL_details.md)|Critical slots: 1 (upper arm)|1% of 'mech tonnage|3015|WEAPON_MOUNT_RECOIL
 [Slic Suite](equipment/SLIC_SUITE_details.md)|Critical slots: 1 (cockpit)|0.0 tons|3055|SLIC_SUITE
-[Cooling Lines](equipment/COOLING_LINES_details.md)|Critical slots: 1|1.0 tons|3043|COOLING_LINES
-[Blue Shield PFD](equipment/BLUE_SHIELD_PARTICLE_FIELD_DAMPER_details.md)|Critical slots: 1 (fixed: 6)|3.0 tons|3051|BLUE_SHIELD_PARTICLE_FIELD_DAMPER
 [Cockpit Armored](equipment/COCKPIT_ARMORED_details.md)|Critical slots: 1 (cockpit)|1.0 tons|3059|COCKPIT_ARMORED
 [Cockpit Hotseat](equipment/COCKPIT_HOTSEAT_details.md)|Critical slots: 1 (dynamic: 6) (cockpit)|0.0 tons|3055|COCKPIT_HOTSEAT
 [Cockpit Primitive](equipment/COCKPIT_PRIMITIVE_details.md)|Critical slots: 1 (cockpit)|2.0 tons|2464|COCKPIT_PRIMITIVE
 [Cockpit Small Advanced](equipment/COCKPIT_SMALL_ADVANCED_details.md)|Critical slots: 1 (cockpit +  life support)|-1.0 tons|3055|COCKPIT_SMALL_ADVANCED
-[Laser Overcharge Module](equipment/LASER_OVERCHARGE_MODULE_details.md)|Critical slots: 1|1.0 tons|3137|LASER_OVERCHARGE_MODULE
-[Laser Pulse Module](equipment/LASER_PULSE_MODULE_details.md)|Critical slots: 1|1.0 tons|3137|LASER_PULSE_MODULE
-[Partial Wing System](equipment/PARTIAL_WING_SYSTEM_details.md)|Critical slots: 3 (fixed: 3)|7% of 'mech tonnage|3067|PARTIAL_WING_SYSTEM
-[Partial Wing System (C)](equipment/PARTIAL_WING_SYSTEM_C_details.md)|Critical slots: 3 (fixed: 3)|5% of 'mech tonnage|3067|PARTIAL_WING_SYSTEM_C
-[PPC Capacitor](equipment/PPC_CAPACITOR_details.md)|Critical slots: 1|1.0 tons|3055|PPC_CAPACITOR
+[Evasion Support](equipment/EVASION_SUPPORT_1_details.md)|Critical slots: 1 (life support)|0.0 tons|3030|EVASION_SUPPORT_1
+[Heat Management Support](equipment/HEAT_MANAGEMENT_SUPPORT_1_details.md)|Critical slots: 1 (life support)|0.0 tons|3030|HEAT_MANAGEMENT_SUPPORT_1
+[Improved Life Support](equipment/IMPROVED_LIFE_SUPPORT_details.md)|Critical slots: 1 (life support)|0.0 tons|3059|IMPROVED_LIFE_SUPPORT
+[Shielding Support](equipment/SHIELDING_SUPPORT_1_details.md)|Critical slots: 1 (life support)|0.0 tons|3030|SHIELDING_SUPPORT_1
 [Turret Mount](equipment/TURRET_MOUNT_details.md)|Critical slots: 1|1.0 tons|3032|TURRET_MOUNT
 [C.A.S.E. II (QS)](equipment/CASE_II_QS_details.md)|Critical slots: 1|0.8 tons|3045|CASE_II_QS
 [Compact Actuators Hand (QS)](equipment/COMPACT_ACTUATOR_HAND_QS_details.md)|Critical slots: 1 (shoulder +  upper arm +  lower arm +  hand)|0.0 tons|3045|COMPACT_ACTUATOR_HAND_QS
 [Compact Actuators Lower (QS)](equipment/COMPACT_ACTUATOR_LOWER_QS_details.md)|Critical slots: 1 (upper arm +  shoulder +  lower arm)|0.0 tons|3045|COMPACT_ACTUATOR_LOWER_QS
 [Speedy Leg Actuators (QS)](equipment/SPEEDY_LEG_QS_details.md)|Critical slots: 4 (hip +  upper leg +  lower leg +  foot)|1% of 'mech tonnage|3045|SPEEDY_LEG_QS
-[Thermal Mass Large (QS)](equipment/THERMAL_MASS_LARGE_QS_details.md)|Critical slots: 3|3.0 tons|3045|THERMAL_MASS_LARGE_QS
-[Thermal Mass Medium (QS)](equipment/THERMAL_MASS_MEDIUM_QS_details.md)|Critical slots: 2|2.0 tons|3045|THERMAL_MASS_MEDIUM_QS
-[Thermal Mass Small (QS)](equipment/THERMAL_MASS_SMALL_QS_details.md)|Critical slots: 1|1.0 tons|3045|THERMAL_MASS_SMALL_QS
 [Upper Recoil (QS)](equipment/UPPER_RECOIL_QS_details.md)|Critical slots: 3 (upper arm +  shoulder)|1% of 'mech tonnage|3045|UPPER_RECOIL_QS
-[BC Artemis V](equipment/BC_ARTEMIS_V_details.md)|Critical slots: 1|1.0 tons|3023|BC_ARTEMIS_V
-[BC Ballistic](equipment/BC_BALLISTIC_details.md)|Critical slots: 1|1.0 tons|3023|BC_BALLISTIC
-[BC Energy](equipment/BC_ENERGY_details.md)|Critical slots: 1|1.0 tons|3023|BC_ENERGY
-[BC Heat](equipment/BC_HEAT_details.md)|Critical slots: 1|1.0 tons|3023|BC_HEAT
-[BC Missile](equipment/BC_MISSILE_details.md)|Critical slots: 1|1.0 tons|3023|BC_MISSILE
-[BC Piloting](equipment/BC_PILOTING_details.md)|Critical slots: 1|1.0 tons|3023|BC_PILOTING
-[BC PPC](equipment/BC_PPC_details.md)|Critical slots: 1|1.0 tons|3023|BC_PPC
-[BC Predictive](equipment/BC_PREDICTIVE_details.md)|Critical slots: 1|1.0 tons|3023|BC_PREDICTIVE
-[BC Range](equipment/BC_RANGE_details.md)|Critical slots: 1|1.0 tons|3023|BC_RANGE
 [Coolant Pod](equipment/CoolantPodCharge_79_details.md)|Critical slots: 1|1.0 tons|3049|CoolantPodCharge_79
 [Advanced UAV Drone](equipment/UAVDroneAdv_79_details.md)|Critical slots: 1|1.0 tons|3038|UAVDroneAdv_79
 [UAV Drone](equipment/UAVDrone_79_details.md)|Critical slots: 1|1.0 tons|3015|UAVDrone_79

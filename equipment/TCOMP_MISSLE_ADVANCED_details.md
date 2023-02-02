@@ -18,3 +18,4 @@ Intro year: 3047
 * Missile spread distance modifier: +30.0 %
 * Missile projectile speed modifier: +15.0 %
 * Missile cooldown modifier: -15.0 %
+* Missile damage modifier: +10.0 %

@@ -15,8 +15,8 @@ Base Price: 3,500,000 cbills
 Intro year: 3055
 
 ## Properties
-* Activates when heat above: 85.0 %
-* Deactivates when heat below: 40.0 %
+* Heat threshold for activation: 85.0 %
+* Heat threshold for normalization: 40.0 %
 * Failure chance per second: 0.3 %
 * Heat Damage on failure: 0.6 
 * Damage on failure: 6.0 

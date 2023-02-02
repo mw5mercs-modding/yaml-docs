@@ -17,3 +17,4 @@ Intro year: 3047
 * PPC spread distance modifier: +30.0 %
 * PPC projectile speed modifier: +15.0 %
 * PPC cooldown modifier: -15.0 %
+* PPC damage modifier: +10.0 %
