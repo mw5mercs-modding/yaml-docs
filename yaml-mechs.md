@@ -1,8 +1,8 @@
 # Yet Another Mech Variants List
 
-The following list contains a total of 758 'mech variants from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
+The following list contains a total of 779 'mech variants from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
 * BM_Dragonslayer (by Koi)
-* Classic Mech Collection YAML (by SankaraSamsara)
+* Classic Mech Collection Lore YAML (by SankaraSamsara)
 * Yet Another Mechlab (by [cszolee79 and trueg](https://steamuserimages-a.akamaihd.net/ugc/1845911523986277033/EC61714D79BB3256C903CDB26E87397B2897E2B1/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
 * Yet Another Mechlab Mechs (by [cszolee79](https://steamuserimages-a.akamaihd.net/ugc/1706287323638379845/EFB092530EE09A4D68008D564F8003BB89E0BBC5/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
 * Yet Another Special Variant (by trueg)
@@ -150,7 +150,22 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 ### Cougar (35t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|COU-PRIME|3058|1040|25|7|8|8|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-A|3058|1697|25|12|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-B|3058|1774|25|12|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-BA|3058|1587|25|17|10|10|8|3|0|[Cougar Hero Armor](yaml-quirks.md#COU-BA-HERO-ARMOR), [Blood Adder](yaml-quirks.md#COU-BA-HERO), [OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-C|3058|1785|25|12|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-D|3058|1309|25|9|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-E|3063|1442|25|10|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-F|3071|1401|25|10|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-G|3071|1453|25|10|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-H|3061|1323|25|9|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-I|3145|1738|25|12|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-PRIME|3058|1040|25|7|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-T|3071|1748|25|12|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-X|3086|1516|25|10|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-X2|3089|1335|25|9|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-X3|3093|1410|25|10|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
+|COU-XR|3070|1783|25|12|10|10|8|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|YetAnotherClanMech|
 ### Firestarter (35t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -221,8 +236,8 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 ### Assassin (40t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|ASN-101|3024|757|18|5|0|4|2|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Cramped Cockpit](yaml-quirks.md#CRAMPED-COCKPIT), [Non-Standard Parts](yaml-quirks.md#NON-STANDARD-PARTS), [Poor Life Support](yaml-quirks.md#POOR-LIFE-SUPPORT)||
-|ASN-21|2676|749|18|5|0|2|4|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Cramped Cockpit](yaml-quirks.md#CRAMPED-COCKPIT), [Non-Standard Parts](yaml-quirks.md#NON-STANDARD-PARTS), [Poor Life Support](yaml-quirks.md#POOR-LIFE-SUPPORT)||
+|ASN-101|3031|757|9|5|0|4|2|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Cramped Cockpit](yaml-quirks.md#CRAMPED-COCKPIT), [Non-Standard Parts](yaml-quirks.md#NON-STANDARD-PARTS), [Poor Life Support](yaml-quirks.md#POOR-LIFE-SUPPORT)|Yet Another Mechlab Mechs|
+|ASN-21|2900|749|8|5|0|2|4|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Cramped Cockpit](yaml-quirks.md#CRAMPED-COCKPIT), [Non-Standard Parts](yaml-quirks.md#NON-STANDARD-PARTS), [Poor Life Support](yaml-quirks.md#POOR-LIFE-SUPPORT)|Yet Another Mechlab Mechs|
 |ASN-23|3067|740|8|5|0|4|3|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Cramped Cockpit](yaml-quirks.md#CRAMPED-COCKPIT), [Non-Standard Parts](yaml-quirks.md#NON-STANDARD-PARTS), [Poor Life Support](yaml-quirks.md#POOR-LIFE-SUPPORT)|Yet Another Mechlab|
 |ASN-25|3026|751|18|5|0|3|0|1|2|[Melee Specialization](yaml-quirks.md#MELEE), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Cramped Cockpit](yaml-quirks.md#CRAMPED-COCKPIT), [Non-Standard Parts](yaml-quirks.md#NON-STANDARD-PARTS), [Poor Life Support](yaml-quirks.md#POOR-LIFE-SUPPORT)||
 |ASN-26|2750|1044|18|7|2|4|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Cramped Cockpit](yaml-quirks.md#CRAMPED-COCKPIT), [Non-Standard Parts](yaml-quirks.md#NON-STANDARD-PARTS), [Poor Life Support](yaml-quirks.md#POOR-LIFE-SUPPORT)||
@@ -246,6 +261,7 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |GRF-IIC-2|3049|1061|25|11|0|2|4|1|2|[Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|YetAnotherClanMech|
 |GRF-IIC-3|3056|1072|25|11|0|4|2|1|2|[Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|YetAnotherClanMech|
 |GRF-IIC-4|3058|1032|25|11|0|2|2|1|2|[Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|YetAnotherClanMech|
+|GRF-IIC-5|3071|1344|25|14|6|2|0|1|2|[Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|YetAnotherClanMech|
 |GRF-IIC-6|3073|1028|25|11|0|1|2|1|2|[Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|YetAnotherClanMech|
 |GRF-IIC-7|3083|1366|25|14|0|2|2|1|2|[Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|YetAnotherClanMech|
 |GRF-IIC-8|3078|1215|25|12|0|3|2|1|2|[Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|YetAnotherClanMech|
@@ -264,10 +280,10 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 ### Blackjack (45t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|BJ-1|2757|949|22|6|2|4|0|1|0|[Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING)||
+|BJ-1|3034|949|22|6|2|4|0|1|0|[Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING)|Yet Another Mechlab Mechs|
 |BJ-1DB|3022|1015|22|7|0|6|0|1|0|[Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING)||
 |BJ-1DC|3024|917|22|6|2|6|0|1|0|[Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING)||
-|BJ-1X|2756|964|22|6|0|8|0|1|0|[Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING)||
+|BJ-1X|3034|964|22|6|0|8|0|1|0|[Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING)|Yet Another Mechlab Mechs|
 |BJ-2|3052|1271|22|9|0|2|4|1|0|[Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING)|Yet Another Mechlab|
 |BJ-3|3042|1271|22|9|0|6|0|1|0|[Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING)||
 |BJ-4|3067|1063|22|7|2|4|0|1|0|[Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING)|Yet Another Mechlab|
@@ -352,6 +368,10 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |ENF-5D|3050|1308|25|9|2|3|0|1|2|[Barrel Fists](yaml-quirks.md#BARREL-FISTS), [Fast Reload (RA)](yaml-quirks.md#FAST-RELOAD-RARM), [Improved Cooling Jacket](yaml-quirks.md#IMP-COOLING-B), [Ammo Feed Problem (RA)](yaml-quirks.md#JAM-RARM)|Yet Another Mechlab|
 |ENF-5P|2856|1009|25|7|4|1|0|1|2|[Ammo Feed Problem (LA)](yaml-quirks.md#JAM-LARM), [Barrel Fists](yaml-quirks.md#BARREL-FISTS), [Fast Reload (RA)](yaml-quirks.md#FAST-RELOAD-RARM), [Improved Cooling Jacket](yaml-quirks.md#IMP-COOLING-B), [Ammo Feed Problem (RA)](yaml-quirks.md#JAM-RARM)||
 |ENF-GH|3045|1677|25|17|1|4|0|1|2|[Ghillie](yaml-quirks.md#ENF-GH), [Enforcer Hero Armor](yaml-quirks.md#ENF-HERO), [Barrel Fists](yaml-quirks.md#BARREL-FISTS), [Fast Reload (RA)](yaml-quirks.md#FAST-RELOAD-RARM), [Improved Cooling Jacket](yaml-quirks.md#IMP-COOLING-B), [Ammo Feed Problem (RA)](yaml-quirks.md#JAM-RARM)||
+### Hellcat (50t)
+|Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|HCT-PRIME|3049|1272|46|9|1|2|1|0|0|[](yaml-quirks.md#UBIQUITOUS-CLAN), [](yaml-quirks.md#IMPROVED-COMS-CLAN), [](yaml-quirks.md#CLAN-QUIRK-HELLCAT), [](yaml-quirks.md#HELLCAT-CELESTIAL-CLASSIC-PRIME), [](yaml-quirks.md#HCT-PRIME)|Classic Mech Collection Lore YAML|
 ### Hunchback II (50t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -364,7 +384,7 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |HBK-IIC-3|3050|1366|48|14|0|3|3|1|2|[Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|Yet Another Special Variant|
 |HBK-IIC-4|3050|1468|48|15|2|2|0|1|2|[Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|Yet Another Special Variant|
 |HBK-IIC-5|3050|1354|48|14|2|3|0|1|2|[Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|Yet Another Special Variant|
-|HBK-IIC-DW|3050|1455|56|23|1|6|0|1|2|[Hunchback IIC Deathwish](yaml-quirks.md#hbk-iic-deathwish), [Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|Yet Another Special Variant|
+|HBK-IIC-DW|3050|1455|56|23|1|6|0|1|2|[Hunchback IIC Deathwish](yaml-quirks.md#hbk-iic-deathwish), [Hunchback IIC Deathwish](yaml-quirks.md#hbk-iic-deathwish-HERO-ARMOR), [Clan](yaml-quirks.md#clan-mech), [Battlefists](yaml-quirks.md#BATTLEFISTS)|Yet Another Special Variant|
 ### Hunchback (50t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -380,7 +400,7 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 ### Nova (50t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|NVA-PRIME|3050|2609|23|18|21|21|23|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Energy Proficiency](yaml-quirks.md#ENERGYPROF), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Combat Computer](yaml-quirks.md#CBTCPU)|YetAnotherClanMech|
+|NVA-PRIME|3050|2609|23|18|21|21|2|3|0|[OmniMech](yaml-quirks.md#OMNI-MECH), [Energy Proficiency](yaml-quirks.md#ENERGYPROF), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Combat Computer](yaml-quirks.md#CBTCPU)|YetAnotherClanMech|
 ### Trebuchet (50t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -429,7 +449,7 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |GRF-2N|2751|1606|25|11|0|2|4|1|2|[Star League Relic](yaml-quirks.md#SLDF), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)||
 |GRF-3M|3049|1521|25|10|0|2|4|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)||
 |GRF-5L|3070|1742|25|12|0|5|2|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS), [Stealth Armor](yaml-quirks.md#STEALTH_ARMOR), [Difficult To Maintain](yaml-quirks.md#DIFFICULTTOMAINTAIN)|Yet Another Mechlab|
-|GRF-5M|3049|1521|25|10|4|2|2|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Mechlab|
+|GRF-5M|3066|1521|25|10|4|2|2|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Mechlab|
 |GRF-AR|3027|1235|25|12|0|4|2|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Ubiquitous](yaml-quirks.md#UBIQUITOUS), [Ares](yaml-quirks.md#GRF-AR), [Griffin Hero Endurance](yaml-quirks.md#GRF-HERO)||
 ### Kintaro (55t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
@@ -487,8 +507,8 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |CHP-1N2|2667|1233|32|8|1|5|2|1|0|[Easy to Pilot](yaml-quirks.md#EASY-PILOT)||
 |CHP-1NB|2751|1632|32|11|4|4|0|1|0|[Star League Relic](yaml-quirks.md#SLDF), [Easy to Pilot](yaml-quirks.md#EASY-PILOT)||
 |CHP-2N|2810|1116|32|7|3|4|1|1|0|[Easy to Pilot](yaml-quirks.md#EASY-PILOT)||
-|CHP-3N|3034|1400|32|10|1|6|1|1|0|[Clanbuster](yaml-quirks.md#CLANBUSTER), [Easy to Pilot](yaml-quirks.md#EASY-PILOT)|Yet Another Mechlab|
-|CHP-INV|3034|1400|32|15|0|2|4|1|0|[Invictus](yaml-quirks.md#CHP-INV), [Champion Hero Armor](yaml-quirks.md#CHP-HERO), [Easy to Pilot](yaml-quirks.md#EASY-PILOT)|Yet Another Mechlab|
+|CHP-3N|3052|1400|32|10|1|6|1|1|0|[Clanbuster](yaml-quirks.md#CLANBUSTER), [Easy to Pilot](yaml-quirks.md#EASY-PILOT)|Yet Another Mechlab|
+|CHP-INV|3062|1400|32|15|0|2|4|1|0|[Invictus](yaml-quirks.md#CHP-INV), [Champion Hero Armor](yaml-quirks.md#CHP-HERO), [Easy to Pilot](yaml-quirks.md#EASY-PILOT)|Yet Another Mechlab|
 ### Dragon (60t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -504,6 +524,10 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |DRG-1G|3024|1300|28|9|0|4|2|1|2|[Narrow Profile](yaml-quirks.md#NARROW-PROFILE)||
 |DRG-5K|3050|1358|28|9|0|5|2|1|2|[Narrow Profile](yaml-quirks.md#NARROW-PROFILE)|Yet Another Mechlab|
 |DRG-7K|3063|1702|28|12|0|4|2|1|2|[Narrow Profile](yaml-quirks.md#NARROW-PROFILE)|Yet Another Mechlab|
+### Griffin (60t)
+|Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|GRF-1A|2465|1024|20|7|0|1|1|1|1|[Obsolete 'mech](yaml-quirks.md#OBSOLETE)|Yet Another Special Variant|
 ### Mad Dog  (60t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -511,7 +535,7 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 ### Mad Dog (60t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|MDD-PRIME|3015|2073|50|14|0|4|2|0|2||Classic Mech Collection YAML|
+|MDD-PRIME|3049|2073|65|14|0|4|2|0|2|[](yaml-quirks.md#UBIQUITOUS-CLAN), [](yaml-quirks.md#IMPROVED-COMS-CLAN), [](yaml-quirks.md#CLAN-QUIRK-MADDOG), [](yaml-quirks.md#MADDOG-CELESTIAL-CLASSIC-PRIME), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [](yaml-quirks.md#MDD-PRIME)|Classic Mech Collection Lore YAML|
 ### Quickdraw (60t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -529,7 +553,7 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |RFL-3C|3026|1066|30|7|4|4|0|1|0|[Anti-Air Targeting](yaml-quirks.md#ANTIAIR-TARGETING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)||
 |RFL-3CR|3071|1129|30|8|2|2|0|1|0|[Anti-Air Targeting](yaml-quirks.md#ANTIAIR-TARGETING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Special Variant|
-|RFL-3N|3044|1039|30|7|2|6|0|1|0|[Anti-Air Targeting](yaml-quirks.md#ANTIAIR-TARGETING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Mechlab Mechs|
+|RFL-3N|3012|1039|30|7|2|6|0|1|0|[Anti-Air Targeting](yaml-quirks.md#ANTIAIR-TARGETING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Mechlab Mechs|
 |RFL-4D|3021|1173|30|8|0|6|0|1|0|[Anti-Air Targeting](yaml-quirks.md#ANTIAIR-TARGETING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)||
 |RFL-5D|3049|1150|30|8|0|8|0|1|0|[Anti-Air Targeting](yaml-quirks.md#ANTIAIR-TARGETING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Mechlab|
 |RFL-5M|3049|1227|30|8|2|6|0|1|0|[Anti-Air Targeting](yaml-quirks.md#ANTIAIR-TARGETING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Mechlab|
@@ -539,6 +563,10 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |RFL-DB|3027|1039|30|11|3|5|0|1|0|[Dao Breaker](yaml-quirks.md#RFL-DB), [Rifleman Hero Endurance](yaml-quirks.md#RFL-HERO), [Anti-Air Targeting](yaml-quirks.md#ANTIAIR-TARGETING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)||
 |RFL-DNA|3040|1613|30|17|4|4|0|3|0|[Diana](yaml-quirks.md#RFL-DNA), [Rifleman Hero Endurance](yaml-quirks.md#RFL-HERO), [Anti-Air Targeting](yaml-quirks.md#ANTIAIR-TARGETING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)||
 |RFL-LK|3027|1296|30|14|4|4|0|1|0|[Legend Killer](yaml-quirks.md#RFL-LK), [Rifleman Hero Endurance](yaml-quirks.md#RFL-HERO), [Anti-Air Targeting](yaml-quirks.md#ANTIAIR-TARGETING), [Improved Communications](yaml-quirks.md#IMPROVED-COMS), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)||
+### Super Griffin (60t)
+|Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|GRF-2N-X|3020|1310|35|9|1|3|2|2|2|[Prototype](yaml-quirks.md#PROTOTYPE), [Prototype Armor](yaml-quirks.md#SUPER_GRIFFIN_ARMOR)|Yet Another Special Variant|
 ### Catapult (65t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -573,7 +601,7 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 ### Hellbringer (65t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|HBR-PRIME|2505|1335|60|9|2|5|1|1|2||Classic Mech Collection YAML|
+|HBR-PRIME|3049|1335|60|9|2|5|1|1|2|[](yaml-quirks.md#UBIQUITOUS-CLAN), [](yaml-quirks.md#IMPROVED-COMS-CLAN), [](yaml-quirks.md#CLAN-QUIRK-HELLBRINGER), [](yaml-quirks.md#HELLBRINGER-CELESTIAL-CLASSIC-PRIME), [](yaml-quirks.md#HBR-PRIME)|Classic Mech Collection Lore YAML|
 ### JagerMech (65t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -645,14 +673,15 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 ### Dragonslayer (70t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|DSY-001|2895|1427|30|10|0|4|2|0|2||BM_Dragonslayer|
-|DSY-001H|3025|1466|35|15|1|5|1|0|2||BM_Dragonslayer|
-|DSY-001H 2|3050|1466|35|15|1|5|1|0|2||BM_Dragonslayer|
-|DSY-002|3046|1682|30|12|0|5|1|0|2||BM_Dragonslayer|
-|DSY-003|3051|1717|30|12|0|4|2|0|2||BM_Dragonslayer|
-|DSY-004|3051|1427|30|10|1|4|2|0|2||BM_Dragonslayer|
-|DSY-005|3063|1427|30|10|1|1|3|0|2||BM_Dragonslayer|
-|DSY-006|3065|1427|30|10|1|5|0|0|2||BM_Dragonslayer|
+|Davion Slayer|3125|1867|30|20|0|7|1|0|2|[Dragonslayer Hero Endurance](yaml-quirks.md#DSY-HERO), [Improved Accelerator](yaml-quirks.md#IMPROVED-ACCELERATOR), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Combat Computer](yaml-quirks.md#CBTCPU)|BM_Dragonslayer|
+|DSY-001|2895|1427|30|10|0|4|2|0|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Combat Computer](yaml-quirks.md#CBTCPU)|BM_Dragonslayer|
+|DSY-002|3046|1682|30|12|0|5|1|0|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Combat Computer](yaml-quirks.md#CBTCPU)|BM_Dragonslayer|
+|DSY-003|3051|1717|30|12|0|4|2|0|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Combat Computer](yaml-quirks.md#CBTCPU)|BM_Dragonslayer|
+|DSY-004|3051|1427|30|10|1|4|2|0|2|[Stabilized Weapon](yaml-quirks.md#STABILIZED-WEAPON), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Combat Computer](yaml-quirks.md#CBTCPU)|BM_Dragonslayer|
+|DSY-005|3063|1427|30|10|1|1|3|0|2|[Stabilized Weapon](yaml-quirks.md#STABILIZED-WEAPON), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Combat Computer](yaml-quirks.md#CBTCPU)|BM_Dragonslayer|
+|DSY-006|3065|1427|30|10|1|5|0|0|2|[Stabilized Weapon](yaml-quirks.md#STABILIZED-WEAPON), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Combat Computer](yaml-quirks.md#CBTCPU)|BM_Dragonslayer|
+|St George|3025|1466|35|15|1|5|1|0|2|[Melee Specialization](yaml-quirks.md#MELEE), [Dragonslayer Hero Endurance](yaml-quirks.md#DSY-HERO), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Combat Computer](yaml-quirks.md#CBTCPU)|BM_Dragonslayer|
+|St George 2|3050|1466|35|15|1|5|1|0|2|[Melee Specialization](yaml-quirks.md#MELEE), [Dragonslayer Hero Endurance](yaml-quirks.md#DSY-HERO), [Battlefists](yaml-quirks.md#BATTLEFISTS), [Rugged (1)](yaml-quirks.md#RUGGED1), [Combat Computer](yaml-quirks.md#CBTCPU)|BM_Dragonslayer|
 ### Grasshopper (70t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -674,7 +703,7 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 ### Summoner (70t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|SMR-PRIME|3015|2298|40|16|1|1|1|1|2||Classic Mech Collection YAML|
+|SMR-PRIME|3049|2298|50|16|1|1|1|1|2|[](yaml-quirks.md#UBIQUITOUS-CLAN), [](yaml-quirks.md#IMPROVED-COMS-CLAN), [](yaml-quirks.md#CLAN-QUIRK-SUMMONER), [](yaml-quirks.md#SUMMONER-CELESTIAL-CLASSIC-PRIME), [](yaml-quirks.md#SMN-PRIME)|Classic Mech Collection Lore YAML|
 ### Thunderbolt IIC (70t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -683,7 +712,7 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 ### Thunderbolt (70t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|TDR-E5 ERIS|3081|2100|34|15|1|4|2|2|0|[Thunderbolt Eris](yaml-quirks.md#TDR-E5-ERIS), [Multi-Trac](yaml-quirks.md#MULTITRAC), [Rugged (2)](yaml-quirks.md#RUGGED2), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Special Variant|
+|TDR-E5 ERIS|3081|2100|34|15|1|4|2|2|0|[Thunderbolt Eris](yaml-quirks.md#TDR-E5-ERIS), [Thunderbolt Eris Hero Armor](yaml-quirks.md#TDR-E5-HERO-ARMOR), [Multi-Trac](yaml-quirks.md#MULTITRAC), [Rugged (2)](yaml-quirks.md#RUGGED2), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Special Variant|
 ### Urbanlord (70t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -707,7 +736,7 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |WHM-8M|3069|1631|36|11|1|6|0|1|2|[Searchlight](yaml-quirks.md#SEARCHLIGHT), [Rugged (2)](yaml-quirks.md#RUGGED2), [Stable](yaml-quirks.md#STABLE), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Mechlab|
 |WHM-9D|3067|2152|36|15|0|7|0|1|2|[WHM-9D Mobility](yaml-quirks.md#WHM-9D), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Rugged (2)](yaml-quirks.md#RUGGED2), [Stable](yaml-quirks.md#STABLE), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Mechlab|
 |WHM-BW|3015|1509|36|15|4|4|1|1|2|[Black Widow](yaml-quirks.md#WHM-BW), [Warhammer Hero Structure](yaml-quirks.md#WHM-HERO), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Rugged (2)](yaml-quirks.md#RUGGED2), [Stable](yaml-quirks.md#STABLE), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)||
-|WHM-X|3100|2033|36|14|2|4|1|2|2|[High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [RISC](yaml-quirks.md#risc-mech), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Rugged (2)](yaml-quirks.md#RUGGED2), [Stable](yaml-quirks.md#STABLE), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Special Variant|
+|WHM-X|3100|2033|36|14|2|4|1|2|2|[High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [RISC](yaml-quirks.md#risc-mech), [Up-armored Arms](yaml-quirks.md#UPARMORED_ARMS), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Rugged (2)](yaml-quirks.md#RUGGED2), [Stable](yaml-quirks.md#STABLE), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Special Variant|
 |WHM-X7|3032|1807|75|18|0|8|2|2|2|[The Lich](yaml-quirks.md#WHM-X7-LICH), [Warhammer Hero Structure](yaml-quirks.md#WHM-HERO), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Rugged (2)](yaml-quirks.md#RUGGED2), [Stable](yaml-quirks.md#STABLE), [Ubiquitous](yaml-quirks.md#UBIQUITOUS)|Yet Another Special Variant|
 ### Black Knight (75t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
@@ -731,10 +760,6 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |BLK-OB|3091|2420|52|17|13|14|13|1|2|[Rugged (1)](yaml-quirks.md#RUGGED1), [Hardened Plates](yaml-quirks.md#hardened-plates), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Supercooled](yaml-quirks.md#supercooled)|Yet Another Special Variant|
 |BLK-OC|3091|2420|52|17|13|14|13|1|2|[Rugged (1)](yaml-quirks.md#RUGGED1), [Hardened Plates](yaml-quirks.md#hardened-plates), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Supercooled](yaml-quirks.md#supercooled)|Yet Another Special Variant|
 |BLK-OD|3120|2420|52|17|13|14|13|1|2|[Rugged (1)](yaml-quirks.md#RUGGED1), [Hardened Plates](yaml-quirks.md#hardened-plates), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Supercooled](yaml-quirks.md#supercooled)|Yet Another Special Variant|
-### Marauder Classic (75t)
-|Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|MAD-3R|2819|1363|38|9|1|4|0|0|2||Classic Mech Collection YAML|
 ### Marauder (75t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -789,13 +814,13 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 ### Timberwolf (75t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|TBR-PRIME|3015|2073|50|14|2|5|2|1|2|[Weak Head Armor (1)](yaml-quirks.md#WEAK-HEAD-1), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Clan](yaml-quirks.md#clan-mech-savagewolf)|Classic Mech Collection YAML|
+|TBR-PRIME|3049|2073|60|14|2|5|2|1|2|[Weak Head Armor (1)](yaml-quirks.md#WEAK-HEAD-1), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Clan](yaml-quirks.md#clan-mech-savagewolf), [](yaml-quirks.md#UBIQUITOUS-CLAN), [](yaml-quirks.md#IMPROVED-COMS-CLAN), [](yaml-quirks.md#CLAN-QUIRK-TIMBERWOLF), [](yaml-quirks.md#TIMBERWOLF-CELESTIAL-CLASSIC-PRIME), [](yaml-quirks.md#TBR-PRIME)|Classic Mech Collection Lore YAML|
 ## Assault Mechs
 ### Awesome (80t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|AWS-8Q|2665|1605|42|11|0|7|0|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [PPC Platform](yaml-quirks.md#AWS-PPC)||
-|AWS-8R|3042|1470|42|10|0|3|4|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [PPC Platform](yaml-quirks.md#AWS-PPC)|Yet Another Mechlab Mechs|
+|AWS-8Q|3034|1500|42|10|0|7|0|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [PPC Platform](yaml-quirks.md#AWS-PPC)|Yet Another Mechlab Mechs|
+|AWS-8R|3000|1500|42|10|0|3|4|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [PPC Platform](yaml-quirks.md#AWS-PPC)|Yet Another Mechlab Mechs|
 |AWS-8T|2815|1593|42|11|0|5|2|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [PPC Platform](yaml-quirks.md#AWS-PPC)||
 |AWS-8V|3044|1510|42|10|0|4|3|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [PPC Platform](yaml-quirks.md#AWS-PPC)|Yet Another Mechlab Mechs|
 |AWS-9M|3049|1812|42|12|0|6|3|1|2|[Battlefists](yaml-quirks.md#BATTLEFISTS), [PPC Platform](yaml-quirks.md#AWS-PPC)||
@@ -816,7 +841,7 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |HTM-26P|3045|1309|40|9|0|2|2|1|2|[Melee Specialization](yaml-quirks.md#MELEE), [Barrel Fist LA](yaml-quirks.md#BARREL-FIST (L)), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Modular Weapons](yaml-quirks.md#MODULAR-WEAPONS)||
 |HTM-26T|3039|1536|40|10|0|4|4|1|2|[Barrel Fist LA](yaml-quirks.md#BARREL-FIST (L)), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Modular Weapons](yaml-quirks.md#MODULAR-WEAPONS)||
 |HTM-27T|3042|1571|40|11|0|3|4|1|2|[Barrel Fist LA](yaml-quirks.md#BARREL-FIST (L)), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Modular Weapons](yaml-quirks.md#MODULAR-WEAPONS)||
-|HTM-28TR|3039|1536|40|10|0|4|2|1|0|[Barrel Fist LA](yaml-quirks.md#BARREL-FIST (L)), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Modular Weapons](yaml-quirks.md#MODULAR-WEAPONS)|Yet Another Mechlab|
+|HTM-28TR|3067|2034|40|14|0|4|2|1|0|[Barrel Fist LA](yaml-quirks.md#BARREL-FIST (L)), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Modular Weapons](yaml-quirks.md#MODULAR-WEAPONS)|Yet Another Mechlab|
 |HTM-ON|3034|1512|40|15|0|2|4|1|2|[Melee Specialization](yaml-quirks.md#MELEE), [Onimaru](yaml-quirks.md#HTM-ON), [Hatamoto-Chi Hero Armor](yaml-quirks.md#HTM-HERO), [Barrel Fist LA](yaml-quirks.md#BARREL-FIST (L)), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Modular Weapons](yaml-quirks.md#MODULAR-WEAPONS)||
 |HTM-SG|3039|1536|40|15|4|0|4|1|2|[Shugo](yaml-quirks.md#HTM-SG), [Hatamoto-Chi Hero Armor](yaml-quirks.md#HTM-HERO), [Barrel Fist LA](yaml-quirks.md#BARREL-FIST (L)), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN), [Modular Weapons](yaml-quirks.md#MODULAR-WEAPONS)|Yet Another Mechlab|
 ### Hatamoto-Hi (80t)
@@ -877,9 +902,9 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |WMR-IIC-6|3071|1863|62|20|2|3|1|2|2|[Searchlight](yaml-quirks.md#SEARCHLIGHT), [Stable](yaml-quirks.md#STABLE), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Clan](yaml-quirks.md#clan-mech)|Yet Another Special Variant|
 |WMR-IIC-8|3079|1666|62|17|0|6|1|1|2|[Searchlight](yaml-quirks.md#SEARCHLIGHT), [Stable](yaml-quirks.md#STABLE), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Clan](yaml-quirks.md#clan-mech)|Yet Another Special Variant|
 |WMR-IIC-9|3086|1973|62|21|2|4|1|2|2|[Searchlight](yaml-quirks.md#SEARCHLIGHT), [Stable](yaml-quirks.md#STABLE), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Clan](yaml-quirks.md#clan-mech)|Yet Another Special Variant|
-|WMR-IIC-BL|3050|1511|70|23|2|5|2|2|2|[Warhammer IIC Hero Armor](yaml-quirks.md#WMR-IIC-HERO-ARMOR), [Warhammer IIC Bludgeon](yaml-quirks.md#WMR-IIC-BL), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Stable](yaml-quirks.md#STABLE), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Clan](yaml-quirks.md#clan-mech)|Yet Another Special Variant|
-|WMR-IIC-ML|3050|1511|70|23|2|4|2|2|2|[Warhammer IIC Hero Armor](yaml-quirks.md#WMR-IIC-HERO-ARMOR), [Warhammer IIC Maul](yaml-quirks.md#WMR-IIC-ML), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Stable](yaml-quirks.md#STABLE), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Clan](yaml-quirks.md#clan-mech)|Yet Another Special Variant|
-|WMR-IIC-RAC|3050|1575|72|25|6|4|0|2|2|[Warhammer IIC Hero Armor](yaml-quirks.md#WMR-IIC-RAC-ARMOR), [RAC-Hammer](yaml-quirks.md#WMR-IIC-RAC), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Stable](yaml-quirks.md#STABLE), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Clan](yaml-quirks.md#clan-mech)|Yet Another Special Variant|
+|WMR-IIC-BL|3050|1511|70|23|2|5|2|2|2|[Warhammer IIC Bludgeon](yaml-quirks.md#WMR-IIC-BL), [Warhammer IIC Hero Armor](yaml-quirks.md#WMR-IIC-HERO-ARMOR), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Stable](yaml-quirks.md#STABLE), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Clan](yaml-quirks.md#clan-mech)|Yet Another Special Variant|
+|WMR-IIC-ML|3050|1511|70|23|2|4|2|2|2|[Warhammer IIC Maul](yaml-quirks.md#WMR-IIC-ML), [Warhammer IIC Hero Armor](yaml-quirks.md#WMR-IIC-HERO-ARMOR), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Stable](yaml-quirks.md#STABLE), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Clan](yaml-quirks.md#clan-mech)|Yet Another Special Variant|
+|WMR-IIC-RAC|3050|1575|72|25|6|4|0|2|2|[RAC-Hammer](yaml-quirks.md#WMR-IIC-RAC), [Warhammer IIC Hero Armor](yaml-quirks.md#WMR-IIC-RAC-ARMOR), [Searchlight](yaml-quirks.md#SEARCHLIGHT), [Stable](yaml-quirks.md#STABLE), [High Pressure Cooling](yaml-quirks.md#high-pressure-cooling), [Clan](yaml-quirks.md#clan-mech)|Yet Another Special Variant|
 ### Zeus (80t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -924,7 +949,8 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |MAD-IIC-A|3055|1540|50|17|3|4|0|1|2|[Clan](yaml-quirks.md#clan-mech), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Directional Torso Mount (RT)](yaml-quirks.md#MOUNT-RT), [Hyper-Extending Actuators](yaml-quirks.md#hyper-extending-actuators), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|YetAnotherClanMech|
 |MAD-IIC-B|3055|1540|50|17|0|5|2|1|2|[Clan](yaml-quirks.md#clan-mech), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Directional Torso Mount (RT)](yaml-quirks.md#MOUNT-RT), [Hyper-Extending Actuators](yaml-quirks.md#hyper-extending-actuators), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|YetAnotherClanMech|
 |MAD-IIC-C|3055|1540|50|17|2|5|0|1|2|[Tuned Pulse Lasers](yaml-quirks.md#TUNEDPULSE), [Clan](yaml-quirks.md#clan-mech), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Directional Torso Mount (RT)](yaml-quirks.md#MOUNT-RT), [Hyper-Extending Actuators](yaml-quirks.md#hyper-extending-actuators), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|YetAnotherClanMech|
-|MAD-IIC-SC|3055|1540|50|25|2|2|4|1|2|[Scorch](yaml-quirks.md#MAD-IIC-SC), [Marauder IIC Hero Structure](yaml-quirks.md#MAD-IIC-HERO), [Clan](yaml-quirks.md#clan-mech), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Directional Torso Mount (RT)](yaml-quirks.md#MOUNT-RT), [Hyper-Extending Actuators](yaml-quirks.md#hyper-extending-actuators), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|YetAnotherClanMech|
+|MAD-IIC-SC|3055|1540|50|25|2|2|4|1|2|[Scorch](yaml-quirks.md#MAD-IIC-SC), [Marauder IIC Hero Armor](yaml-quirks.md#MAD-IIC-HERO), [Clan](yaml-quirks.md#clan-mech), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Directional Torso Mount (RT)](yaml-quirks.md#MOUNT-RT), [Hyper-Extending Actuators](yaml-quirks.md#hyper-extending-actuators), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|YetAnotherClanMech|
+|MAD-IIC-XM|3058|1587|50|25|3|4|2|1|2|[Svalinn](yaml-quirks.md#MAD-IIC-XM), [Marauder IIC Hero Armor](yaml-quirks.md#MAD-IIC-HERO), [Knight of the Sphere](yaml-quirks.md#KNIGHT-OF-THE-SPHERE), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT), [Clan](yaml-quirks.md#clan-mech), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Directional Torso Mount (RT)](yaml-quirks.md#MOUNT-RT), [Hyper-Extending Actuators](yaml-quirks.md#hyper-extending-actuators), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|YetAnotherClanMech|
 ### Stalker (85t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1019,10 +1045,10 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |NSR-10P|3058|2399|46|17|4|2|0|1|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Difficult To Maintain](yaml-quirks.md#NSR-DIFFICULTTOMAINTAIN), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
-|NSR-9FC|3039|2399|46|17|2|5|0|1|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Difficult To Maintain](yaml-quirks.md#NSR-DIFFICULTTOMAINTAIN), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
+|NSR-9FC|3039|1929|46|13|2|5|0|1|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Difficult To Maintain](yaml-quirks.md#NSR-DIFFICULTTOMAINTAIN), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
 |NSR-9J|3049|2399|46|17|2|6|0|1|2|[Star League Relic](yaml-quirks.md#SLDF), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Difficult To Maintain](yaml-quirks.md#NSR-DIFFICULTTOMAINTAIN), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)||
-|NSR-9P|3049|2399|46|17|4|2|1|2|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Difficult To Maintain](yaml-quirks.md#NSR-DIFFICULTTOMAINTAIN), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
-|NSR-9S|3049|2399|46|17|2|4|0|1|0|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Difficult To Maintain](yaml-quirks.md#NSR-DIFFICULTTOMAINTAIN), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
+|NSR-9P|3058|2399|46|17|4|2|1|2|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Difficult To Maintain](yaml-quirks.md#NSR-DIFFICULTTOMAINTAIN), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
+|NSR-9S|3060|2399|46|17|2|4|0|1|0|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Difficult To Maintain](yaml-quirks.md#NSR-DIFFICULTTOMAINTAIN), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
 |NSR-WD|3067|2499|46|26|0|7|0|1|2|[White Death](yaml-quirks.md#NSR-WD), [Nightstar Hero Armor](yaml-quirks.md#NSR-HERO), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Difficult To Maintain](yaml-quirks.md#NSR-DIFFICULTTOMAINTAIN), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
 |NSR-WP|3009|2399|46|26|0|4|4|1|2|[Wolf Phoenix](yaml-quirks.md#NSR-WP), [Nightstar Hero Armor](yaml-quirks.md#NSR-HERO), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Improved Targeting](yaml-quirks.md#IMPROVED-TARGETING), [Difficult To Maintain](yaml-quirks.md#NSR-DIFFICULTTOMAINTAIN), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
 ### Annihilator (100t)
@@ -1030,16 +1056,16 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |ANH-1A|3025|1600|50|11|5|5|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab Mechs|
 |ANH-1E|3028|2085|50|14|0|8|0|2|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)||
-|ANH-1G|3048|2274|50|16|4|6|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab|
-|ANH-1P|3066|2000|50|14|4|6|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab|
+|ANH-1G|3041|2274|50|16|4|6|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab|
+|ANH-1P|3067|2000|50|14|4|6|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab|
 |ANH-1X|3025|1600|50|11|4|7|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab Mechs|
 |ANH-2A|3033|1680|50|12|6|4|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab Mechs|
 |ANH-2AX|3074|2542|50|18|3|6|2|1|2|[Hardened Plates](yaml-quirks.md#hardened-plates), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Special Variant|
-|ANH-3A|3068|1712|50|12|8|6|1|1|2|[Hardened Plates](yaml-quirks.md#hardened-plates), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Special Variant|
+|ANH-3A|3068|1712|50|12|8|4|0|1|2|[Hardened Plates](yaml-quirks.md#hardened-plates), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Special Variant|
 |ANH-4A|3069|1726|50|12|6|2|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab|
 |ANH-C|3049|1764|75|18|4|4|0|1|2|[Clan](yaml-quirks.md#clan-mech), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|YetAnotherClanMech|
 |ANH-C2|3049|1905|70|20|4|2|0|1|2|[Clan](yaml-quirks.md#clan-mech), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|YetAnotherClanMech|
-|ANH-MB|3048|2500|50|26|0|6|4|1|2|[Mean Baby](yaml-quirks.md#ANH-MB), [Annihilator Hero Endurance](yaml-quirks.md#ANH-HERO), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab|
+|ANH-MB|3058|2500|50|26|0|6|4|1|2|[Mean Baby](yaml-quirks.md#ANH-MB), [Annihilator Hero Endurance](yaml-quirks.md#ANH-HERO), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab|
 |ANH-SG|3073|1796|60|18|4|3|2|1|2|[Schwerer Gustav](yaml-quirks.md#schwerer-gustav), [Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Special Variant|
 ### Atlas II (100t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
@@ -1092,24 +1118,28 @@ The following list contains a total of 758 'mech variants from Mechwarrior 5 wit
 |KGC-000|3068|1906|50|13|6|2|2|1|0|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab Mechs|
 |KGC-0000|2815|1810|50|12|2|4|4|1|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)||
 |KGC-000B|2743|2039|50|14|4|3|3|1|2|[Star League Relic](yaml-quirks.md#SLDF), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)||
-|KGC-001|3068|1906|50|13|2|1|5|1|2|[Clanbuster](yaml-quirks.md#CLANBUSTER), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
+|KGC-001|3068|1906|50|13|4|2|4|1|2|[Clanbuster](yaml-quirks.md#CLANBUSTER), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
 |KGC-007|3071|2523|50|18|2|4|1|1|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
 |KGC-010|2743|2181|50|15|6|2|2|1|2|[Star League Relic](yaml-quirks.md#SLDF), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
-|KGC-CAR|3040|1857|50|20|4|0|6|1|0|[Carapace](yaml-quirks.md#KGC-CAR), [King Crab Hero Armor](yaml-quirks.md#KGC-HERO), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)||
+|KGC-CAR|3040|1857|50|20|4|0|5|1|0|[Carapace](yaml-quirks.md#KGC-CAR), [King Crab Hero Armor](yaml-quirks.md#KGC-HERO), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)||
 |KGC-J|3040|3379|50|36|8|10|6|1|2|[Johnny The Crab](yaml-quirks.md#KGC-J), [King Crab Hero Armor](yaml-quirks.md#KGC-HERO), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)|Yet Another Mechlab|
 |KGC-KJ|3032|2117|50|23|3|6|2|1|2|[Kaiju](yaml-quirks.md#KGC-KJ), [King Crab Hero Armor](yaml-quirks.md#KGC-HERO), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Reinforced Cockpit](yaml-quirks.md#REINFORCEDCOCKPIT)||
 ### Marauder II (100t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |MAD-4A|3012|2073|50|14|0|8|0|1|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)||
-|MAD-4HP|3051|2400|50|17|0|4|9|1|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|Yet Another Mechlab|
-|MAD-4L|3063|2300|50|16|4|2|0|1|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|Yet Another Mechlab|
+|MAD-4HP|3050|2180|50|15|0|4|9|1|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|Yet Another Mechlab|
+|MAD-4L|3063|2839|50|20|4|2|0|1|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|Yet Another Mechlab|
 |MAD-5A|3049|2058|50|14|2|6|0|1|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)||
-|MAD-6S|3049|2546|50|18|1|6|0|2|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|Yet Another Mechlab|
+|MAD-6S|3058|2546|50|18|1|6|0|2|2|[Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|Yet Another Mechlab|
 |MAD-8K|3049|2849|50|20|1|4|0|2|2|[Gunslinger](yaml-quirks.md#gunslinger), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|Yet Another Special Variant|
-|MAD-AL|3049|2600|50|27|4|2|2|1|2|[Alpha](yaml-quirks.md#MAD-AL), [Marauder II Hero Armor](yaml-quirks.md#MAD2-HERO), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|Yet Another Mechlab|
+|MAD-AL|3057|2600|50|27|4|2|2|1|2|[Alpha](yaml-quirks.md#MAD-AL), [Marauder II Hero Armor](yaml-quirks.md#MAD2-HERO), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|Yet Another Mechlab|
 |MAD-RSC|3049|2849|50|20|3|3|2|2|2|[Dreadnaught](yaml-quirks.md#dreadnaught), [Wannabe Matar](yaml-quirks.md#matar), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|Yet Another Special Variant|
 |MAD-RX|3137|2859|50|20|2|2|2|1|2|[Gunslinger](yaml-quirks.md#gunslinger), [Hyper-Extending Actuators](yaml-quirks.md#hyper-extending-actuators), [Command 'Mech](yaml-quirks.md#CMD-MECH), [Hyper-Extending Actuators](yaml-quirks.md#HYPER-EXT-ACTUATOR), [Narrow Profile](yaml-quirks.md#NARROW-PROFILE), [Exposed Actuators](yaml-quirks.md#EXP-ACTUATOR)|Yet Another Special Variant|
+### Stone Rhino Classic (100t)
+|Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|SRO-PRIME|3049|2073|60|14|2|3|0|0|0|[](yaml-quirks.md#UBIQUITOUS-CLAN), [](yaml-quirks.md#IMPROVED-COMS-CLAN), [](yaml-quirks.md#CLAN-QUIRK-STONERHINO), [](yaml-quirks.md#STONERHINO-CELESTIAL-CLASSIC-PRIME), [](yaml-quirks.md#SRO-PRIME)|Classic Mech Collection Lore YAML|
 ## Superheavy Mechs
 ### Corsair (115t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
