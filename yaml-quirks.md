@@ -1960,13 +1960,6 @@ This 'Mech is constructed with non-standard components such that replacement par
 * Structure repair cost: +25.0 %
 
 Quirk name: `NON-STANDARD-PARTS`
-<h2 id="NONSTANDARDPARTS">Non-Standard Parts</h2>
-This 'Mech is built with little regard to maintenance
-
-* Structure repair cost: +25.0 %
-* Structure repair time: +25.0 %
-
-Quirk name: `NONSTANDARDPARTS`
 <h2 id="NSR-DIFFICULTTOMAINTAIN">Difficult To Maintain</h2>
 The Nightstar is a mythical LosTech 'Mech no one has seen in centuries. Repairs need extra care and attention.
 
@@ -2274,6 +2267,16 @@ This 'Mech's cockpit is well hidden inside its structure, making it resistant to
 * Head structure bonus: +5 
 
 Quirk name: `REINFORCEDCOCKPIT`
+<h2 id="RF-2A">Rifleman III</h2>
+Unique set of quirks for the Rifleman III 'Mech
+
+* Weapon cooldown modifier: -10.0 %
+* Weapon heat generation modifier: -10.0 %
+* Weapon optimal range modifier: +10.0 %
+* Weapon max range modifier: +10.0 %
+* Gauss cooldown modifier: -20.0 %
+
+Quirk name: `RF-2A`
 <h2 id="RFL-DB">Dao Breaker</h2>
 Unique set of quirks for the Rifleman Dao Breaker Hero 'Mech
 
@@ -2505,7 +2508,7 @@ Quirk name: `STABLE_RIGHT_ARM`
 <h2 id="STEALTH_ARMOR">Stealth Armor</h2>
 The Mech carries a Stealth Armor system, which allows it to reduce its radar signature and makes the 'Mech harder to target.
 
-* Chance to completely avoid incoming fire: 35.0 %
+* Chance to completely avoid incoming fire: 25.0 %
 
 Quirk name: `STEALTH_ARMOR`
 <h2 id="STK-HERO">Stalker Hero Armor</h2>
