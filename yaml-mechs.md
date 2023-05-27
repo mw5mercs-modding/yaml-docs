@@ -13,7 +13,7 @@ The following list contains a total of 1,059 'mech variants from Mechwarrior 5 w
 * T6Ms Marauder III (YAML/YAW) (by The6thMessenger)
 * Wasp YAML-Edition (by Mace24de / Zombeh)
 * Wyvern YAML-Edition (by Mace24de / Zombeh)
-* Yet Another Mechlab (by [cszolee79 and trueg](https://steamuserimages-a.akamaihd.net/ugc/1845911523986277033/EC61714D79BB3256C903CDB26E87397B2897E2B1/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
+* Yet Another Mechlab (by [cszolee79 and trueg](https://www.nexusmods.com/mechwarrior5mercenaries/mods/459))
 * Yet Another Mechlab Mechs (by [Yet Another Team](https://www.nexusmods.com/mechwarrior5mercenaries/mods/816))
 * Yet Another Special Variant (by trueg)
 * YetAnotherClanMech (by cszolee79 and trueg)
