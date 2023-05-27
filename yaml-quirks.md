@@ -15,12 +15,22 @@ This specific 'Mech was modified to be a Arrow IV platform, and has improved AIV
 * Arrow IV min range modifier: -50.0 %
 
 Quirk name: `AIV-PLATFORM`
+<h2 id="Aletha">Fire Moth Hero Armor</h2>
+The Fire Moth Hero comes equipped with higher density armor
+
+* Center torso armor bonus: +5 
+* Right torso armor bonus: +5 
+* Left torso armor bonus: +5 
+* Right leg armor bonus: +9 
+* Left leg armor bonus: +9 
+
+Quirk name: `Aletha`
 <h2 id="ANH-HERO">Annihilator Hero Endurance</h2>
 The Annihilator Hero comes equipped with higher density armor
 
 * Center torso armor bonus: +16 
-* Right torso armor bonus: +12 
-* Left torso armor bonus: +12 
+* Right torso armor bonus: +20 
+* Left torso armor bonus: +20 
 * Right leg armor bonus: +7 
 * Left leg armor bonus: +7 
 * Right arm armor bonus: +2 
@@ -77,6 +87,82 @@ Unique set of quirks for the Archer Templar Hero 'Mech
 * Medium Laser cooldown modifier: -5.0 %
 
 Quirk name: `ARC-T`
+<h2 id="ART-HERO">Arthur Prototype</h2>
+The Arthur Prototype comes equipped with higher density armor
+
+* Center torso armor bonus: +4 
+* Right torso armor bonus: +3 
+* Left torso armor bonus: +3 
+* Right leg armor bonus: +1 
+* Left leg armor bonus: +1 
+* Right arm armor bonus: +2 
+* Left arm armor bonus: +2 
+
+Quirk name: `ART-HERO`
+<h2 id="ART0X">ART-0X-X</h2>
+Unique set of quirks for ART-0X-X
+
+* Arm Weapon projectile speed modifier: +35.0 %
+* Arm Weapon cooldown modifier: -10.0 %
+* Weapon optimal range modifier: +20.0 %
+* Weapon max range modifier: +20.0 %
+
+Quirk name: `ART0X`
+<h2 id="ARTB">ART-1B</h2>
+Unique set of quirks for the Arthur 1B 'Mech
+
+* Acceleration modifier: +10.0 %
+* Deceleration modifier: +10.0 %
+* Arm Weapon heat generation modifier: -10.0 %
+* Arm Weapon optimal range modifier: +10.0 %
+* Arm Weapon max range modifier: +10.0 %
+* Weapon projectile speed modifier: +30.0 %
+
+Quirk name: `ARTB`
+<h2 id="ARTC">ART-1C</h2>
+Unique set of quirks for the Arthur 1C 'Mech
+
+* Torso twist rate modifier: +20.0 %
+* Weapon projectile speed modifier: +30.0 %
+* Ballistic cooldown modifier: -30.0 %
+* Ballistic damage modifier: +10.0 %
+
+Quirk name: `ARTC`
+<h2 id="ARTE">ART-1E</h2>
+Unique set of quirks for the Arthur 1E 'Mech
+
+* Torso twist rate modifier: +10.0 %
+* Acceleration modifier: +10.0 %
+* Deceleration modifier: +10.0 %
+* Weapon optimal range modifier: +20.0 %
+* Weapon max range modifier: +20.0 %
+* Ballistic projectile speed modifier: +20.0 %
+
+Quirk name: `ARTE`
+<h2 id="ARTG">ART-1G</h2>
+Unique set of quirks for the Arthur 1G 'Mech
+
+* Torso twist rate modifier: +30.0 %
+* Acceleration modifier: +30.0 %
+* Deceleration modifier: +10.0 %
+* Weapon lock-on time modifier: -20.0 %
+* Weapon projectile speed modifier: +30.0 %
+* Weapon optimal range modifier: +20.0 %
+* Weapon max range modifier: +20.0 %
+
+Quirk name: `ARTG`
+<h2 id="ARTM">ART-1M</h2>
+Unique set of quirks for the Arthur 1M 'Mech
+
+* Acceleration modifier: +30.0 %
+* Deceleration modifier: +10.0 %
+* Weapon lock-on time modifier: -20.0 %
+* Missile projectile speed modifier: +10.0 %
+* Missile optimal range modifier: +20.0 %
+* Missile max range modifier: +20.0 %
+* Missile ammo modifier: +15.0 %
+
+Quirk name: `ARTM`
 <h2 id="AS7-BH">The Boar's Head</h2>
 Unique set of quirks for the Atlas The Boar's Head Hero 'Mech
 
@@ -173,6 +259,18 @@ Unique set of quirks for the Assassin Wayz Hero 'Mech
 * Laser max range modifier: +20.0 %
 
 Quirk name: `ASN-W`
+<h2 id="AUTOLOADER">Autoloader</h2>
+Ballistic Weapons are able to charge faster.
+
+* Ballistic cooldown modifier: -15.0 %
+
+Quirk name: `AUTOLOADER`
+<h2 id="AUTOLOADER2">Autoloader(2)</h2>
+Ballistic Weapons are able to charge faster.
+
+* Ballistic cooldown modifier: -25.0 %
+
+Quirk name: `AUTOLOADER2`
 <h2 id="AWS-HERO">Awesome Hero Armor</h2>
 The Awesome Hero comes equipped with higher density armor
 
@@ -288,6 +386,30 @@ The Blackjack Hero comes equipped with higher density armor
 * Left arm armor bonus: +10 
 
 Quirk name: `BJ-HERO`
+<h2 id="BKL-BL-HERO">Bellonarius</h2>
+Unique set of quirks for the Bellonarius Black Lanner 'Mech
+
+* Turn speed modifier: +15.0 %
+* Weapon optimal range modifier: +10.0 %
+* Weapon max range modifier: +10.0 %
+* Machinegun ammo modifier: +25.0 %
+* Enery cooldown modifier: -10.0 %
+* Missile cooldown modifier: -10.0 %
+* Missile ammo modifier: +50.0 %
+
+Quirk name: `BKL-BL-HERO`
+<h2 id="BKL-BL-HERO-STRUCT">Black Lanner Hero Structure</h2>
+The Cougar Hero comes equipped with higher density structure
+
+* Center torso structure bonus: +10 
+* Right torso structure bonus: +5 
+* Left torso structure bonus: +5 
+* Right leg structure bonus: +5 
+* Left leg structure bonus: +5 
+* Right arm structure bonus: +8 
+* Left arm structure bonus: +8 
+
+Quirk name: `BKL-BL-HERO-STRUCT`
 <h2 id="BL-G-KNT">Guerilla</h2>
 Unique set of quirks for the Black Knight Guerilla Hero 'Mech
 
@@ -460,13 +582,13 @@ Quirk name: `CGR-N7`
 <h2 id="CHP-HERO">Champion Hero Armor</h2>
 The Champion Hero comes equipped with higher density armor
 
-* Center torso armor bonus: +12 
-* Right torso armor bonus: +10 
-* Left torso armor bonus: +10 
+* Center torso armor bonus: +16 
+* Right torso armor bonus: +16 
+* Left torso armor bonus: +16 
 * Right leg armor bonus: +10 
 * Left leg armor bonus: +10 
-* Right arm armor bonus: +16 
-* Left arm armor bonus: +16 
+* Right arm armor bonus: +20 
+* Left arm armor bonus: +20 
 
 Quirk name: `CHP-HERO`
 <h2 id="CHP-INV">Invictus</h2>
@@ -503,6 +625,90 @@ C.A.S.E. protection on all components.
 * C.A.S.E. protects the component from internal explosion damage traveling to adjacent components
 
 Quirk name: `clan-mech-savagewolf`
+<h2 id="CLAN-QUIRK-coyotecic">Clan</h2>
+The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.
+
+C.A.S.E. protection on all components.
+
+* Top speed modifier: +6.7 %
+* Turn speed modifier: +10.0 %
+* Acceleration modifier: +10.0 %
+* 'Mech upkeep cost modifier: +20.0 %
+* C.A.S.E. protects the component from internal explosion damage traveling to adjacent components
+
+Quirk name: `CLAN-QUIRK-coyotecic`
+<h2 id="CLAN-QUIRK-HELLBRINGER">Clan</h2>
+The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.
+
+C.A.S.E. protection on all components.
+
+* Top speed modifier: +6.7 %
+* Turn speed modifier: +10.0 %
+* Acceleration modifier: +10.0 %
+* 'Mech upkeep cost modifier: +20.0 %
+* C.A.S.E. protects the component from internal explosion damage traveling to adjacent components
+
+Quirk name: `CLAN-QUIRK-HELLBRINGER`
+<h2 id="CLAN-QUIRK-HELLCAT">Clan</h2>
+The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.
+
+C.A.S.E. protection on all components.
+
+* Top speed modifier: +6.7 %
+* Turn speed modifier: +10.0 %
+* Acceleration modifier: +10.0 %
+* 'Mech upkeep cost modifier: +20.0 %
+* C.A.S.E. protects the component from internal explosion damage traveling to adjacent components
+
+Quirk name: `CLAN-QUIRK-HELLCAT`
+<h2 id="CLAN-QUIRK-MADDOG">Clan</h2>
+The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.
+
+C.A.S.E. protection on all components.
+
+* Top speed modifier: +6.7 %
+* Turn speed modifier: +10.0 %
+* Acceleration modifier: +10.0 %
+* 'Mech upkeep cost modifier: +20.0 %
+* C.A.S.E. protects the component from internal explosion damage traveling to adjacent components
+
+Quirk name: `CLAN-QUIRK-MADDOG`
+<h2 id="CLAN-QUIRK-STONERHINO">Clan</h2>
+The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.
+
+C.A.S.E. protection on all components.
+
+* Top speed modifier: +6.7 %
+* Turn speed modifier: +10.0 %
+* Acceleration modifier: +10.0 %
+* 'Mech upkeep cost modifier: +20.0 %
+* C.A.S.E. protects the component from internal explosion damage traveling to adjacent components
+
+Quirk name: `CLAN-QUIRK-STONERHINO`
+<h2 id="CLAN-QUIRK-SUMMONER">Clan</h2>
+The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.
+
+C.A.S.E. protection on all components.
+
+* Top speed modifier: +6.7 %
+* Turn speed modifier: +10.0 %
+* Acceleration modifier: +10.0 %
+* 'Mech upkeep cost modifier: +20.0 %
+* C.A.S.E. protects the component from internal explosion damage traveling to adjacent components
+
+Quirk name: `CLAN-QUIRK-SUMMONER`
+<h2 id="CLAN-QUIRK-TIMBERWOLF">Clan</h2>
+The way the Clans fought was well reflected in the designs of their Battlemechs, often being shown by how quick and maneuverable they were.
+
+C.A.S.E. protection on all components.
+
+* Top speed modifier: +6.7 %
+* Turn speed modifier: +10.0 %
+* Acceleration modifier: +10.0 %
+* 'Mech upkeep cost modifier: +20.0 %
+* C.A.S.E. protects the component from internal explosion damage traveling to adjacent components
+
+Quirk name: `CLAN-QUIRK-TIMBERWOLF`
 <h2 id="CLANBUSTER">Clanbuster</h2>
 A ComStar designed refit for the Battle of Tukayyid, featuring the latest tech to withstand against the Clans.
 
@@ -594,6 +800,12 @@ This 'Mech is small enough that two of its kind are able to fit in the same stor
 * 'Mech upkeep cost modifier: -50.0 %
 
 Quirk name: `COMPACT`
+<h2 id="COOLINGIMP">Improved Heat Pumps</h2>
+This 'Mech is equipped with highly efficent heat pumps.
+
+* Cooling efficiency modifier: +100.0 %
+
+Quirk name: `COOLINGIMP`
 <h2 id="coolingJacketPpc">Improved Cooling Jacket PPC</h2>
 The Improved Cooling Jacket reduces the heat generated by the weapon it is applied to
 
@@ -669,6 +881,23 @@ This mech has a cowl around its cockpit resulting in increased head armor
 * Head armor bonus: +6 
 
 Quirk name: `COWL`
+<h2 id="coyotekinsblue">BLU</h2>
+The BLU has an advanced AMS system
+
+* Top speed modifier: +5.0 %
+* AMS optimal range modifier: +15.0 %
+* AMS max range modifier: +15.0 %
+* AMS missiles destroyed per sec: +25.0 %
+* AMS ammo usage/heat: -10.0 %
+
+Quirk name: `coyotekinsblue`
+<h2 id="coyotekinshwlr">HWLR</h2>
+The HWLR is able to hold more SRM missiles then normal
+
+* Top speed modifier: +5.0 %
+* SRM Missile ammo modifier: +50.0 %
+
+Quirk name: `coyotekinshwlr`
 <h2 id="CP-HERO">Cyclops Hero Endurance</h2>
 The Cyclops Hero comes equipped with higher density armor and structure
 
@@ -1274,6 +1503,34 @@ The Hunchback IIC Deathwish Hero has increased armor and structure.
 * Left torso structure bonus: +12 
 
 Quirk name: `hbk-iic-deathwish-HERO-ARMOR`
+<h2 id="HBR-HERO">Hellbringer Endurance</h2>
+The Hellbringer Hero comes equipped with higher density armor and structure
+
+* Right arm armor bonus: +10 
+* Left arm armor bonus: +10 
+* Center torso structure bonus: +15 
+* Right torso structure bonus: +20 
+* Left torso structure bonus: +15 
+* Right leg structure bonus: +15 
+* Left leg structure bonus: +15 
+* Right arm structure bonus: +15 
+* Left arm structure bonus: +15 
+
+Quirk name: `HBR-HERO`
+<h2 id="HBR-PRIME">Hellbringer Endurance</h2>
+The Hellbringer Prime comes equipped with higher density armor and structure
+
+* Right arm armor bonus: +15 
+* Left arm armor bonus: +15 
+* Center torso structure bonus: +15 
+* Right torso structure bonus: +20 
+* Left torso structure bonus: +15 
+* Right leg structure bonus: +15 
+* Left leg structure bonus: +15 
+* Right arm structure bonus: +11 
+* Left arm structure bonus: +11 
+
+Quirk name: `HBR-PRIME`
 <h2 id="HCT-HERO">Hatchetman Hero Endurance</h2>
 The Hatchetman Hero comes equipped with higher density armor
 
@@ -1293,6 +1550,20 @@ Unique set of quirks for the Hatchetman Man-at-Arms Hero 'Mech
 * Ballistic cooldown modifier: -15.0 %
 
 Quirk name: `HCT-MA`
+<h2 id="HCT-PRIME">Hellcat Endurance</h2>
+The Hellcat Prime comes equipped with higher density armor and structure
+
+* Right arm armor bonus: +15 
+* Left arm armor bonus: +15 
+* Center torso structure bonus: +15 
+* Right torso structure bonus: +20 
+* Left torso structure bonus: +15 
+* Right leg structure bonus: +15 
+* Left leg structure bonus: +15 
+* Right arm structure bonus: +11 
+* Left arm structure bonus: +11 
+
+Quirk name: `HCT-PRIME`
 <h2 id="HEAT_RESISTANT">Heat resistant</h2>
 This 'mech is coated in a thin layer of cooling lines which help in spreading external heat much more efficiently.
 
@@ -1310,6 +1581,50 @@ Weapons equipped on the right torso of this 'mech can exceed their normal limits
 * Right torso weapons jam chance modifier: -15.0 %
 
 Quirk name: `HEAVY_GUNNER_RT`
+<h2 id="HELLBRINGER-CELESTIAL-CLASSIC">Hellbringer</h2>
+The Hellbringer is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* All Weapons heat generation modifier: -10.0 %
+
+Quirk name: `HELLBRINGER-CELESTIAL-CLASSIC`
+<h2 id="HELLBRINGER-CELESTIAL-CLASSIC-PRIME">Hellbringer Prime</h2>
+The Hellbringer is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* Ballistic cooldown modifier: -20.0 %
+* Energy cooldown modifier: -20.0 %
+* Energy heat generation modifier: -5.0 %
+* Missile spread radius modifier: -10.0 %
+* Missile cooldown modifier: -10.0 %
+
+Quirk name: `HELLBRINGER-CELESTIAL-CLASSIC-PRIME`
+<h2 id="HELLCAT-CELESTIAL-CLASSIC">Hellcat</h2>
+The Hellcat is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* All Weapons heat generation modifier: -10.0 %
+
+Quirk name: `HELLCAT-CELESTIAL-CLASSIC`
+<h2 id="HELLCAT-CELESTIAL-CLASSIC-PRIME">Hellcat Prime</h2>
+The Hellcat is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* Ballistic cooldown modifier: -20.0 %
+* Energy cooldown modifier: -20.0 %
+* Energy heat generation modifier: -5.0 %
+* Missile spread radius modifier: -10.0 %
+* Missile cooldown modifier: -10.0 %
+
+Quirk name: `HELLCAT-CELESTIAL-CLASSIC-PRIME`
 <h2 id="HGN-HERO">Highlander Hero Endurance</h2>
 The Highlander Hero comes equipped with higher density armor and structure
 
@@ -1498,6 +1813,12 @@ This 'Mech has an exceptionally powerful communications suite and gains a benefi
 * Sensor range bonus: 100.0 m
 
 Quirk name: `IMPROVED-COMS`
+<h2 id="IMPROVED-COMS-CLAN">Improved Comms (C)</h2>
+This 'Mech has an exceptionally powerful communications suite and gains a benefit to sensor range
+
+* Sensor range bonus: 200.0 m
+
+Quirk name: `IMPROVED-COMS-CLAN`
 <h2 id="IMPROVED-TARGETING">Improved Targeting</h2>
 This 'Mech has a robust targeting system that makes it easier to hit enemy targets.
 
@@ -1838,6 +2159,88 @@ The Marauder II Hero comes equipped with higher density armor
 * Left arm armor bonus: +15 
 
 Quirk name: `MAD2-HERO`
+<h2 id="MADDOG-CELESTIAL-CLASSIC">Mad Dog</h2>
+The Mad Dog is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* All Weapons heat generation modifier: -10.0 %
+
+Quirk name: `MADDOG-CELESTIAL-CLASSIC`
+<h2 id="MADDOG-CELESTIAL-CLASSIC-PRIME">Mad Dog Prime</h2>
+The Mad Dog is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* Ballistic cooldown modifier: -20.0 %
+* Energy cooldown modifier: -20.0 %
+* Energy heat generation modifier: -5.0 %
+* Missile spread radius modifier: -10.0 %
+* Missile cooldown modifier: -10.0 %
+
+Quirk name: `MADDOG-CELESTIAL-CLASSIC-PRIME`
+<h2 id="MADIII">Marauder III</h2>
+The Maruder-III has denser skeleton, extra head armor, and better weapon heat dissipation.
+
+* Head armor bonus: +9 
+* Center torso structure bonus: +9 
+* Right torso structure bonus: +6 
+* Left torso structure bonus: +6 
+* Right leg structure bonus: +6 
+* Left leg structure bonus: +6 
+* Right arm structure bonus: +4 
+* Left arm structure bonus: +4 
+* Ballistic heat generation modifier: -10.0 %
+* Missile heat generation modifier: -10.0 %
+* Energy heat generation modifier: -10.0 %
+
+Quirk name: `MADIII`
+<h2 id="MADIII-HERO">Marie Celeste</h2>
+Unique set of quirks for the Marauder-III Marie Celeste Hero 'Mech
+
+* Center torso armor bonus: +9 
+* Right torso armor bonus: +6 
+* Left torso armor bonus: +6 
+* Right leg armor bonus: +6 
+* Left leg armor bonus: +6 
+* Right arm armor bonus: +4 
+* Left arm armor bonus: +4 
+* Ultra AC cooldown modifier: -10.0 %
+* Ballistic projectile speed modifier: +30.0 %
+* Ballistic cooldown modifier: -10.0 %
+* Missile optimal range modifier: +10.0 %
+* Missile max range modifier: +10.0 %
+* Energy optimal range modifier: +10.0 %
+* Energy max range modifier: +10.0 %
+
+Quirk name: `MADIII-HERO`
+<h2 id="MADV">Marauder V</h2>
+The Maruder-V has denser armor.
+
+* Head armor bonus: +24 
+* Center torso armor bonus: +16 
+* Right torso armor bonus: +8 
+* Left torso armor bonus: +8 
+* Right leg armor bonus: +8 
+* Left leg armor bonus: +8 
+* Right arm armor bonus: +8 
+* Left arm armor bonus: +8 
+
+Quirk name: `MADV`
+<h2 id="MADV-HERO">Marauder V Hero Armor</h2>
+The Marauder V Hero comes equipped with higher density armor
+
+* Center torso armor bonus: +16 
+* Right torso armor bonus: +8 
+* Left torso armor bonus: +8 
+* Right leg armor bonus: +8 
+* Left leg armor bonus: +8 
+* Right arm armor bonus: +8 
+* Left arm armor bonus: +8 
+
+Quirk name: `MADV-HERO`
 <h2 id="MAL-HERO">Mauler Hero Structure</h2>
 The Mauler Hero comes equipped with higher density structure
 
@@ -1886,6 +2289,34 @@ The Mad Cat Mk  Hero comes equipped with higher density armor
 * Left arm armor bonus: +10 
 
 Quirk name: `MCII-HERO`
+<h2 id="MDD-HERO">Mad Dog Endurance</h2>
+The Mad Dog Hero comes equipped with higher density armor and structure
+
+* Right arm armor bonus: +10 
+* Left arm armor bonus: +10 
+* Center torso structure bonus: +15 
+* Right torso structure bonus: +20 
+* Left torso structure bonus: +15 
+* Right leg structure bonus: +15 
+* Left leg structure bonus: +15 
+* Right arm structure bonus: +15 
+* Left arm structure bonus: +15 
+
+Quirk name: `MDD-HERO`
+<h2 id="MDD-PRIME">Mad Dog Endurance</h2>
+The Mad Dog Prime comes equipped with higher density armor and structure
+
+* Right arm armor bonus: +15 
+* Left arm armor bonus: +15 
+* Center torso structure bonus: +15 
+* Right torso structure bonus: +20 
+* Left torso structure bonus: +15 
+* Right leg structure bonus: +15 
+* Left leg structure bonus: +15 
+* Right arm structure bonus: +11 
+* Left arm structure bonus: +11 
+
+Quirk name: `MDD-PRIME`
 <h2 id="MELEE">Melee Specialization</h2>
 This 'Mech is designed or upgraded for melee combat
 
@@ -1933,6 +2364,17 @@ This 'Mech is capable of keeping track of multiple targets at the same time.
 * Laser cooldown modifier: -5.0 %
 
 Quirk name: `MULTITRAC`
+<h2 id="NAIS-MECH">NAIS Mech</h2>
+Advanced construction methods developed by NAIS has created a 'Mech similar to the Mercury. Due to its complex manufacturing Arthur suffers from higher repair costs, however its limited modularity allows it shorter refit and repair time.
+
+* Armor repair cost: +20.0 %
+* Armor repair time: -10.0 %
+* Structure repair cost: +20.0 %
+* Structure repair time: -5.0 %
+* Weapon and equipment refit time: -35.0 %
+* C.A.S.E. protects the component from internal explosion damage traveling to adjacent components
+
+Quirk name: `NAIS-MECH`
 <h2 id="NARROW-PROFILE">Narrow Profile</h2>
 The unit is constructed to present a very narrow or low profile to any incoming fire, with a chance to complete negate damage.
 
@@ -1960,6 +2402,13 @@ This 'Mech is constructed with non-standard components such that replacement par
 * Structure repair cost: +25.0 %
 
 Quirk name: `NON-STANDARD-PARTS`
+<h2 id="NONSTANDARDPARTS">Non-Standard Parts</h2>
+This 'Mech is built with little regard to maintenance
+
+* Structure repair cost: +25.0 %
+* Structure repair time: +25.0 %
+
+Quirk name: `NONSTANDARDPARTS`
 <h2 id="NSR-DIFFICULTTOMAINTAIN">Difficult To Maintain</h2>
 The Nightstar is a mythical LosTech 'Mech no one has seen in centuries. Repairs need extra care and attention.
 
@@ -2011,6 +2460,94 @@ The 'mech went out of production, and from that date onwards units of that type 
 * 'Mech upkeep cost modifier: +15.0 %
 
 Quirk name: `OBSOLETE`
+<h2 id="OC_BATTLE_COMPS">Battle-Computer Array</h2>
+This 'Mech has an array of battle computers, giving it advanced targeting features.
+
+* Laser max range modifier: +10.0 %
+* Laser beam duration modifier: -5.0 %
+* Projectile projectile speed modifier: +10.0 %
+* Projectile max range modifier: +10.0 %
+
+Quirk name: `OC_BATTLE_COMPS`
+<h2 id="OC_CASE">C.A.S.E</h2>
+CASE, short for Cellular Ammunition Storage Equipment, was created by the Terran Hegemony as a prototype in 2452 and as a production version in 2476[1][3] as a system designed to reduce the hazards of carrying volatile or explosive equipment, usually ammunition. CASE is essentially a specialized container structure for housing the equipment, and redirects explosive force in the event that the equipment explodes.
+
+* Right torso structure bonus: +6 
+* Left torso structure bonus: +6 
+
+Quirk name: `OC_CASE`
+<h2 id="OC_EASYTOMAINTAIN">Easy To Maintain</h2>
+This 'Mech is designed for easy maintenance
+
+* Armor repair cost: -20.0 %
+* Armor repair time: -20.0 %
+* Structure repair cost: -10.0 %
+* Structure repair time: -10.0 %
+
+Quirk name: `OC_EASYTOMAINTAIN`
+<h2 id="OC_FCS_ARTEMIS">FCS Artemis II</h2>
+The Artemis II Fire Control System is a basic guidance system for Missiles, offering automated Fly by Wire Guidance but being easily fooled by Countermeasures.
+
+* Projectile max range modifier: +10.0 %
+
+Quirk name: `OC_FCS_ARTEMIS`
+<h2 id="OC_FCS_ENERGY_CRIT">FCS Energy Crit</h2>
+A Mech's Fire Control System coordinates and analyzes the vast amount of information brought in by Sensors in order to track units, generate firing solutions and hit targets.
+
+* Laser damage modifier: +10.0 %
+
+Quirk name: `OC_FCS_ENERGY_CRIT`
+<h2 id="OC_FCS_MISSILE_SPEED">FCS Missile Speed</h2>
+A Mech's Fire Control System coordinates and analyzes the vast amount of information brought in by Sensors in order to track units, generate firing solutions and hit targets.
+
+* Projectile projectile speed modifier: +10.0 %
+
+Quirk name: `OC_FCS_MISSILE_SPEED`
+<h2 id="OC_OMNIMECH">OmniMech</h2>
+An Omnimech, able to switch components around in no time at all.
+
+* 'Mech upkeep cost modifier: -20.0 %
+
+Quirk name: `OC_OMNIMECH`
+<h2 id="OC_PILOTEASY">Easy to Pilot</h2>
+This BattleMech is exceptionally easy to control and manuever.
+
+* Turn speed modifier: +10.0 %
+* Deceleration modifier: +10.0 %
+
+Quirk name: `OC_PILOTEASY`
+<h2 id="OC_SENSORSIMPROVED">Improved Sensors</h2>
+This 'Mech comes equipped with an advanced sensor suite.
+
+* Sensor range modifier: +20.0 %
+
+Quirk name: `OC_SENSORSIMPROVED`
+<h2 id="OC_SHOULDER_PAULDRONS">Shielded Pauldrons</h2>
+This 'Mech has thick armored Pauldrons, providing extra protection from attacks to the side.
+
+* Head armor bonus: +6 
+* Right arm armor bonus: +6 
+* Left arm armor bonus: +6 
+
+Quirk name: `OC_SHOULDER_PAULDRONS`
+<h2 id="OC_TARGETINGAA">Anti-Air Targeting</h2>
+This 'Mech has a targeting system designed to help fight against aerial units at long range.
+
+* Weapon max range modifier: +10.0 %
+
+Quirk name: `OC_TARGETINGAA`
+<h2 id="OC_TARGETINGIMPROVED">Improved Targeting</h2>
+This 'Mech has a robust targeting system that makes it easier to hit enemy targets.
+
+* Laser beam duration modifier: -5.0 %
+* Projectile projectile speed modifier: +10.0 %
+
+Quirk name: `OC_TARGETINGIMPROVED`
+<h2 id="OC_TWISTEXTENDED">Extended Torso Twist</h2>
+This BattleMech has a wide range of motion at the torso joint, allowing it a larger field of fire.
+
+
+Quirk name: `OC_TWISTEXTENDED`
 <h2 id="OMNI-MECH">OmniMech</h2>
 An OmniMech is a highly configurable type of BattleMech. They allow rapid refitting, but have permanently affixed internals.
 
@@ -2077,6 +2614,16 @@ Unique set of quirks for the Orion Yad al-Jauza Hero 'Mech
 * Missile cooldown modifier: -10.0 %
 
 Quirk name: `ON1-YAJ`
+<h2 id="OVERHEAD-ARMS">Overhead Arms</h2>
+This unique design is on present on the Fire Moth 'Mech allowing the Pilot to fire over obstacles.
+
+* Arm Weapon projectile speed modifier: +35.0 %
+* Arm Weapon cooldown modifier: -10.0 %
+* Laser beam duration modifier: -20.0 %
+* Weapon optimal range modifier: +20.0 %
+* Weapon max range modifier: +20.0 %
+
+Quirk name: `OVERHEAD-ARMS`
 <h2 id="PNT-HERO">Panther Hero Armor</h2>
 The Panther Hero comes equipped with higher density armor
 
@@ -2115,6 +2662,14 @@ This 'Mech was designed to be a Particle Projection Cannon platform, and has imp
 * PPC heat generation modifier: -15.0 %
 
 Quirk name: `PPC-Platform`
+<h2 id="PPC-Platformnullll">PPC Platform</h2>
+This 'Mech was designed to be a Particle Projection Cannon platform, and has improved PPC efficiency
+
+* PPC projectile speed modifier: +25.0 %
+* PPC cooldown modifier: -15.0 %
+* PPC heat generation modifier: -15.0 %
+
+Quirk name: `PPC-Platformnullll`
 <h2 id="PREDICTIVE-TARGETING">Predictive Targeting</h2>
 This 'Mech has an targeting computer that displays a predictive targeting reticle (using on Navid A1's predictive TC code).
 
@@ -2437,6 +2992,13 @@ This 'Mech has been fitted with a high-powered searchlight
 * Additional stronger 'mech lights
 
 Quirk name: `SEARCHLIGHT`
+<h2 id="SENSONAIS">NAIS Sensor Suite</h2>
+Arthur Chassis has been Equipped with a NAIS Sensor Suite
+
+* Sensor range modifier: +20.0 %
+* Sensor field of view: 360.0 degrees
+
+Quirk name: `SENSONAIS`
 <h2 id="SHD-2HP">Phoenix</h2>
 Unique set of quirks for the Shadowhawk Phoenix Hero 'Mech
 
@@ -2481,6 +3043,62 @@ The Star League Defense Force used the best tech of their time
 * Weapon max range modifier: +10.0 %
 
 Quirk name: `SLDF`
+<h2 id="SMN-HERO">Summoner Endurance</h2>
+The Summoner Hero comes equipped with higher density armor and structure
+
+* Right arm armor bonus: +10 
+* Left arm armor bonus: +10 
+* Center torso structure bonus: +15 
+* Right torso structure bonus: +20 
+* Left torso structure bonus: +15 
+* Right leg structure bonus: +15 
+* Left leg structure bonus: +15 
+* Right arm structure bonus: +15 
+* Left arm structure bonus: +15 
+
+Quirk name: `SMN-HERO`
+<h2 id="SMN-PRIME">Summoner Endurance</h2>
+The Summoner Prime comes equipped with higher density armor and structure
+
+* Right arm armor bonus: +15 
+* Left arm armor bonus: +15 
+* Center torso structure bonus: +15 
+* Right torso structure bonus: +20 
+* Left torso structure bonus: +15 
+* Right leg structure bonus: +15 
+* Left leg structure bonus: +15 
+* Right arm structure bonus: +11 
+* Left arm structure bonus: +11 
+
+Quirk name: `SMN-PRIME`
+<h2 id="SRO-HERO">Stone Rhino Endurance</h2>
+The Stone Rhino Hero comes equipped with higher density armor and structure
+
+* Right arm armor bonus: +10 
+* Left arm armor bonus: +10 
+* Center torso structure bonus: +15 
+* Right torso structure bonus: +20 
+* Left torso structure bonus: +15 
+* Right leg structure bonus: +15 
+* Left leg structure bonus: +15 
+* Right arm structure bonus: +15 
+* Left arm structure bonus: +15 
+
+Quirk name: `SRO-HERO`
+<h2 id="SRO-PRIME">Stone Rhino Endurance</h2>
+The Stone Rhino Prime comes equipped with higher density armor and structure
+
+* Right arm armor bonus: +15 
+* Left arm armor bonus: +15 
+* Center torso structure bonus: +15 
+* Right torso structure bonus: +20 
+* Left torso structure bonus: +15 
+* Right leg structure bonus: +15 
+* Left leg structure bonus: +15 
+* Right arm structure bonus: +11 
+* Left arm structure bonus: +11 
+
+Quirk name: `SRO-PRIME`
 <h2 id="STABILIZED-WEAPON">Stabilized Weapon</h2>
 This 'Mech has been designed to reduce recoil of fired weapons, effectively reducing weapon spread
 
@@ -2533,6 +3151,48 @@ Unique set of quirks for the Stalker Misery Hero 'Mech
 * Missile cooldown modifier: -10.0 %
 
 Quirk name: `STK-M`
+<h2 id="STONERHINO-CELESTIAL-CLASSIC">Stone Rhino</h2>
+The Stone Rhino is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* All Weapons heat generation modifier: -10.0 %
+
+Quirk name: `STONERHINO-CELESTIAL-CLASSIC`
+<h2 id="STONERHINO-CELESTIAL-CLASSIC-PRIME">Stone Rhino Prime</h2>
+The Stone Rhino is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* Ballistic cooldown modifier: -20.0 %
+* Energy cooldown modifier: -20.0 %
+* Energy heat generation modifier: -5.0 %
+
+Quirk name: `STONERHINO-CELESTIAL-CLASSIC-PRIME`
+<h2 id="SUMMONER-CELESTIAL-CLASSIC">Summoner</h2>
+The Summoner is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* All Weapons heat generation modifier: -10.0 %
+
+Quirk name: `SUMMONER-CELESTIAL-CLASSIC`
+<h2 id="SUMMONER-CELESTIAL-CLASSIC-PRIME">Summoner Prime</h2>
+The Summoner is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* Ballistic cooldown modifier: -20.0 %
+* Energy cooldown modifier: -20.0 %
+* Energy heat generation modifier: -5.0 %
+* Missile spread radius modifier: -10.0 %
+* Missile cooldown modifier: -10.0 %
+
+Quirk name: `SUMMONER-CELESTIAL-CLASSIC-PRIME`
 <h2 id="SUPER_GRIFFIN_ARMOR">Prototype Armor</h2>
 The Super Griffin armor distribution is slightly off due to its prototype production state.
 
@@ -2554,6 +3214,34 @@ Richard "Dickie" Wojciehowski made this variant of the Savage Wolf famous.
 * LRM cooldown modifier: -20.0 %
 
 Quirk name: `SVG-Dickie`
+<h2 id="TBR-HERO">Timberwolf Endurance</h2>
+The Timberwolf Hero comes equipped with higher density armor and structure
+
+* Right arm armor bonus: +10 
+* Left arm armor bonus: +10 
+* Center torso structure bonus: +15 
+* Right torso structure bonus: +20 
+* Left torso structure bonus: +15 
+* Right leg structure bonus: +15 
+* Left leg structure bonus: +15 
+* Right arm structure bonus: +15 
+* Left arm structure bonus: +15 
+
+Quirk name: `TBR-HERO`
+<h2 id="TBR-PRIME">Timberwolf Endurance</h2>
+The Timberwolf Prime comes equipped with higher density armor and structure
+
+* Right arm armor bonus: +15 
+* Left arm armor bonus: +15 
+* Center torso structure bonus: +15 
+* Right torso structure bonus: +20 
+* Left torso structure bonus: +15 
+* Right leg structure bonus: +15 
+* Left leg structure bonus: +15 
+* Right arm structure bonus: +11 
+* Left arm structure bonus: +11 
+
+Quirk name: `TBR-PRIME`
 <h2 id="TBT-HERO">Trebuchet Hero Endurance</h2>
 The Trebuchet Hero comes equipped with higher density armor and structure
 
@@ -2621,6 +3309,28 @@ Phelan Kell and his original Wolfhound, nicknamed "Grinner", were captured by th
 * Laser heat generation modifier: -20.0 %
 
 Quirk name: `THE-REAL-GRINNER`
+<h2 id="TIMBERWOLF-CELESTIAL-CLASSIC">Timberwolf</h2>
+The Timberwolf is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* All Weapons heat generation modifier: -10.0 %
+
+Quirk name: `TIMBERWOLF-CELESTIAL-CLASSIC`
+<h2 id="TIMBERWOLF-CELESTIAL-CLASSIC-PRIME">Timberwolf Prime</h2>
+The TIMBERWOLF is an early OmniMech design that is nevertheless still very effective.
+
+* Jump Jet initial thrust: +15.0 %
+* Jump Jet burn time: +15.0 %
+* Jump Jet heat: -20.0 %
+* Ballistic cooldown modifier: -20.0 %
+* Energy cooldown modifier: -20.0 %
+* Energy heat generation modifier: -5.0 %
+* Missile spread radius modifier: -10.0 %
+* Missile cooldown modifier: -10.0 %
+
+Quirk name: `TIMBERWOLF-CELESTIAL-CLASSIC-PRIME`
 <h2 id="TUNEDPULSE">Tuned Pulse Lasers</h2>
 This mech has had it's FCS tuned to increase the rate of fire of Pulse Weaponry
 
@@ -2640,6 +3350,12 @@ This 'Mech has been in production for centuries or is otherwise so heavily mass-
 * Structure repair cost: -50.0 %
 
 Quirk name: `UBIQUITOUS`
+<h2 id="UBIQUITOUS-CLAN">Ubiquitous (C)</h2>
+This 'Mech has been in production for centuries or is otherwise so heavily mass-produced that replacement parts are readily available
+
+* Structure repair cost: -25.0 %
+
+Quirk name: `UBIQUITOUS-CLAN`
 <h2 id="UM-ASSAULT">UrbanMech Armor</h2>
 Do not underestimate the smallest Assault Mech disguised as a trash can
 
@@ -2953,6 +3669,18 @@ Unique set of quirks for the Wolverine Quarantine Hero 'Mech
 * Missile cooldown modifier: -10.0 %
 
 Quirk name: `WVR-Q`
+<h2 id="YAMM-Refit">Field Refit</h2>
+This mech is a field refit with a different loadout than the usual.
+
+
+Quirk name: `YAMM-Refit`
+<h2 id="YAMM-RefitOLD">Field Refit</h2>
+This mech is a field refit with a different loadout than the usual.
+
+[Legacy YAMM v1.1 or older]
+
+
+Quirk name: `YAMM-RefitOLD`
 <h2 id="ZEU-HERO">Zeus Hero Structure</h2>
 The Zeus Hero comes equipped with higher density structure
 
