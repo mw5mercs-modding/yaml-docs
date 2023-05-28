@@ -1504,7 +1504,3 @@ The following list contains a total of 1,059 'mech variants from Mechwarrior 5 w
 |MDV-5S|3081|3000|65|21|2|10|6|3|2|[Marauder V](yaml-quirks.md#MADV), [Missile Platform](yaml-quirks.md#MISSILEBOAT)|T6M's Marauder V (YAML/YAW)|
 |MDV-DV|3050|3000|65|32|3|8|8|3|2|[Marauder V Hero Armor](yaml-quirks.md#MADV-HERO), [Difficult To Maintain](yaml-quirks.md#DIFFICULTTOMAINTAIN), [Marauder V](yaml-quirks.md#MADV), [Missile Platform](yaml-quirks.md#MISSILEBOAT)|T6M's Marauder V (YAML/YAW)|
 |MDV-TR|3076|3000|65|32|3|8|8|3|2|[Marauder V Hero Armor](yaml-quirks.md#MADV-HERO), [Difficult To Maintain](yaml-quirks.md#DIFFICULTTOMAINTAIN), [Marauder V](yaml-quirks.md#MADV), [Missile Platform](yaml-quirks.md#MISSILEBOAT)|T6M's Marauder V (YAML/YAW)|
-### Annihilator (200t)
-|Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
-|---|---|---|---|---|---|---|---|---|---|---|---|
-|ANH-1GT|9999|2274|50|16|4|6|0|1|2|[Easy To Maintain](yaml-quirks.md#EASYTOMAINTAIN)|Yet Another Mechlab|
