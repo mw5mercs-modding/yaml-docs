@@ -535,6 +535,12 @@ This 'mech possesses an advanced combat computer.
 * Weapon heat generation modifier: -5.0 %
 
 Quirk name: `CBTCPU`
+<h2 id="CDA-AMMOFEEDPROBLEM">Missile Ammo Feed Problem</h2>
+Due to lack of space, the missile ammunition feeding mechanism was re-routed and became less efficient and prone to jam.
+
+* Missile cooldown modifier: +25.0 %
+
+Quirk name: `CDA-AMMOFEEDPROBLEM`
 <h2 id="CDA-HERO">Cicada Hero Endurance</h2>
 The Cicada Hero comes equipped with higher density armor and structure
 
@@ -967,6 +973,15 @@ Unique set of quirks for the Catapult Jester Hero 'Mech
 * AMS ammo usage/heat: -10.0 %
 
 Quirk name: `CPLT-J`
+<h2 id="CPLT-UNBALANCED">Unbalanced</h2>
+This 'Mech is inherently imbalanced and suffers a penalty to mobility
+
+* Torso twist rate modifier: -15.0 %
+* Turn speed modifier: -15.0 %
+* Acceleration modifier: -5.0 %
+* Deceleration modifier: -5.0 %
+
+Quirk name: `CPLT-UNBALANCED`
 <h2 id="CRAMPED-COCKPIT">Cramped Cockpit</h2>
 This 'Mech has an uncomfortably small cockpit that makes it unpleasant to pilot
 
@@ -1044,6 +1059,13 @@ Unique set of quirks for the Cataphract Ilya Muromets Hero 'Mech
 * Ballistic max range modifier: +15.0 %
 
 Quirk name: `CTF-IM`
+<h2 id="CURSED">Cursed 'Mech</h2>
+The Dark One exerts a toll on the mind of its pilot. Or maybe it's just that strange low frequency from the fusion reactor that messes with their sense. Pilots who do not know how to win or when to flee will have their body and soul consumed if they lose a battle.
+
+* Ejection Death Chance: +99.0 %
+* Piloting skill modifier: -3 
+
+Quirk name: `CURSED`
 <h2 id="DIFFICULT-EJECT">Difficult Ejection</h2>
 This 'Mech has flaws in its emergency escape system, significantly increasing the chance for the pilot to die in an ejection event.
 
@@ -1061,6 +1083,17 @@ This 'Mech is built with little regard to maintenance
 * Weapon and equipment refit cost: +20.0 %
 
 Quirk name: `DIFFICULTTOMAINTAIN`
+<h2 id="DIFFICULTTOMAINTAIN-FM">Difficult To Maintain</h2>
+This 'Mech is built with little regard to maintenance
+
+* Armor repair cost: +25.0 %
+* Armor repair time: +25.0 %
+* Structure repair cost: +25.0 %
+* Structure repair time: +50.0 %
+* Weapon and equipment refit time: +10.0 %
+* Weapon and equipment refit cost: +10.0 %
+
+Quirk name: `DIFFICULTTOMAINTAIN-FM`
 <h2 id="DISTRACTING">Distracting</h2>
 This 'Mech has a fearsome reputation and/or appearance that can affect enemy competence
 
@@ -1503,6 +1536,18 @@ The Hunchback IIC Deathwish Hero has increased armor and structure.
 * Left torso structure bonus: +12 
 
 Quirk name: `hbk-iic-deathwish-HERO-ARMOR`
+<h2 id="HBK4G-BNC">Ballistic Ammo Feed Problem</h2>
+To accommodate that gigantic arm, something had to be lost, so ammunition feeding mechanism was re-routed and became less efficient.
+
+* Ballistic cooldown modifier: +25.0 %
+
+Quirk name: `HBK4G-BNC`
+<h2 id="HBK4J-BNC">Missile Ammo Feed Problem</h2>
+To accommodate that gigantic arm, something had to be lost, so ammunition feeding mechanism was re-routed and became less efficient.
+
+* Missile cooldown modifier: +25.0 %
+
+Quirk name: `HBK4J-BNC`
 <h2 id="HBR-HERO">Hellbringer Endurance</h2>
 The Hellbringer Hero comes equipped with higher density armor and structure
 
@@ -1846,6 +1891,16 @@ This includes Medium Laser, Medium Pulse Laser, ER Small Laser, Snub PPC, MRM, A
 * Medium-ranged weapon max range modifier: +5.0 %
 
 Quirk name: `IMPROVED-TARGETING-MEDIUM`
+<h2 id="IMPROVED-TARGETING-SHORT">Improved Targeting (Short)</h2>
+This mech has superior short-range targeting equipment.
+This includes Small Laser, Small Pulse Laser, Machine Guns, AC/20 and SRMs.
+
+* Short-ranged weapon spread radius modifier: -5.0 %
+* Short-ranged weapon projectile speed modifier: +10.0 %
+* Short-ranged weapon optimal range modifier: +5.0 %
+* Short-ranged weapon max range modifier: +5.0 %
+
+Quirk name: `IMPROVED-TARGETING-SHORT`
 <h2 id="IMPROVED_LIFE_SUPPORT">Improved Life Support</h2>
 This 'mech's life support systems are superior to standard ones.
 
@@ -1853,6 +1908,15 @@ This 'mech's life support systems are superior to standard ones.
 * Head armor bonus: +2 
 
 Quirk name: `IMPROVED_LIFE_SUPPORT`
+<h2 id="INFERNALFIRE">Infernal Fire</h2>
+Somehow, this cursed 'Mechs is capable of removing the heat from its energy weapons to make the flamers hotter and with extended range.
+
+* Energy heat generation modifier: -10.0 %
+* Flamer heat damage modifier: +100.0 %
+* Flamer optimal range modifier: +50.0 %
+* Flamer max range modifier: +50.0 %
+
+Quirk name: `INFERNALFIRE`
 <h2 id="JAM-LARM">Ammo Feed Problem (LA)</h2>
 Increased jam chance for the weapons in the left arm
 
@@ -1913,6 +1977,12 @@ Unique set of quirks for the Jenner Oxide Hero 'Mech
 * Missile max range modifier: +10.0 %
 
 Quirk name: `JR7-O`
+<h2 id="JVN-AMMOFEEDPROBLEM">Missile Ammo Feed Problem</h2>
+By accommodating other kinds of weapon systems in the other half of the mech, the missile ammunition feeding mechanism was re-routed to work in a smaller part of the chassis torso and became less efficient.
+
+* Missile cooldown modifier: +15.0 %
+
+Quirk name: `JVN-AMMOFEEDPROBLEM`
 <h2 id="JVN-HERO">Javelin Hero Structure</h2>
 The Javelin Hero comes equipped with higher density structure
 
@@ -1932,6 +2002,21 @@ Unique set of quirks for the Javelin Hi There! Hero 'Mech
 * Weapon heat generation modifier: -10.0 %
 
 Quirk name: `JVN-HT`
+<h2 id="JVN-NOCOOLINGJACKET">No Cooling Jacket</h2>
+No space on this tiny Javelin left torso to fit Cooling Jackets for the Shadow Hawk Cannon. In fact, everything is so cramped, overheating is easy due to bad heat circulation.
+
+* Weapon heat generation modifier: +175.0 %
+
+Quirk name: `JVN-NOCOOLINGJACKET`
+<h2 id="JVN-UNBALANCED">Unbalanced</h2>
+This 'Mech is inherently imbalanced and suffers a penalty to mobility
+
+* Torso twist rate modifier: -10.0 %
+* Turn speed modifier: -10.0 %
+* Acceleration modifier: -10.0 %
+* Deceleration modifier: -10.0 %
+
+Quirk name: `JVN-UNBALANCED`
 <h2 id="JVN-WU">What's Up?</h2>
 Unique set of quirks for the Javelin What's Up? Hero 'Mech
 
@@ -2033,6 +2118,17 @@ Unique set of quirks for the Locust Pirate's Bane Hero 'Mech
 * Machinegun damage modifier: +50.0 %
 
 Quirk name: `LCT-PB`
+<h2 id="LCT-UNBALANCED">Cramped Cockpit and Unbalanced</h2>
+This 'Mech has an uncomfortably small cockpit. Also, that giant cannon makes this Locust super imbalanced and that affects the maximum speed it can go. The extra gyros on the cannon do nothing to help the myomer bundles' additional load stress.
+
+* Top speed modifier: -9.0 %
+* Top reverse speed modifier: -9.0 %
+* Torso twist rate modifier: -25.0 %
+* Turn speed modifier: -20.0 %
+* Acceleration modifier: -15.0 %
+* Deceleration modifier: -20.0 %
+
+Quirk name: `LCT-UNBALANCED`
 <h2 id="LOCUST">Locust</h2>
 The Locust is a surprisingly efficient mech
 
@@ -2040,6 +2136,15 @@ The Locust is a surprisingly efficient mech
 * Weapon heat generation modifier: -20.0 %
 
 Quirk name: `LOCUST`
+<h2 id="LOCUST-GUN">Locust</h2>
+The Locust is a surprisingly efficient mech. And even this frankenmech variant has its good points.
+
+* Left torso armor bonus: +8 
+* Left torso structure bonus: +10 
+* Weapon cooldown modifier: -20.0 %
+* Weapon heat generation modifier: -20.0 %
+
+Quirk name: `LOCUST-GUN`
 <h2 id="MAD-AL">Alpha</h2>
 Unique set of quirks for the Marauder II Alpha Hero 'Mech
 
@@ -2094,6 +2199,19 @@ Unique set of quirks for the Marauder Bounty Hunter II Hero 'Mech
 * M Laser max range modifier: +5.0 %
 
 Quirk name: `MAD-BH2`
+<h2 id="MAD-DRK1">Black Marauder Weird Structure</h2>
+The Black Marauder has a higher density structure with an almost organic shape looks. Some of those internal spaces are so large you can fit a body inside. Also, an evil aura emanates from its fearsome appearance affecting enemy competence.
+
+* Center torso structure bonus: +20 
+* Right torso structure bonus: +16 
+* Left torso structure bonus: +16 
+* Right leg structure bonus: +13 
+* Left leg structure bonus: +13 
+* Right arm structure bonus: +13 
+* Left arm structure bonus: +13 
+* Chance to completely avoid incoming fire: 5.0 %
+
+Quirk name: `MAD-DRK1`
 <h2 id="MAD-HERO">Marauder Hero Structure</h2>
 The Marauder Hero comes equipped with higher density structure
 
@@ -2396,6 +2514,15 @@ This 'Mech has no ejection system. The pilot has minimal chance to survive if th
 * No Ejection System
 
 Quirk name: `NO-EJECT`
+<h2 id="NOJUMPY">No Jumping</h2>
+This 'Mech cannot use jumpjets for many reasons, so they are offline even if installed. So don't try and break the mech doing a death from above to itself because its gyro cannot process the recoil of its weapons on mid-air, too unbalaced, etc.
+
+* Jump Jet XY acceleration: -100.0 %
+* Jump Jet Z acceleration: -100.0 %
+* Jump Jet initial thrust: -100.0 %
+* Jump Jet burn time: -100.0 %
+
+Quirk name: `NOJUMPY`
 <h2 id="NON-STANDARD-PARTS">Non-Standard Parts</h2>
 This 'Mech is constructed with non-standard components such that replacement parts are not readily available
 
@@ -3368,6 +3495,15 @@ Do not underestimate the smallest Assault Mech disguised as a trash can
 * Left arm armor bonus: +14 
 
 Quirk name: `UM-ASSAULT`
+<h2 id="UM-CURSE">UrbanMech curse</h2>
+Something affects the maximum speed performance this 'Mech can reach. Might be related to the entire center torso being replaced by an UrbanMech.
+
+* Top speed modifier: -7.0 %
+* Torso twist rate modifier: -15.0 %
+* Acceleration modifier: -10.0 %
+* Deceleration modifier: -10.0 %
+
+Quirk name: `UM-CURSE`
 <h2 id="UM-IIC-piloting">Easy Piloting</h2>
 The UrbanMech IIC is especially easy to pilot.
 
@@ -3413,6 +3549,15 @@ Quirk name: `UNBALANCED`
 * Left arm max armor bonus: +8 
 
 Quirk name: `UPARMORED_ARMS`
+<h2 id="VERY-UNBALANCED">Very Unbalanced</h2>
+This 'Mech is very imbalanced and suffers a penalty to mobility. It barely can punch without falling.
+
+* Turn speed modifier: -25.0 %
+* Acceleration modifier: -5.0 %
+* Deceleration modifier: -15.0 %
+* Melee cooldown modifier: +25.0 %
+
+Quirk name: `VERY-UNBALANCED`
 <h2 id="VL-BL">BloodLust</h2>
 Unique quirks for the Vulcan BloodLust Hero 'Mech
 
@@ -3514,6 +3659,15 @@ This 'Mech has legs that buckle under pressure
 * Left leg max armor bonus: -2 
 
 Quirk name: `WEAK-LEGS`
+<h2 id="WEAK-LEGS-GUN">Weak Legs</h2>
+This 'Mech has legs that buckle under pressure
+
+* Right leg max armor bonus: -2 
+* Left leg max armor bonus: -2 
+* Right leg structure bonus: -2 
+* Left leg structure bonus: -2 
+
+Quirk name: `WEAK-LEGS-GUN`
 <h2 id="WHM-9D">WHM-9D Mobility</h2>
 This Variant is designed to be more maneuverable
 
