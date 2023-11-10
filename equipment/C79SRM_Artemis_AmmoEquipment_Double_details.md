@@ -1,6 +1,6 @@
 # SRM Artemis Ammo Double (C)
 
-`C79SRM_Artemis_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`C79SRM_Artemis_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan Artemis IV equipped short-range missile launchers.
 

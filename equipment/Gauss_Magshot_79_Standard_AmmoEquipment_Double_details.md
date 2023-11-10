@@ -1,6 +1,6 @@
 # Magshot Gauss Ammo Double
 
-`Gauss_Magshot_79_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`Gauss_Magshot_79_Standard_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Magshot Gauss Rifle.
 

@@ -1,6 +1,6 @@
 # Light Machine Gun Ammo Double
 
-`LMachineGun79_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`LMachineGun79_Standard_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Light Machine Gun.
 

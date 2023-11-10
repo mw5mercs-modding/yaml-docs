@@ -13,6 +13,7 @@ Base Price: 4,450,000 cbills
 Intro year: 3092
 
 ## Properties
+* Required Mechlab Level: 4.0 
 * Weapon jam chance modifier: -15.0 %
 * Weapon damage to armor: -5.0 %
 * Weapon damage to structure: -5.0 %

@@ -22,6 +22,6 @@ Intro year: 3059
 * Self-repair interval: 1.0 sec
 * Self-repair scope: mech 
 * Self-repair degradation factor: -4.0 %
-* Self-repair armor value: 5.8 
+* Self-repair armor value: 1.8 
 * Self-repair structure value: 0.6 
 * C.A.S.E. II reduces mech internal explosion damage to 2

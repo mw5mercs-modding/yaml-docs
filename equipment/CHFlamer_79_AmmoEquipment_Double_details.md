@@ -1,6 +1,6 @@
 # Heavy Flamer Ammo Double (C)
 
-`CHFlamer_79_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`CHFlamer_79_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of fuel for the Heavy Flamer. Allows 5 minutes of constant fire per Heavy Flamer
 

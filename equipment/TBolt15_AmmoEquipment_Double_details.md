@@ -1,6 +1,6 @@
 # TBolt15 Ammo Double
 
-`TBolt15_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`TBolt15_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Thunderbolt 15 launcher.
 

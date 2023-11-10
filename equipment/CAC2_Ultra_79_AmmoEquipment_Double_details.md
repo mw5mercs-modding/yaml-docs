@@ -1,6 +1,6 @@
 # Ultra AC/2 Ammo Double (C)
 
-`CAC2_Ultra_79_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`CAC2_Ultra_79_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan Ultra Autocannon/2.
 

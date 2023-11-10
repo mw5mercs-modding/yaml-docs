@@ -1,6 +1,6 @@
 # Gauss Ammo Double (C)
 
-`CGauss_Standard_AmmoEquipment79_Double` (Yet Another Equipment Collection)
+`CGauss_Standard_AmmoEquipment79_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan Gauss Rifle.
 

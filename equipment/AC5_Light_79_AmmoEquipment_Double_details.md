@@ -1,6 +1,6 @@
 # Light AC/5 Ammo Double
 
-`AC5_Light_79_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`AC5_Light_79_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Light Autocannon/5.
 

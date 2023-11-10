@@ -13,5 +13,7 @@ Base Price: 190,000 cbills
 Intro year: 3059
 
 ## Properties
+* Enhanced IR And Thermals
+* Required Mechlab Level: 4.0 
 * Front component armor bonus: +12 
 * Component structure bonus: +8 

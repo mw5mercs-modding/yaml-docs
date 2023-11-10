@@ -1,6 +1,6 @@
 # ProtoMech AC Ammo Double
 
-`C79ACProto_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`C79ACProto_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan ProtoMech Autocannons (all classes.) (YAWC)
 

@@ -13,4 +13,5 @@ Base Price: 100,000 cbills
 Intro year: 3031
 
 ## Properties
+* Required Mechlab Level: 5.0 
 * Sensor field of view: 360.0 degrees

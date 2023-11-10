@@ -1,6 +1,6 @@
 # Ultra AC/10 Ammo Double
 
-`AC10_Ultra_79_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`AC10_Ultra_79_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Ultra Autocannon/10.
 

@@ -13,4 +13,5 @@ Base Price: 650,000 cbills
 Intro year: 3050
 
 ## Properties
+* Required Mechlab Level: 5.0 
 * Triple Strength Myomer improves top speed and melee damage at high heat levels

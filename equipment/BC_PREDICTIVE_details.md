@@ -18,4 +18,4 @@ Intro year: 3023
 * Weapon spread radius modifier: -10.0 %
 * Weapon spread distance modifier: +10.0 %
 * Weapon projectile speed modifier: +5.0 %
-* Predictive ballistic targetting
+* Predictive ballistic targeting

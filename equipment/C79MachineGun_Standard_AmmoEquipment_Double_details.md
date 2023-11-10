@@ -1,6 +1,6 @@
 # Machine Gun Ammo Double (C)
 
-`C79MachineGun_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`C79MachineGun_Standard_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan Machine Gun.
 

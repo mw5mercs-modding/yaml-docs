@@ -1,6 +1,6 @@
 # S Chem Laser Ammo Double
 
-`SmallChemLaser_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`SmallChemLaser_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Small Chemical Laser.
 

@@ -18,6 +18,9 @@ Base Price: 4,500,000 cbills
 Intro year: 3055
 
 ## Properties
+* Required Mechlab Level: 5.0 
+* Engine heatsink efficiency: 0.133 
+* Engine heatsink capacity: 1.33 
 * Heat threshold for activation: 80.0 %
 * Heat threshold for normalization: 30.0 %
 * Failure chance per second: 0.4 %

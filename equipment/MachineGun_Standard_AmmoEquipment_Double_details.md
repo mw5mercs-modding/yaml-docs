@@ -1,6 +1,6 @@
 # Machine Gun Ammo Double
 
-`MachineGun_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`MachineGun_Standard_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Machine Gun.
 

@@ -10,5 +10,9 @@ Weight: 0.0 tons
 
 Base Price: 500,000 cbills
 
-Intro year: 1
+Intro year: 3040
 
+## Properties
+* Required Mechlab Level: 5.0 
+* Engine heatsink efficiency: 0.2 
+* Engine heatsink capacity: 2.0 

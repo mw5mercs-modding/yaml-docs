@@ -1,6 +1,6 @@
 # M Chem Laser Ammo Double
 
-`MediumChemLaser_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`MediumChemLaser_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Medium Chemical Laser.
 

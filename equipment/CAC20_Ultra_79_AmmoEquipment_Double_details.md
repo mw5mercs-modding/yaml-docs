@@ -1,6 +1,6 @@
 # Ultra AC/20 Ammo Double (C)
 
-`CAC20_Ultra_79_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`CAC20_Ultra_79_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Ultra Autocannon/20.
 

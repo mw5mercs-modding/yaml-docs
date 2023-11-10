@@ -12,3 +12,5 @@ Base Price: 132,000 cbills
 
 Intro year: 2471
 
+## Properties
+* Required Mechlab Level: 3.0 

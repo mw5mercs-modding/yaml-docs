@@ -13,4 +13,5 @@ Base Price: 124,000 cbills
 Intro year: 3069
 
 ## Properties
+* Required Mechlab Level: 3.0 
 * Maximum amount of JJ allowed by walk MP: 1.5 

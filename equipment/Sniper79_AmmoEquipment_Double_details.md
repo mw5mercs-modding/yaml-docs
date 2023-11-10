@@ -1,6 +1,6 @@
 # Sniper Ammo Double
 
-`Sniper79_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`Sniper79_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Sniper Artillery.
 

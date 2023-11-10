@@ -13,4 +13,5 @@ Base Price: 16,311,120 cbills
 Intro year: 3055
 
 ## Properties
+* Required Mechlab Level: 5.0 
 * Movement heat modifier: +100.0 %

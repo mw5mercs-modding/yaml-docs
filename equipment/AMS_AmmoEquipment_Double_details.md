@@ -1,6 +1,6 @@
 # AMS Ammo Double
 
-`AMS_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`AMS_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Anti-Missile System.
 

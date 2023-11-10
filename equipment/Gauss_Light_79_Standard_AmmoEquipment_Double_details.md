@@ -1,6 +1,6 @@
 # Light Gauss Ammo Double
 
-`Gauss_Light_79_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`Gauss_Light_79_Standard_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Light Gauss Rifle.
 

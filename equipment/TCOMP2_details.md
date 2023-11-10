@@ -4,7 +4,7 @@
 
 The Missile Fire Control System increases the performance of all missile weapons.
 
-Size: Critical slots: 1 (targetting)
+Size: Critical slots: 1 (targeting)
 
 Weight: 0.0 tons
 
@@ -13,6 +13,7 @@ Base Price: 500,000 cbills
 Intro year: 3040
 
 ## Properties
+* Required Mechlab Level: 3.0 
 * Missile spread radius modifier: -20.0 %
 * Missile spread distance modifier: +20.0 %
 * Missile projectile speed modifier: +10.0 %

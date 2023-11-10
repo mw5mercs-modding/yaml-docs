@@ -1,6 +1,6 @@
 # Thumper Ammo Double
 
-`Thumper79_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`Thumper79_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Thumper Artillery.
 

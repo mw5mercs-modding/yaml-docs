@@ -13,4 +13,5 @@ Base Price: 1,450,000 cbills
 Intro year: 3092
 
 ## Properties
+* Required Mechlab Level: 4.0 
 * Evasion pilot skill modifier: +3 

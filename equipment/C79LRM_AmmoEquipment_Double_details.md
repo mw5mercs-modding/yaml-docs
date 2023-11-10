@@ -1,6 +1,6 @@
 # LRM Ammo Double (C)
 
-`C79LRM_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`C79LRM_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan standard long-range missile launchers.
 

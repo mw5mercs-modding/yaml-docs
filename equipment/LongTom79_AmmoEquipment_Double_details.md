@@ -1,6 +1,6 @@
 # Long Tom Ammo Double
 
-`LongTom79_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`LongTom79_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Long Tom Cannon.
 

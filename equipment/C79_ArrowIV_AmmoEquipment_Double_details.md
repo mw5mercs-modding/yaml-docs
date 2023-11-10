@@ -1,6 +1,6 @@
 # Arrow IV Ammo Double (C)
 
-`C79_ArrowIV_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`C79_ArrowIV_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan Arrow IV missile launchers.
 

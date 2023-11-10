@@ -16,6 +16,7 @@ Base Price: 1,000,000 cbills
 Intro year: 3070
 
 ## Properties
+* Required Mechlab Level: 4.0 
 * Armor modifier: +25.0 %
 * Structure modifier: +20.0 %
 * Armor repair cost: +100.0 %

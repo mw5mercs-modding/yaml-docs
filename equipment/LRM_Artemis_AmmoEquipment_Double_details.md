@@ -1,6 +1,6 @@
 # LRM Artemis Ammo Double
 
-`LRM_Artemis_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`LRM_Artemis_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Artemis IV equipped long-range missile launchers.
 

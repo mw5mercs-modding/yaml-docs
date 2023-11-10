@@ -1,6 +1,6 @@
 # LBX/20 Ammo Double
 
-`AC20_LBX_79_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`AC20_LBX_79_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the LB 20-X Autocannon.
 

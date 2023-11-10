@@ -13,6 +13,7 @@ Base Price: 900,000 cbills
 Intro year: 3015
 
 ## Properties
+* Required Mechlab Level: 4.0 
 * Torso twist rate modifier: +8.0 %
 * Melee cooldown modifier: -15.0 %
 * Melee damage modifier: +15.0 %

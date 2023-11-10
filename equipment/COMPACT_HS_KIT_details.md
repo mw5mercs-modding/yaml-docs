@@ -12,3 +12,7 @@ Base Price: 2,100,000 cbills
 
 Intro year: 3058
 
+## Properties
+* Required Mechlab Level: 5.0 
+* Engine heatsink efficiency: 0.2 
+* Engine heatsink capacity: 2.0 

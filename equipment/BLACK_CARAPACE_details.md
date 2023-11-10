@@ -21,5 +21,5 @@ Intro year: 3059
 * Self-repair scope: mech 
 * Weapon heat generation modifier: +10.0 %
 * Self-repair degradation factor: -0.5 %
-* Self-repair armor value: 2.6 
+* Self-repair armor value: 0.8 
 * Self-repair structure value: 0.4 

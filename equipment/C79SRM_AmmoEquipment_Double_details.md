@@ -1,6 +1,6 @@
 # SRM Ammo Double (C)
 
-`C79SRM_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`C79SRM_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan standard short-range missile launchers.
 

@@ -1,6 +1,6 @@
 # AP Gauss Ammo Double (C)
 
-`CAPGauss_AmmoEquipment79_Double` (Yet Another Equipment Collection)
+`CAPGauss_AmmoEquipment79_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan AP Gauss Rifle. Does not explode.
 

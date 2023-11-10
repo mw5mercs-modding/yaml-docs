@@ -1,6 +1,6 @@
 # AC/20 Ammo Double
 
-`AC20_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`AC20_Standard_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Autocannon/20.
 

@@ -1,6 +1,6 @@
 # Heavy Machine Gun Ammo Double
 
-`HMachineGun79_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`HMachineGun79_Standard_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Heavy Machine Gun.
 

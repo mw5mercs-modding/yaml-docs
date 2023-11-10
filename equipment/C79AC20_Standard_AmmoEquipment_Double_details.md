@@ -1,6 +1,6 @@
 # AC/20 Ammo Double (C)
 
-`C79AC20_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`C79AC20_Standard_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan Autocannon/20.
 

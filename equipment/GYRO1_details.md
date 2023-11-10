@@ -13,5 +13,6 @@ Base Price: 250,000 cbills
 Intro year: 3030
 
 ## Properties
+* Required Mechlab Level: 4.0 
 * Top speed modifier: +5.0 %
 * Top reverse speed modifier: +5.0 %

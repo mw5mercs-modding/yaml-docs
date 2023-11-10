@@ -1,6 +1,6 @@
 # LBX/2 Ammo Double
 
-`AC2_LBX_79_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`AC2_LBX_79_Standard_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the LB 2-X Autocannon.
 

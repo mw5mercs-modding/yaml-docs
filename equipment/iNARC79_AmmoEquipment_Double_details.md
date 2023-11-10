@@ -1,6 +1,6 @@
 # I Narc Ammo Double
 
-`iNARC79_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`iNARC79_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Improved Narc Missile Beacon.
 

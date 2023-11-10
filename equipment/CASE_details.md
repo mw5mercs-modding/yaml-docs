@@ -13,4 +13,5 @@ Base Price: 50,000 cbills
 Intro year: 3036
 
 ## Properties
+* Required Mechlab Level: 4.0 
 * C.A.S.E. protects the component from internal explosion damage traveling to adjacent components

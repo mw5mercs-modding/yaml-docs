@@ -1,6 +1,6 @@
 # Gauss Ammo Double
 
-`Gauss_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`Gauss_Standard_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Gauss Rifle.
 

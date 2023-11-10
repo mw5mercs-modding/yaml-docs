@@ -1,6 +1,6 @@
 # Yet Another Equipment List
 
-The following list contains a total of 531 equipment assets from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
+The following list contains a total of 559 equipment assets from Mechwarrior 5 with Yet Another Mechlab using the following additional mods:
 * Yet Another Equipment Collection (by [truegerich](https://github.com/mw5mercs-modding/harjel))
 * Yet Another Mechlab (by [cszolee79 and trueg](https://steamuserimages-a.akamaihd.net/ugc/1845911523986277033/EC61714D79BB3256C903CDB26E87397B2897E2B1/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
 * Yet Another Special Variant (by trueg)
@@ -53,6 +53,15 @@ Name|Size|Weight|Year|Asset Name
 [SRM Half Ammo](equipment/SRM_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|2370|SRM_Half_AmmoEquipment
 [Streak SRM Ammo](equipment/SRM_Streak_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3035|SRM_Streak_AmmoEquipment
 [Streak SRM Half Ammo](equipment/SRM_Streak_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3035|SRM_Streak_Half_AmmoEquipment
+[Heavy MRM Ammo](equipment/trueg_HMRM_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3058|trueg_HMRM_AmmoEquipment
+[Heavy MRM Double Ammo](equipment/trueg_HMRM_Double_AmmoEquipment_details.md)|Critical slots: 2|2.0 tons|3058|trueg_HMRM_Double_AmmoEquipment
+[Heavy MRM Half Ammo](equipment/trueg_HMRM_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3058|trueg_HMRM_Half_AmmoEquipment
+[Plasma Ammo](equipment/trueg_Plasma_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3069|trueg_Plasma_AmmoEquipment
+[Plasma Ammo Double](equipment/trueg_Plasma_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3069|trueg_Plasma_AmmoEquipment_Double
+[Plasma Ammo Half](equipment/trueg_Plasma_AmmoEquipment_Half_details.md)|Critical slots: 1|0.5 tons|3069|trueg_Plasma_AmmoEquipment_Half
+[RAC/20 Ammo](equipment/trueg_RAC20_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3069|trueg_RAC20_AmmoEquipment
+[RAC/20 Double Ammo](equipment/trueg_RAC20_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3069|trueg_RAC20_AmmoEquipment_Double
+[RAC/20 Half Ammo](equipment/trueg_RAC20_AmmoEquipment_Half_details.md)|Critical slots: 1|0.5 tons|3069|trueg_RAC20_AmmoEquipment_Half
 [Heavy Flamer Ammo (C)](equipment/CHFlamer_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3067|CHFlamer_79_AmmoEquipment
 [Heavy Flamer Half Ammo (C)](equipment/CHFlamer_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3067|CHFlamer_79_Half_AmmoEquipment
 [AC/10 Ammo (C)](equipment/C79AC10_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3055|C79AC10_Standard_AmmoEquipment
@@ -189,13 +198,12 @@ Name|Size|Weight|Year|Asset Name
 [Heavy Machine Gun Half Ammo](equipment/HMachineGun79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|HMachineGun79_Standard_Half_AmmoEquipment
 [Light Machine Gun Ammo](equipment/LMachineGun79_Standard_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|LMachineGun79_Standard_AmmoEquipment
 [Light Machine Gun Half Ammo](equipment/LMachineGun79_Standard_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|LMachineGun79_Standard_Half_AmmoEquipment
+[Long Tom Ammo](equipment/LongTom79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|2500|LongTom79_AmmoEquipment
+[Long Tom Half Ammo](equipment/LongTom79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|2500|LongTom79_Half_AmmoEquipment
 [MRM Ammo](equipment/MRM_AmmoEquipment79_details.md)|Critical slots: 1|1.0 tons|3058|MRM_AmmoEquipment79
 [MRM Half Ammo](equipment/MRM_Half_AmmoEquipment79_details.md)|Critical slots: 1|0.5 tons|3058|MRM_Half_AmmoEquipment79
 [Plasma Rifle Ammo](equipment/PlasmaRifle_79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3068|PlasmaRifle_79_AmmoEquipment
 [Plasma Rifle Half Ammo](equipment/PlasmaRifle_79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3068|PlasmaRifle_79_Half_AmmoEquipment
-[Heavy Flamer Ammo Double](equipment/HFlamer_79_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3068|HFlamer_79_AmmoEquipment_Double
-[Long Tom Ammo](equipment/LongTom79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|2500|LongTom79_AmmoEquipment
-[Long Tom Half Ammo](equipment/LongTom79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|2500|LongTom79_Half_AmmoEquipment
 [Sniper Ammo](equipment/Sniper79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|2500|Sniper79_AmmoEquipment
 [Sniper Half Ammo](equipment/Sniper79_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|2500|Sniper79_Half_AmmoEquipment
 [Thumper Ammo](equipment/Thumper79_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|2500|Thumper79_AmmoEquipment
@@ -238,6 +246,7 @@ Name|Size|Weight|Year|Asset Name
 [Heavy Gauss Ammo Double](equipment/Gauss_Heavy_79_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3061|Gauss_Heavy_79_Standard_AmmoEquipment_Double
 [Light Gauss Ammo Double](equipment/Gauss_Light_79_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3056|Gauss_Light_79_Standard_AmmoEquipment_Double
 [Magshot Gauss Ammo Double](equipment/Gauss_Magshot_79_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3072|Gauss_Magshot_79_Standard_AmmoEquipment_Double
+[Heavy Flamer Ammo Double](equipment/HFlamer_79_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3068|HFlamer_79_AmmoEquipment_Double
 [Heavy Machine Gun Ammo Double](equipment/HMachineGun79_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3068|HMachineGun79_Standard_AmmoEquipment_Double
 [I Narc Ammo Double](equipment/iNARC79_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3062|iNARC79_AmmoEquipment_Double
 [Light Machine Gun Ammo Double](equipment/LMachineGun79_Standard_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3068|LMachineGun79_Standard_AmmoEquipment_Double
@@ -250,15 +259,6 @@ Name|Size|Weight|Year|Asset Name
 [TBolt20 Ammo Double](equipment/TBolt20_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3072|TBolt20_AmmoEquipment_Double
 [TBolt5 Ammo Double](equipment/TBolt5_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3072|TBolt5_AmmoEquipment_Double
 [Thumper Ammo Double](equipment/Thumper79_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|2500|Thumper79_AmmoEquipment_Double
-[Heavy MRM Ammo](equipment/trueg_HMRM_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3058|trueg_HMRM_AmmoEquipment
-[Heavy MRM Double Ammo](equipment/trueg_HMRM_Double_AmmoEquipment_details.md)|Critical slots: 2|2.0 tons|3058|trueg_HMRM_Double_AmmoEquipment
-[Heavy MRM Half Ammo](equipment/trueg_HMRM_Half_AmmoEquipment_details.md)|Critical slots: 1|0.5 tons|3058|trueg_HMRM_Half_AmmoEquipment
-[Plasma Ammo](equipment/trueg_Plasma_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3069|trueg_Plasma_AmmoEquipment
-[Plasma Ammo Double](equipment/trueg_Plasma_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3069|trueg_Plasma_AmmoEquipment_Double
-[Plasma Ammo Half](equipment/trueg_Plasma_AmmoEquipment_Half_details.md)|Critical slots: 1|0.5 tons|3069|trueg_Plasma_AmmoEquipment_Half
-[RAC/20 Ammo](equipment/trueg_RAC20_AmmoEquipment_details.md)|Critical slots: 1|1.0 tons|3069|trueg_RAC20_AmmoEquipment
-[RAC/20 Double Ammo](equipment/trueg_RAC20_AmmoEquipment_Double_details.md)|Critical slots: 2|2.0 tons|3069|trueg_RAC20_AmmoEquipment_Double
-[RAC/20 Half Ammo](equipment/trueg_RAC20_AmmoEquipment_Half_details.md)|Critical slots: 1|0.5 tons|3069|trueg_RAC20_AmmoEquipment_Half
 
 ## COOLING EQUIPMENT
 
@@ -272,7 +272,7 @@ Name|Size|Weight|Year|Asset Name
 [Heat Bank I](equipment/HeatBank179_details.md)|Critical slots: 1|1.0 tons|3015|HeatBank179
 [Heat Bank II](equipment/HeatBank279_details.md)|Critical slots: 2|2.0 tons|3015|HeatBank279
 [Heat Bank III](equipment/HeatBank379_details.md)|Critical slots: 3|3.0 tons|3015|HeatBank379
-[Double Heat Sink Kit](equipment/Cooling_diss100_details.md)|Critical slots: 1|0.0 tons|1|Cooling_diss100
+[Double Heat Sink Kit](equipment/Cooling_diss100_details.md)|Critical slots: 1|0.0 tons|3040|Cooling_diss100
 [Double Heat Sink Kit (C)](equipment/CLAN_DHS_KIT_details.md)|Critical slots: 1|0.0 tons|3055|CLAN_DHS_KIT
 [Compact Heat Sink Kit](equipment/COMPACT_HS_KIT_details.md)|Critical slots: 1|0.0 tons|3058|COMPACT_HS_KIT
 [Cooling Lines](equipment/COOLING_LINES_details.md)|Critical slots: 1|1.0 tons|3043|COOLING_LINES
@@ -284,6 +284,7 @@ Name|Size|Weight|Year|Asset Name
 [Prototype Heat Sink Kit](equipment/PROTO_DHS_KIT_details.md)|Critical slots: 1|0.0 tons|3055|PROTO_DHS_KIT
 [Radical DHS Kit](equipment/RADICAL_DHS_KIT_details.md)|Critical slots: 1|0.0 tons|3055|RADICAL_DHS_KIT
 [Radical PDHS Kit](equipment/RADICAL_PROTO_DHS_KIT_details.md)|Critical slots: 1|0.0 tons|3055|RADICAL_PROTO_DHS_KIT
+[Royal DHS Kit](equipment/ROYAL_DHS_KIT_details.md)|Critical slots: 1|0.0 tons|3040|ROYAL_DHS_KIT
 [Double Heat Sink Kit (QS)](equipment/DHS_KIT_QS_details.md)|Critical slots: 1|0.0 tons|3045|DHS_KIT_QS
 [Double Heat Sink (QS)](equipment/DHS_QS_details.md)|Critical slots: 2|1.0 tons|3045|DHS_QS
 [Engine Heatsink Removal (QS)](equipment/ENGINE_HS_REMOVAL_QS_details.md)|Critical slots: 1|-1.25 tons|3045|ENGINE_HS_REMOVAL_QS
@@ -325,6 +326,11 @@ Name|Size|Weight|Year|Asset Name
 [Jump Jets-I Class III](equipment/ImprovedJumpJet_Class3_Equipment_details.md)|Critical slots: 1|1.5 tons|3069|ImprovedJumpJet_Class3_Equipment
 [Jump Jets-I Class IV](equipment/ImprovedJumpJet_Class4_Equipment_details.md)|Critical slots: 1|0.75 tons|3069|ImprovedJumpJet_Class4_Equipment
 [Jump Jets-I Class V](equipment/ImprovedJumpJet_Class5_Equipment_details.md)|Critical slots: 1|0.75 tons|3069|ImprovedJumpJet_Class5_Equipment
+[Jump Jets Proto-I Class I](equipment/PrototypeImpJumpJet_Class1_Equipment_details.md)|Critical slots: 1|2.0 tons|3020|PrototypeImpJumpJet_Class1_Equipment
+[Jump Jets Proto-I Class II](equipment/PrototypeImpJumpJet_Class2_Equipment_details.md)|Critical slots: 1|1.0 tons|3020|PrototypeImpJumpJet_Class2_Equipment
+[Jump Jets Proto-I Class III](equipment/PrototypeImpJumpJet_Class3_Equipment_details.md)|Critical slots: 1|1.0 tons|3020|PrototypeImpJumpJet_Class3_Equipment
+[Jump Jets Proto-I Class IV](equipment/PrototypeImpJumpJet_Class4_Equipment_details.md)|Critical slots: 1|0.5 tons|3020|PrototypeImpJumpJet_Class4_Equipment
+[Jump Jets Proto-I Class V](equipment/PrototypeImpJumpJet_Class5_Equipment_details.md)|Critical slots: 1|0.5 tons|3020|PrototypeImpJumpJet_Class5_Equipment
 [MASC MK I](equipment/MASC_MKI_details.md)|Critical slots: 1|1.0 tons|3035|MASC_MKI
 [MASC MK II](equipment/MASC_MKII_details.md)|Critical slots: 2|2.0 tons|3035|MASC_MKII
 [MASC MK III](equipment/MASC_MKIII_details.md)|Critical slots: 3|3.0 tons|3035|MASC_MKIII
@@ -348,25 +354,32 @@ Name|Size|Weight|Year|Asset Name
 [Sensors Improved](equipment/SENSORS1_details.md)|Critical slots: 1 (sensors)|0.0 tons|3015|SENSORS1
 [Sensors Powered](equipment/SENSORS2_details.md)|Critical slots: 1 (sensors)|0.0 tons|3030|SENSORS2
 [Sensors Sniper](equipment/SENSORS3_details.md)|Critical slots: 1 (sensors)|0.0 tons|3049|SENSORS3
-[FCS Energy](equipment/TCOMP_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP
-[FCS Ballistic](equipment/TCOMP1_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP1
-[FCS Missile](equipment/TCOMP2_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP2
-[Targeting Computer MK.1](equipment/TCLVL1_details.md)|Critical slots: 1|1.0 tons|1|TCLVL1
-[Targeting Computer MK.2](equipment/TCLVL2_details.md)|Critical slots: 2|2.0 tons|1|TCLVL2
-[Targeting Computer MK.3](equipment/TCLVL3_details.md)|Critical slots: 3|3.0 tons|1|TCLVL3
-[Targeting Computer MK.4](equipment/TCLVL4_details.md)|Critical slots: 4|4.0 tons|1|TCLVL4
-[Targeting Computer MK.5](equipment/TCLVL5_details.md)|Critical slots: 5|5.0 tons|1|TCLVL5
-[Targeting Computer MK.6](equipment/TCLVL6_details.md)|Critical slots: 6|6.0 tons|1|TCLVL6
-[Targeting Computer MK.7](equipment/TCLVL7_details.md)|Critical slots: 7|7.0 tons|1|TCLVL7
-[Targeting Computer MK.8](equipment/TCLVL8_details.md)|Critical slots: 8|8.0 tons|1|TCLVL8
-[FCS Projectile Predictive](equipment/TCOMP3PREDICTIVE_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP3PREDICTIVE
+[FCS Energy](equipment/TCOMP_details.md)|Critical slots: 1 (targeting)|0.0 tons|3040|TCOMP
+[FCS Ballistic](equipment/TCOMP1_details.md)|Critical slots: 1 (targeting)|0.0 tons|3040|TCOMP1
+[FCS Missile](equipment/TCOMP2_details.md)|Critical slots: 1 (targeting)|0.0 tons|3040|TCOMP2
+[C3i Unit](equipment/C3I_UNIT_details.md)|Critical slots: 2|2.5 tons|3062|C3I_UNIT
+[C3 Client Unit](equipment/C3_CLIENT_UNIT_details.md)|Critical slots: 1|1.0 tons|3050|C3_CLIENT_UNIT
+[C3 Command Unit](equipment/C3_COMMAND_UNIT_details.md)|Critical slots: 5|5.0 tons|3050|C3_COMMAND_UNIT
+[Targeting Computer MK.1](equipment/TCLVL1_details.md)|Critical slots: 1|1.0 tons|3062|TCLVL1
+[Targeting Computer MK.2](equipment/TCLVL2_details.md)|Critical slots: 2|2.0 tons|3062|TCLVL2
+[Targeting Computer MK.3](equipment/TCLVL3_details.md)|Critical slots: 3|3.0 tons|3062|TCLVL3
+[Targeting Computer MK.4](equipment/TCLVL4_details.md)|Critical slots: 4|4.0 tons|3062|TCLVL4
+[Targeting Computer MK.5](equipment/TCLVL5_details.md)|Critical slots: 5|5.0 tons|3062|TCLVL5
+[Targeting Computer MK.6](equipment/TCLVL6_details.md)|Critical slots: 6|6.0 tons|3062|TCLVL6
+[Targeting Computer MK.7](equipment/TCLVL7_details.md)|Critical slots: 7|7.0 tons|3062|TCLVL7
+[Targeting Computer MK.8](equipment/TCLVL8_details.md)|Critical slots: 8|8.0 tons|3062|TCLVL8
+[FCS Projectile Predictive](equipment/TCOMP3PREDICTIVE_details.md)|Critical slots: 1 (targeting)|0.0 tons|3040|TCOMP3PREDICTIVE
 [Sensors Armored](equipment/SENSORS_ARMORED_details.md)|Critical slots: 1 (sensors)|0.5 tons|3059|SENSORS_ARMORED
 [Sensors Primitive](equipment/SENSORS_PRIMITIVE_details.md)|Critical slots: 1 (sensors)|0.0 tons|2464|SENSORS_PRIMITIVE
 [Searchlight](equipment/SENSORS_SEARCHLIGHT_details.md)|Critical slots: 1 (sensors)|0.0 tons|3030|SENSORS_SEARCHLIGHT
+[Efficient Ammo Feedway](equipment/EFFICIENT_AMMO_FEEDWAY_details.md)|Critical slots: 1|0.25 tons|3048|EFFICIENT_AMMO_FEEDWAY
+[Firestorm Autoloader](equipment/FIRESTROM_AUTOLOADER_details.md)|Critical slots: 3|1.0 tons|3063|FIRESTROM_AUTOLOADER
+[Hydrazine Hotshot](equipment/HYDRAZINE_HOTSHOT_details.md)|Critical slots: 1|0.25 tons|3050|HYDRAZINE_HOTSHOT
+[Klystron Accelerator](equipment/KLYSTRON_ACCELERATOR_details.md)|Critical slots: 1|0.75 tons|3067|KLYSTRON_ACCELERATOR
 [Laser Overcharge Module](equipment/LASER_OVERCHARGE_MODULE_details.md)|Critical slots: 1|1.0 tons|3137|LASER_OVERCHARGE_MODULE
 [Laser Pulse Module](equipment/LASER_PULSE_MODULE_details.md)|Critical slots: 1|1.0 tons|3137|LASER_PULSE_MODULE
 [PPC Capacitor](equipment/PPC_CAPACITOR_details.md)|Critical slots: 1|1.0 tons|3055|PPC_CAPACITOR
-[Sensors FCS (QS)](equipment/SENSORS_TC_QS_details.md)|Critical slots: 1 (sensors +  targetting)|0.0 tons|3045|SENSORS_TC_QS
+[Sensors FCS (QS)](equipment/SENSORS_TC_QS_details.md)|Critical slots: 1 (sensors +  targeting)|0.0 tons|3045|SENSORS_TC_QS
 [BC Artemis V](equipment/BC_ARTEMIS_V_details.md)|Critical slots: 1|1.0 tons|3023|BC_ARTEMIS_V
 [BC Ballistic](equipment/BC_BALLISTIC_details.md)|Critical slots: 1|1.0 tons|3023|BC_BALLISTIC
 [BC Energy](equipment/BC_ENERGY_details.md)|Critical slots: 1|1.0 tons|3023|BC_ENERGY
@@ -376,13 +389,15 @@ Name|Size|Weight|Year|Asset Name
 [BC PPC](equipment/BC_PPC_details.md)|Critical slots: 1|1.0 tons|3023|BC_PPC
 [BC Predictive](equipment/BC_PREDICTIVE_details.md)|Critical slots: 1|1.0 tons|3023|BC_PREDICTIVE
 [BC Range](equipment/BC_RANGE_details.md)|Critical slots: 1|1.0 tons|3023|BC_RANGE
-[FCS Adv. Ballistic](equipment/TCOMP_BALLISTIC_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_BALLISTIC_ADVANCED
-[FCS Heat](equipment/TCOMP_HEAT_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP_HEAT
-[FCS Adv. Missile](equipment/TCOMP_MISSLE_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_MISSLE_ADVANCED
-[FCS Modular](equipment/TCOMP_MODULAR_BC_details.md)|Critical slots: 1 (targetting)|0.0 tons|3023|TCOMP_MODULAR_BC
-[FCS Nova](equipment/TCOMP_NOVA_details.md)|Critical slots: 1 (targetting)|0.0 tons|3040|TCOMP_NOVA
-[FCS Adv. PPC](equipment/TCOMP_PPC_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_PPC_ADVANCED
-[FCS Adv. Energy](equipment/TCOMP_TRACE_ADVANCED_details.md)|Critical slots: 1 (targetting)|1.0 tons|3047|TCOMP_TRACE_ADVANCED
+[FCS Bloodsport](equipment/FCS_BLOODSPORT_details.md)|Critical slots: 1 (targeting)|0.0 tons|3025|FCS_BLOODSPORT
+[FCS Melee](equipment/FCS_MELEE_details.md)|Critical slots: 1 (targeting)|0.0 tons|3020|FCS_MELEE
+[FCS Adv. Ballistic](equipment/TCOMP_BALLISTIC_ADVANCED_details.md)|Critical slots: 1 (targeting)|1.0 tons|3047|TCOMP_BALLISTIC_ADVANCED
+[FCS Heat](equipment/TCOMP_HEAT_details.md)|Critical slots: 1 (targeting)|0.0 tons|3040|TCOMP_HEAT
+[FCS Adv. Missile](equipment/TCOMP_MISSLE_ADVANCED_details.md)|Critical slots: 1 (targeting)|1.0 tons|3047|TCOMP_MISSLE_ADVANCED
+[FCS Modular](equipment/TCOMP_MODULAR_BC_details.md)|Critical slots: 1 (targeting)|0.0 tons|3023|TCOMP_MODULAR_BC
+[FCS Nova](equipment/TCOMP_NOVA_details.md)|Critical slots: 1 (targeting)|0.0 tons|3040|TCOMP_NOVA
+[FCS Adv. PPC](equipment/TCOMP_PPC_ADVANCED_details.md)|Critical slots: 1 (targeting)|1.0 tons|3047|TCOMP_PPC_ADVANCED
+[FCS Adv. Energy](equipment/TCOMP_TRACE_ADVANCED_details.md)|Critical slots: 1 (targeting)|1.0 tons|3047|TCOMP_TRACE_ADVANCED
 [Beagle Active Probe](equipment/BeagleActiveProbe_details.md)|Critical slots: 2|1.5 tons|3045|BeagleActiveProbe
 [EW Active Probe](equipment/EWActiveProbe_details.md)|Critical slots: 2|3.5 tons|3025|EWActiveProbe
 [Active Probe (C)](equipment/ClanAP79_details.md)|Critical slots: 1|1.0 tons|3055|ClanAP79
@@ -394,7 +409,7 @@ Name|Size|Weight|Year|Asset Name
 [Guardian ECM](equipment/GuardianECM_details.md)|Critical slots: 2|1.5 tons|3045|GuardianECM
 [ECM (C)](equipment/ClanECM79_details.md)|Critical slots: 1|1.0 tons|3055|ClanECM79
 [Angel ECM](equipment/ANGEL_ECM_details.md)|Critical slots: 2|2.0 tons|3045|ANGEL_ECM
-[Command Console](equipment/COMMAND_CONSOLE_details.md)|Critical slots: 5 (cockpit +  life support +  sensors +  targetting)|3.0 tons|3045|COMMAND_CONSOLE
+[Command Console](equipment/COMMAND_CONSOLE_details.md)|Critical slots: 5 (cockpit +  life support +  sensors +  targeting)|3.0 tons|3045|COMMAND_CONSOLE
 
 ## ARMOR AND STRUCTURE
 
@@ -404,6 +419,7 @@ Name|Size|Weight|Year|Asset Name
 [Armor Ferro (C)](equipment/CFERRO_details.md)|Critical slots: 1 (dynamic: 7) (armor)|0.0 tons|3055|CFERRO
 [Armor Reflective](equipment/ARMOR_GLAZED_details.md)|Critical slots: 1 (dynamic: 10) (armor)|0.0 tons|3058|ARMOR_GLAZED
 [Armor Reactive](equipment/ARMOR_REACTIVE_details.md)|Critical slots: 1 (dynamic: 10) (armor)|0.0 tons|3063|ARMOR_REACTIVE
+[Armor Stealth](equipment/ARMOR_STEALTH_details.md)|Critical slots: 1 (fixed: 12) (armor)|0.0 tons|3053|ARMOR_STEALTH
 [Structure Endo](equipment/ENDO_details.md)|Critical slots: 1 (dynamic: 14) (structure)|0.0 tons|3035|ENDO
 [Armor Ferro](equipment/FERRO_details.md)|Critical slots: 1 (dynamic: 14) (armor)|0.0 tons|3035|FERRO
 [Armor Hardened](equipment/HARDENED_details.md)|Critical slots: 1 (armor)|0.0 tons|3047|HARDENED
@@ -432,12 +448,13 @@ Name|Size|Weight|Year|Asset Name
 [Modular Armor Mk III Rear](equipment/MODULAR_ARMOR_MK3_REAR_details.md)|Critical slots: 1|0.75 tons|3015|MODULAR_ARMOR_MK3_REAR
 [Modular Armor Mk IV](equipment/MODULAR_ARMOR_MK4_FRONT_details.md)|Critical slots: 1|1.0 tons|3015|MODULAR_ARMOR_MK4_FRONT
 [Modular Armor Mk IV Rear](equipment/MODULAR_ARMOR_MK4_REAR_details.md)|Critical slots: 1|1.0 tons|3015|MODULAR_ARMOR_MK4_REAR
+[Modular Ferro Mk I](equipment/MODULAR_FERRO_MK1_details.md)|Critical slots: 1|0.0 tons|3015|MODULAR_FERRO_MK1
+[Modular Ferro Mk II](equipment/MODULAR_FERRO_MK2_details.md)|Critical slots: 1|0.0 tons|3015|MODULAR_FERRO_MK2
+[Modular Ferro Mk III](equipment/MODULAR_FERRO_MK3_details.md)|Critical slots: 2|0.0 tons|3015|MODULAR_FERRO_MK3
+[Modular Ferro Mk IV](equipment/MODULAR_FERRO_MK4_details.md)|Critical slots: 2|0.0 tons|3015|MODULAR_FERRO_MK4
 [Patchwork Tier I](equipment/PATCHWORK_T1_details.md)|Critical slots: 1|-0.2 tons|3015|PATCHWORK_T1
-[Patchwork Ferro Tier I](equipment/PATCHWORK_T1_FERRO_details.md)|Critical slots: 1|0.0 tons|3035|PATCHWORK_T1_FERRO
 [Patchwork Tier II](equipment/PATCHWORK_T2_details.md)|Critical slots: 2|-0.4 tons|3015|PATCHWORK_T2
-[Patchwork Ferro Tier II](equipment/PATCHWORK_T2_FERRO_details.md)|Critical slots: 2|0.0 tons|3035|PATCHWORK_T2_FERRO
 [Patchwork Tier III](equipment/PATCHWORK_T3_details.md)|Critical slots: 3|-0.6 tons|3015|PATCHWORK_T3
-[Patchwork Ferro Tier III](equipment/PATCHWORK_T3_FERRO_details.md)|Critical slots: 3|0.0 tons|3035|PATCHWORK_T3_FERRO
 [Armor Duralast (QS)](equipment/ARMOR_DURALAST_QS_details.md)|Critical slots: 1 (fixed: 8) (armor)|0.0 tons|3045|ARMOR_DURALAST_QS
 [Armor Ferro (QS)](equipment/ARMOR_FERRO_QS_details.md)|Critical slots: 1 (dynamic: 4, fixed: 8) (armor)|0.0 tons|3045|ARMOR_FERRO_QS
 [Structure Endo (QS)](equipment/ENDO_QS_details.md)|Critical slots: 1 (dynamic: 10) (structure)|0.0 tons|3045|ENDO_QS
@@ -449,7 +466,7 @@ Name|Size|Weight|Year|Asset Name
 [Structure Endo-Composite (C)](equipment/ENDO_COMPOSITE_STRUCTURE_CLAN_details.md)|Critical slots: 1 (dynamic: 3) (structure)|0.0 tons|3067|ENDO_COMPOSITE_STRUCTURE_CLAN
 [Structure Endo Prototype](equipment/ENDO_PROTOTYPE_details.md)|Critical slots: 1 (dynamic: 16) (structure)|0.0 tons|2480|ENDO_PROTOTYPE
 [Structure Endo-TSM](equipment/ENDO_TSM_details.md)|Critical slots: 1 (dynamic: 12) (structure)|0.0 tons|3067|ENDO_TSM
-[Armor NSS](equipment/ARMOR_NSS_details.md)|Critical slots: 1 (fixed: 6) (armor)|0.0 tons|3045|ARMOR_NSS
+[Armor NSS](equipment/ARMOR_NSS_details.md)|Critical slots: 1 (fixed: 7) (armor)|0.0 tons|3045|ARMOR_NSS
 
 ## MISC EQUIPMENT
 
@@ -461,31 +478,33 @@ Name|Size|Weight|Year|Asset Name
 [C.A.S.E. II](equipment/CASE_II_details.md)|Critical slots: 1|1.0 tons|3062|CASE_II
 [Test Equip 1](equipment/TEST_EQUIP_1_details.md)|Critical slots: 1 (shoulder +  upper arm +  lower arm)|0.0 tons|3000|TEST_EQUIP_1
 [Battle Fist](equipment/BATTLE_FIST_details.md)|Critical slots: 1 (hand)|1% of 'mech tonnage|3015|BATTLE_FIST
-[Cooling Jacket](equipment/COOLING_JACKET_details.md)|Critical slots: 2 (upper arm +  shoulder)|0.0 tons|3015|COOLING_JACKET
-[Hip Armored](equipment/HIP_ARMORED_details.md)|Critical slots: 1 (hip)|1% of 'mech tonnage|3015|HIP_ARMORED
-[Improved Actuators](equipment/IMPROVED_ACTUATORS_details.md)|Critical slots: 3 (shoulder +  upper arm +  lower arm)|0.0 tons|3015|IMPROVED_ACTUATORS
-[Interlinked Myomer](equipment/INTERLINKED_MYOMER_LEG_details.md)|Critical slots: 1 (lower leg)|1% of 'mech tonnage|3015|INTERLINKED_MYOMER_LEG
-[Lower Melee](equipment/LOWER_MELEE_details.md)|Critical slots: 1 (lower arm)|1% of 'mech tonnage|3015|LOWER_MELEE
-[Machined Pivot Point](equipment/MACHINED_PIVOT_POINT_details.md)|Critical slots: 1 (foot)|1% of 'mech tonnage|3015|MACHINED_PIVOT_POINT
-[Reinforced Legs](equipment/RE_INFORCED_LEGS_details.md)|Critical slots: 4 (lower leg +  hip +  upper leg +  foot)|1% of 'mech tonnage|3015|RE_INFORCED_LEGS
-[Shoulder Armored](equipment/SHOULDER_ARMORED_details.md)|Critical slots: 1 (shoulder)|1% of 'mech tonnage|3015|SHOULDER_ARMORED
+[Compact Internals](equipment/CONDENSED_MYOMER_details.md)|Critical slots: 1 (upper leg +  lower leg +  hip)|0.0 tons|3048|CONDENSED_MYOMER
+[Cooling Jacket](equipment/COOLING_JACKET_details.md)|Critical slots: 2 (upper arm +  shoulder)|0.0 tons|3025|COOLING_JACKET
+[Alu-Ceramic Joint](equipment/HIP_ARMORED_details.md)|Critical slots: 1 (hip)|1% of 'mech tonnage|3055|HIP_ARMORED
+[Improved Actuators](equipment/IMPROVED_ACTUATORS_details.md)|Critical slots: 3 (shoulder +  upper arm +  lower arm)|0.0 tons|3025|IMPROVED_ACTUATORS
+[Coupled Myomer Bundles](equipment/INTERLINKED_MYOMER_LEG_details.md)|Critical slots: 1 (lower leg)|1% of 'mech tonnage|3055|INTERLINKED_MYOMER_LEG
+[Shunted Servos](equipment/LOWER_MELEE_details.md)|Critical slots: 1 (lower arm)|1% of 'mech tonnage|3055|LOWER_MELEE
+[Modified Articulation](equipment/MACHINED_PIVOT_POINT_details.md)|Critical slots: 1 (foot)|1% of 'mech tonnage|3025|MACHINED_PIVOT_POINT
+[Reinforced Legs](equipment/RE_INFORCED_LEGS_details.md)|Critical slots: 4 (lower leg +  hip +  upper leg +  foot)|1% of 'mech tonnage|3027|RE_INFORCED_LEGS
+[Alu-Ceramic Coupling](equipment/SHOULDER_ARMORED_details.md)|Critical slots: 1 (shoulder)|1% of 'mech tonnage|3055|SHOULDER_ARMORED
 [Spiked Fist](equipment/SPIKED_FIST_details.md)|Critical slots: 2 (hand)|2.5% of 'mech tonnage|3015|SPIKED_FIST
-[Upper Armored](equipment/UPPER_ARMORED_details.md)|Critical slots: 2 (upper arm +  shoulder)|1% of 'mech tonnage|3015|UPPER_ARMORED
-[Upper Hardened](equipment/UPPER_HARD_ENED_details.md)|Critical slots: 2 (upper arm +  shoulder)|1% of 'mech tonnage|3015|UPPER_HARD_ENED
-[Upper Melee](equipment/UPPER_MELEE_details.md)|Critical slots: 2 (upper arm +  shoulder)|1% of 'mech tonnage|3015|UPPER_MELEE
-[Upper Spiked](equipment/UPPER_SPIKED_details.md)|Critical slots: 2 (upper arm +  shoulder)|1% of 'mech tonnage|3015|UPPER_SPIKED
-[Weapon Mount](equipment/WEAPON_MOUNT_details.md)|Critical slots: 1 (upper arm)|1% of 'mech tonnage|3015|WEAPON_MOUNT
-[Weapon Mount Heat](equipment/WEAPON_MOUNT_HEAT_details.md)|Critical slots: 1 (upper arm)|1% of 'mech tonnage|3015|WEAPON_MOUNT_HEAT
-[Weapon Mount Recoil](equipment/WEAPON_MOUNT_RECOIL_details.md)|Critical slots: 1 (upper arm)|1% of 'mech tonnage|3015|WEAPON_MOUNT_RECOIL
-[Slic Suite](equipment/SLIC_SUITE_details.md)|Critical slots: 1 (cockpit)|0.0 tons|3055|SLIC_SUITE
+[Thermal Transfer Duct](equipment/THERMAL_TRANSFER_DUCT_details.md)|Critical slots: 1 (upper leg)|0.5 tons|3025|THERMAL_TRANSFER_DUCT
+[Alu-Ceramic Sleeve](equipment/UPPER_ARMORED_details.md)|Critical slots: 2 (upper arm +  shoulder)|1% of 'mech tonnage|3055|UPPER_ARMORED
+[Hardened Carbide Weave](equipment/UPPER_HARD_ENED_details.md)|Critical slots: 2 (upper arm +  shoulder)|1% of 'mech tonnage|3055|UPPER_HARD_ENED
+[Shunted Solenoids](equipment/UPPER_MELEE_details.md)|Critical slots: 2 (upper arm +  shoulder)|1% of 'mech tonnage|3055|UPPER_MELEE
+[Combat Plating](equipment/UPPER_SPIKED_details.md)|Critical slots: 2 (upper arm +  shoulder)|1% of 'mech tonnage|3015|UPPER_SPIKED
+[Weapon Stabilizers](equipment/WEAPON_MOUNT_details.md)|Critical slots: 1 (upper arm)|1% of 'mech tonnage|3025|WEAPON_MOUNT
+[Exothermic Housing](equipment/WEAPON_MOUNT_HEAT_details.md)|Critical slots: 1 (upper arm)|1% of 'mech tonnage|3025|WEAPON_MOUNT_HEAT
+[Weapon Compensators](equipment/WEAPON_MOUNT_RECOIL_details.md)|Critical slots: 1 (upper arm)|1% of 'mech tonnage|3025|WEAPON_MOUNT_RECOIL
 [Cockpit Armored](equipment/COCKPIT_ARMORED_details.md)|Critical slots: 1 (cockpit)|1.0 tons|3059|COCKPIT_ARMORED
 [Cockpit Hotseat](equipment/COCKPIT_HOTSEAT_details.md)|Critical slots: 1 (dynamic: 6) (cockpit)|0.0 tons|3055|COCKPIT_HOTSEAT
 [Cockpit Primitive](equipment/COCKPIT_PRIMITIVE_details.md)|Critical slots: 1 (cockpit)|2.0 tons|2464|COCKPIT_PRIMITIVE
 [Cockpit Small Advanced](equipment/COCKPIT_SMALL_ADVANCED_details.md)|Critical slots: 1 (cockpit +  life support)|-1.0 tons|3055|COCKPIT_SMALL_ADVANCED
-[Evasion Support](equipment/EVASION_SUPPORT_1_details.md)|Critical slots: 1 (life support)|0.0 tons|3030|EVASION_SUPPORT_1
-[Heat Management Support](equipment/HEAT_MANAGEMENT_SUPPORT_1_details.md)|Critical slots: 1 (life support)|0.0 tons|3030|HEAT_MANAGEMENT_SUPPORT_1
-[Improved Life Support](equipment/IMPROVED_LIFE_SUPPORT_details.md)|Critical slots: 1 (life support)|0.0 tons|3059|IMPROVED_LIFE_SUPPORT
-[Shielding Support](equipment/SHIELDING_SUPPORT_1_details.md)|Critical slots: 1 (life support)|0.0 tons|3030|SHIELDING_SUPPORT_1
+[Slic Suite](equipment/SLIC_SUITE_details.md)|Critical slots: 1 (cockpit)|0.0 tons|3055|SLIC_SUITE
+[Retrofit Support (Evasion)](equipment/EVASION_SUPPORT_1_details.md)|Critical slots: 1 (life support)|0.0 tons|3030|EVASION_SUPPORT_1
+[Retrofit Support (Heat)](equipment/HEAT_MANAGEMENT_SUPPORT_1_details.md)|Critical slots: 1 (life support)|0.0 tons|3030|HEAT_MANAGEMENT_SUPPORT_1
+[Retrofit Support (Life)](equipment/IMPROVED_LIFE_SUPPORT_details.md)|Critical slots: 1 (life support)|0.0 tons|3059|IMPROVED_LIFE_SUPPORT
+[Retrofit Support (Shielding)](equipment/SHIELDING_SUPPORT_1_details.md)|Critical slots: 1 (life support)|0.0 tons|3030|SHIELDING_SUPPORT_1
 [Turret Mount](equipment/TURRET_MOUNT_details.md)|Critical slots: 1|1.0 tons|3032|TURRET_MOUNT
 [C.A.S.E. II (QS)](equipment/CASE_II_QS_details.md)|Critical slots: 1|0.8 tons|3045|CASE_II_QS
 [Compact Actuators Hand (QS)](equipment/COMPACT_ACTUATOR_HAND_QS_details.md)|Critical slots: 1 (shoulder +  upper arm +  lower arm +  hand)|0.0 tons|3045|COMPACT_ACTUATOR_HAND_QS
@@ -495,6 +514,8 @@ Name|Size|Weight|Year|Asset Name
 [Coolant Pod](equipment/CoolantPodCharge_79_details.md)|Critical slots: 1|1.0 tons|3049|CoolantPodCharge_79
 [Advanced UAV Drone](equipment/UAVDroneAdv_79_details.md)|Critical slots: 1|1.0 tons|3038|UAVDroneAdv_79
 [UAV Drone](equipment/UAVDrone_79_details.md)|Critical slots: 1|1.0 tons|3015|UAVDrone_79
+[AES & CDP Framework](equipment/AES_CDP_details.md)|Critical slots: 1 (upper leg)|0.5 tons|3068|AES_CDP
+[S.R. Guided Telemetry](equipment/GUIDED_TELEMETRY_details.md)|Critical slots: 2|1.5 tons|3065|GUIDED_TELEMETRY
 
 ## ENGINES CORES
 
@@ -561,8 +582,10 @@ Name|Size|Weight|Year|Asset Name
 [Engine Core 390](equipment/std390_details.md)|Critical slots: 1|46.0 tons|2025|std390
 [Engine Core 395](equipment/std395_details.md)|Critical slots: 1|49.0 tons|2025|std395
 [Engine Core 400](equipment/std400_details.md)|Critical slots: 1|52.5 tons|2025|std400
-[Engine Core 60](equipment/std60_details.md)|Critical slots: 1|1.5 tons|2025|std60
-[Engine Core 90](equipment/std90_details.md)|Critical slots: 1|3.0 tons|3000|std90
+[Engine Core 060](equipment/std60_details.md)|Critical slots: 1|1.5 tons|2025|std60
+[Engine Core 070](equipment/std70_details.md)|Critical slots: 1|1.5 tons|2025|std70
+[Engine Core 080](equipment/std80_details.md)|Critical slots: 1|2.5 tons|2025|std80
+[Engine Core 090](equipment/std90_details.md)|Critical slots: 1|3.0 tons|2025|std90
 
 ## ENGINE TYPES
 
@@ -575,5 +598,10 @@ Name|Size|Weight|Year|Asset Name
 [Primitive Engine](equipment/ENGINE_PRIMITIVE_details.md)|Critical slots: 4|0.0 tons|2024|ENGINE_PRIMITIVE
 [XL Engine](equipment/ENGINE_XL_details.md)|Critical slots: 4 (fixed: 6)|-50% of engine tonnage|3035|ENGINE_XL
 [XXL Engine](equipment/ENGINE_XXL_details.md)|Critical slots: 4 (fixed: 12)|-66.7% of engine tonnage|3055|ENGINE_XXL
+[Light Engine Prototype](equipment/ENGINE_LIGHT_PROTO_details.md)|Critical slots: 4 (fixed: 4)|-40% of engine tonnage|3035|ENGINE_LIGHT_PROTO
+[XL Engine Prototype](equipment/ENGINE_XL_PROTO_details.md)|Critical slots: 6|-50% of engine tonnage|3035|ENGINE_XL_PROTO
+[Pirate Fuel Cell](equipment/ENGINE_FUEL_CELL_PIRATE_details.md)|Critical slots: 5 (fixed: 4)|40% of engine tonnage|3035|ENGINE_FUEL_CELL_PIRATE
 [XL Engine I.C. (QS)](equipment/ENGINE_IC_XL_QS_details.md)|Critical slots: 4 (fixed: 12)|0.0 tons|3045|ENGINE_IC_XL_QS
+[Light Engine (QS)](equipment/ENGINE_LIGHT_QS_details.md)|Critical slots: 4 (fixed: 6)|-15% of engine tonnage|3045|ENGINE_LIGHT_QS
 [XL Engine!! (QS)](equipment/ENGINE_XL_QS_details.md)|Critical slots: 4 (fixed: 8)|-45% of engine tonnage|3045|ENGINE_XL_QS
+[Pirate Engine](equipment/ENGINE_PIRATE_details.md)|Critical slots: 4 (fixed: 4)|-15% of engine tonnage|2830|ENGINE_PIRATE

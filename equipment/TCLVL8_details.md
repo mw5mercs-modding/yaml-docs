@@ -10,13 +10,14 @@ Weight: 8.0 tons
 
 Base Price: 1,750,000 cbills
 
-Intro year: 1
+Intro year: 3062
 
 ## Properties
+* Required Mechlab Level: 3.0 
 * Weapon projectile speed modifier: +50.0 %
 * Weapon cooldown modifier: -25.0 %
 * Weapon min range modifier: -60.0 %
 * Weapon optimal range modifier: +30.0 %
 * Weapon max range modifier: +30.0 %
 * Weapon beam duration modifier: -35.0 %
-* Predictive ballistic targetting
+* Predictive ballistic targeting

@@ -1,6 +1,6 @@
 # AC/10 Ammo Double (C)
 
-`C79AC10_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`C79AC10_Standard_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan Autocannon/10.
 

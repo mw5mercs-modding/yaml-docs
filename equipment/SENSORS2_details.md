@@ -13,5 +13,7 @@ Base Price: 350,000 cbills
 Intro year: 3030
 
 ## Properties
+* Enhanced IR And Thermals
+* Required Mechlab Level: 4.0 
 * Sensor range modifier: +25.0 %
 * Sensor field of view: 360.0 degrees

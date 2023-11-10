@@ -23,5 +23,5 @@ Intro year: 3059
 * Self-repair interval: 1.0 sec
 * Self-repair scope: component 
 * Self-repair degradation factor: -2.0 %
-* Self-repair armor value: 6.4 
+* Self-repair armor value: 2 
 * Self-repair structure value: 0.8 

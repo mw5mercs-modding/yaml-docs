@@ -1,6 +1,6 @@
 # Arrow IV Ammo Double
 
-`ArrowIV_AmmoEquipment79_Double` (Yet Another Equipment Collection)
+`ArrowIV_AmmoEquipment79_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Arrow IV missile launchers.
 

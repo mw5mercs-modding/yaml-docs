@@ -1,6 +1,6 @@
 # LBX/2 Ammo Double (C)
 
-`CAC2_LBX_79_Standard_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`CAC2_LBX_79_Standard_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan LB 2-X Autocannon.
 

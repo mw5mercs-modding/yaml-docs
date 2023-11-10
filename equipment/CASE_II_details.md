@@ -13,4 +13,5 @@ Base Price: 175,000 cbills
 Intro year: 3062
 
 ## Properties
+* Required Mechlab Level: 4.0 
 * C.A.S.E. II reduces component internal explosion damage to 2

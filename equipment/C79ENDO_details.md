@@ -13,5 +13,6 @@ Base Price: 2,000,000 cbills
 Intro year: 3055
 
 ## Properties
+* Required Mechlab Level: 6.0 
 * Structure repair cost: +300.0 %
 * Structure repair time: +300.0 %

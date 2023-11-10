@@ -1,6 +1,6 @@
 # SRM Artemis Ammo Double
 
-`SRM_Artemis_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`SRM_Artemis_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Artemis IV equipped short-range missile launchers.
 

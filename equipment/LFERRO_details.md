@@ -13,5 +13,6 @@ Base Price: 200,000 cbills
 Intro year: 3062
 
 ## Properties
+* Required Mechlab Level: 4.0 
 * Armor repair cost: +25.0 %
 * Armor repair time: +25.0 %

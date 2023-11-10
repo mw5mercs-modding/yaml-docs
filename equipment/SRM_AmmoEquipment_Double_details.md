@@ -1,6 +1,6 @@
 # SRM Ammo Double
 
-`SRM_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`SRM_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the standard short-range missile launchers.
 

@@ -13,6 +13,7 @@ Base Price: 1,000,000 cbills
 Intro year: 3067
 
 ## Properties
+* Required Mechlab Level: 4.0 
 * Component structure modifier: +30.0 %
 * Torso twist angle modifier: +10.0 %
 * Torso twist rate modifier: +10.0 %

@@ -1,6 +1,6 @@
 # LRM Streak Ammo Double (C)
 
-`C79LRM_Streak_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`C79LRM_Streak_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan Streak long-range missile launchers.
 

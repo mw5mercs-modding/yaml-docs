@@ -1,6 +1,6 @@
 # LRM Ammo Double
 
-`LRM_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`LRM_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the standard long-range missile launchers.
 

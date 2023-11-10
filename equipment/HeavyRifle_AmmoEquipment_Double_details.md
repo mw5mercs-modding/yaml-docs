@@ -1,6 +1,6 @@
 # Heavy Rifle Ammo Double
 
-`HeavyRifle_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`HeavyRifle_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Heavy Rifle.
 

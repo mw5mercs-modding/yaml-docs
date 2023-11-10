@@ -1,6 +1,6 @@
 # Streak SRM Ammo Double
 
-`SRM_Streak_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`SRM_Streak_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the streak short-range missile launchers.
 

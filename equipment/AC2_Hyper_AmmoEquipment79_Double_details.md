@@ -1,6 +1,6 @@
 # Hypervelocity AC/2 Ammo Double
 
-`AC2_Hyper_AmmoEquipment79_Double` (Yet Another Equipment Collection)
+`AC2_Hyper_AmmoEquipment79_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Hypervelocity Autocannon/2.
 

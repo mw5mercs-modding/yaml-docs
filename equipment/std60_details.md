@@ -1,4 +1,4 @@
-# Engine Core 60
+# Engine Core 060
 
 `std60` (Yet Another Mechlab)
 
@@ -14,3 +14,5 @@ Base Price: 502,000 cbills
 
 Intro year: 2025
 
+## Properties
+* Required Mechlab Level: 3.0 

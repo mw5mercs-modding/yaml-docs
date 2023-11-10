@@ -1,6 +1,6 @@
 # LBX/10 Ammo Double
 
-`AC10_LBX_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`AC10_LBX_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the LB 10-X Autocannon.
 

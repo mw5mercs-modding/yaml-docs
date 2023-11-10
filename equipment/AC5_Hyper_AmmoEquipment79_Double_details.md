@@ -1,6 +1,6 @@
 # Hypervelocity AC/5 Ammo Double
 
-`AC5_Hyper_AmmoEquipment79_Double` (Yet Another Equipment Collection)
+`AC5_Hyper_AmmoEquipment79_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Hypervelocity Autocannon/5.
 

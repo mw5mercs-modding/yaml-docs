@@ -1,6 +1,6 @@
 # ATM Ammo Double (C)
 
-`C79ATM_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`C79ATM_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan Advanced Tactical Missile launchers.
 

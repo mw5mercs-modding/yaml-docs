@@ -1,6 +1,6 @@
 # Light Machine Gun Ammo Double (C)
 
-`CMachineGun79_Light_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`CMachineGun79_Light_AmmoEquipment_Double` (Yet Another Weapon Clan)
 
 A double bin of ammunition for the Clan Light Machine Gun.
 

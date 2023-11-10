@@ -1,6 +1,6 @@
 # Light AC/2 Ammo Double
 
-`AC2_Light_79_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`AC2_Light_79_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Light Autocannon/2.
 

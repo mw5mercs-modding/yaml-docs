@@ -1,6 +1,6 @@
 # MRM Ammo Double
 
-`MRM_AmmoEquipment79_Double` (Yet Another Equipment Collection)
+`MRM_AmmoEquipment79_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the medium-range missile launchers.
 

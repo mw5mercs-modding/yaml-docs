@@ -1,6 +1,6 @@
 # L Chem Laser Ammo Double
 
-`LargeChemLaser_AmmoEquipment_Double` (Yet Another Equipment Collection)
+`LargeChemLaser_AmmoEquipment_Double` (Yet Another Weapon)
 
 A double bin of ammunition for the Large Chemical Laser.
 
