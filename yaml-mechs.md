@@ -17,7 +17,7 @@ The following list contains a total of 1,790 'mech variants from Mechwarrior 5 w
 * Yet Another Special Variant (by trueg)
 * YetAnotherClanMech (by cszolee79 and trueg)
 ## Light Mechs
-||3049|2073|0|14|0|0|0|0|0|||
+
 ### Flea (15t)
 |Variant|Intro Date|Battle Value|Salvage|Salvage V2|Ballistic|Energy|Missile|AMS|Melee|Quirks|Mod|
 |---|---|---|---|---|---|---|---|---|---|---|---|
